@@ -1,0 +1,642 @@
+[
+{
+"id": 1723207972622,
+"def_fr": "jouet",
+"sent_fr": "Le rayon des <b>jouets</b> est au cinquième étage."
+},
+{
+"id": 1723207972623,
+"def_fr": "brochure, dépliant",
+"sent_fr": "J'achèterai un ordinateur après avoir lu la <b>brochure</b>."
+},
+{
+"id": 1723207972624,
+"def_fr": "fabriqué au Japon, de fabrication japonaise",
+"sent_fr": "C'est un téléviseur <b>fabriqué au Japon</b>."
+},
+{
+"id": 1723207972625,
+"def_fr": "vrai, authentique, véritable",
+"sent_fr": "Si c'est un <b>vrai</b>, je veux l'acheter même s'il est cher."
+},
+{
+"id": 1723207972626,
+"def_fr": "endroit, lieu",
+"sent_fr": "Il y a beaucoup d'<b>endroits</b> où j'aimerais aller."
+},
+{
+"id": 1723207972627,
+"def_fr": "devant la gare",
+"sent_fr": "Un nouveau supermarché a ouvert <b>devant la gare</b>."
+},
+{
+"id": 1723207972628,
+"def_fr": "poste de police de quartier, koban",
+"sent_fr": "J'ai demandé mon chemin au <b>poste de police</b> devant la gare."
+},
+{
+"id": 1723207972629,
+"def_fr": "mairie",
+"sent_fr": "Il y a un bus qui va de la gare à la <b>mairie</b>."
+},
+{
+"id": 1723207972630,
+"def_fr": "arrêt de bus",
+"sent_fr": "Il y a un <b>arrêt de bus</b> juste à côté de chez moi."
+},
+{
+"id": 1723207972631,
+"def_fr": "place, esplanade, terrain dégagé",
+"sent_fr": "Jouons avec les enfants sur l'<b>esplanade</b>."
+},
+{
+"id": 1723207972632,
+"def_fr": "château",
+"sent_fr": "Ce <b>château</b> a été construit il y a 450 ans."
+},
+{
+"id": 1723207972633,
+"def_fr": "sanctuaire (shinto)",
+"sent_fr": "Pour le Nouvel An, je suis allé au <b>sanctuaire</b> avec un ami."
+},
+{
+"id": 1723207972634,
+"def_fr": "église",
+"sent_fr": "Il y a une vieille <b>église</b> dans mon quartier."
+},
+{
+"id": 1723207972635,
+"def_fr": "port",
+"sent_fr": "De temps en temps, je me promène jusqu'au <b>port</b>."
+},
+{
+"id": 1723207972636,
+"def_fr": "zoo",
+"sent_fr": "Je vais au <b>zoo</b> voir les pandas."
+},
+{
+"id": 1723207972637,
+"def_fr": "musée d'art",
+"sent_fr": "Pendant mes jours de congé, je vais souvent au <b>musée d'art</b>."
+},
+{
+"id": 1723207972638,
+"def_fr": "parc d'attractions",
+"sent_fr": "Dimanche, nous allons au <b>parc d'attractions</b> en famille."
+},
+{
+"id": 1723207972639,
+"def_fr": "station de ski",
+"sent_fr": "Nous arrivons à la <b>station de ski</b> dans une heure."
+},
+{
+"id": 1723207972640,
+"def_fr": "source chaude, onsen",
+"sent_fr": "Il y a beaucoup de <b>sources chaudes</b> au Japon."
+},
+{
+"id": 1723207972641,
+"def_fr": "parking",
+"sent_fr": "L'immeuble a un grand <b>parking</b>."
+},
+{
+"id": 1723207972642,
+"def_fr": "toit, toit-terrasse",
+"sent_fr": "On ne peut pas sortir sur le <b>toit</b> de cet immeuble."
+},
+{
+"id": 1723207972643,
+"def_fr": "sous-sol",
+"sent_fr": "J'achète un gâteau au <b>sous-sol</b> du grand magasin."
+},
+{
+"id": 1723207972644,
+"def_fr": "campagne",
+"sent_fr": "Je voudrais vivre à la <b>campagne</b>."
+},
+{
+"id": 1723207972645,
+"def_fr": "banlieue",
+"sent_fr": "L'an dernier, j'ai déménagé en <b>banlieue</b> de Tokyo."
+},
+{
+"id": 1723207972646,
+"def_fr": "dialecte",
+"sent_fr": "Dans ma campagne, il y a un <b>dialecte</b>."
+},
+{
+"id": 1723207972647,
+"def_fr": "défense de fumer",
+"sent_fr": "Il est <b>interdit de fumer</b> ici, alors faites donc cela là-bas."
+},
+{
+"id": 1723207972648,
+"def_fr": "accès interdit, défense d'entrer",
+"sent_fr": "<b>Accès interdit</b> ici."
+},
+{
+"id": 1723207972649,
+"def_fr": "rue, avenue",
+"sent_fr": "C'est la <b>rue</b> la plus large de la ville."
+},
+{
+"id": 1723207972650,
+"def_fr": "côté droit",
+"sent_fr": "Il y a une banque du <b>côté droit</b> de cette route."
+},
+{
+"id": 1723207972651,
+"def_fr": "entre, intervalle",
+"sent_fr": "Il y a un café <b>entre</b> le fleuriste et la librairie."
+},
+{
+"id": 1723207972652,
+"def_fr": "milieu, centre",
+"sent_fr": "Il y a un grand parc au <b>centre</b> de la ville."
+},
+{
+"id": 1723207972653,
+"def_fr": "de l'autre côté, au-delà",
+"sent_fr": "Un hôtel a ouvert <b>de l'autre côté</b> de la montagne."
+},
+{
+"id": 1723207972654,
+"def_fr": "demander, s'enquérir",
+"sent_fr": "Une vieille dame m'a <b>demandé</b> mon chemin."
+},
+{
+"id": 1723207972655,
+"def_fr": "passer (par un endroit), faire un détour, s'arrêter",
+"sent_fr": "Avant d'aller à l'école, je me suis <b>arrêté</b> à la banque."
+},
+{
+"id": 1723207972656,
+"def_fr": "être construit, ouvrir (un bâtiment), se former",
+"sent_fr": "Un grand immeuble a <b>ouvert</b> devant la gare."
+},
+{
+"id": 1723207972657,
+"def_fr": "prévisions météo, météo",
+"sent_fr": "Tous les matins, je regarde la <b>météo</b>."
+},
+{
+"id": 1723207972658,
+"def_fr": "ciel bleu",
+"sent_fr": "Aujourd'hui, il y a un très beau <b>ciel bleu</b>."
+},
+{
+"id": 1723207972659,
+"def_fr": "se dégager, faire beau",
+"sent_fr": "Demain, il <b>fera beau</b>, je pense."
+},
+{
+"id": 1723207972660,
+"def_fr": "temps nuageux, ciel couvert",
+"sent_fr": "Cette semaine, le temps est <b>nuageux</b> tous les jours."
+},
+{
+"id": 1723207972661,
+"def_fr": "vent",
+"sent_fr": "À cause du <b>vent</b> fort, les trains se sont arrêtés."
+},
+{
+"id": 1723207972662,
+"def_fr": "souffler",
+"sent_fr": "Aujourd'hui, un vent très fort <b>souffle</b>."
+},
+{
+"id": 1723207972663,
+"def_fr": "cesser, s'arrêter (pluie, etc.)",
+"sent_fr": "La pluie va <b>s'arrêter</b> bientôt, je pense."
+},
+{
+"id": 1723207972664,
+"def_fr": "typhon",
+"sent_fr": "Un gros <b>typhon</b> va peut-être arriver."
+},
+{
+"id": 1723207972665,
+"def_fr": "tonnerre, foudre",
+"sent_fr": "Je déteste le <b>tonnerre</b>."
+},
+{
+"id": 1723207972666,
+"def_fr": "imperméable",
+"sent_fr": "Demain, je sortirai en <b>imperméable</b>."
+},
+{
+"id": 1723207972667,
+"def_fr": "tenir (un parapluie), ouvrir (un parapluie)",
+"sent_fr": "Beaucoup de gens <b>ont ouvert</b> leur parapluie."
+},
+{
+"id": 1723207972668,
+"def_fr": "se mouiller, être mouillé",
+"sent_fr": "Je n'avais pas de parapluie, alors mes vêtements <b>se sont mouillés</b>."
+},
+{
+"id": 1723207972669,
+"def_fr": "vague",
+"sent_fr": "Aujourd'hui, les <b>vagues</b> sont hautes."
+},
+{
+"id": 1723207972670,
+"def_fr": "température (de l'air)",
+"sent_fr": "Aujourd'hui, la <b>température</b> semble devoir monter."
+},
+{
+"id": 1723207972671,
+"def_fr": "se refroidir, avoir froid",
+"sent_fr": "Je suis resté longtemps dehors, alors mon corps <b>s'est refroidi</b>."
+},
+{
+"id": 1723207972672,
+"def_fr": "comparer",
+"sent_fr": "En <b>comparaison</b> du Japon, mon pays est très froid."
+},
+{
+"id": 1723207972673,
+"def_fr": "tremblement de terre, séisme",
+"sent_fr": "Il y a eu un petit <b>séisme</b> hier soir."
+},
+{
+"id": 1723207972674,
+"def_fr": "tsunami",
+"sent_fr": "Lors d'un séisme, on s'inquiète des <b>tsunamis</b>."
+},
+{
+"id": 1723207972675,
+"def_fr": "soleil",
+"sent_fr": "En été, le <b>soleil</b> monte très haut."
+},
+{
+"id": 1723207972676,
+"def_fr": "ciel",
+"sent_fr": "C'est un beau <b>ciel</b> sans nuages."
+},
+{
+"id": 1723207972677,
+"def_fr": "lune",
+"sent_fr": "Ce soir, la <b>lune</b> paraît brillante."
+},
+{
+"id": 1723207972678,
+"def_fr": "étoile",
+"sent_fr": "Ce soir, on voit beaucoup d'<b>étoiles</b>."
+},
+{
+"id": 1723207972679,
+"def_fr": "briller, luire",
+"sent_fr": "Les étoiles <b>brillent</b>, c'est joli."
+},
+{
+"id": 1723207972680,
+"def_fr": "espace, univers, cosmos",
+"sent_fr": "Un jour, j'aimerais aller dans l'<b>espace</b>."
+},
+{
+"id": 1723207972681,
+"def_fr": "air, atmosphère",
+"sent_fr": "À la campagne, l'<b>air</b> est très bon."
+},
+{
+"id": 1723207972682,
+"def_fr": "île",
+"sent_fr": "Il paraît qu'il y a 6 800 <b>îles</b> au Japon."
+},
+{
+"id": 1723207972683,
+"def_fr": "plage, côte, littoral",
+"sent_fr": "Cette ville a une belle <b>plage</b>."
+},
+{
+"id": 1723207972684,
+"def_fr": "bois, petite forêt",
+"sent_fr": "Il y a toutes sortes d'animaux dans le <b>bois</b>."
+},
+{
+"id": 1723207972685,
+"def_fr": "lac",
+"sent_fr": "Il y a un grand <b>lac</b> dans le parc."
+},
+{
+"id": 1723207972686,
+"def_fr": "étang",
+"sent_fr": "Autrefois, je nageais souvent dans cet <b>étang</b>."
+},
+{
+"id": 1723207972687,
+"def_fr": "insecte, bestiole",
+"sent_fr": "J'allais souvent attraper des <b>insectes</b> avec mon grand frère."
+},
+{
+"id": 1723207972688,
+"def_fr": "oiseau",
+"sent_fr": "J'ai été réveillé par le joli chant des <b>oiseaux</b>."
+},
+{
+"id": 1723207972689,
+"def_fr": "saison",
+"sent_fr": "Ma <b>saison</b> préférée est l'automne."
+},
+{
+"id": 1723207972690,
+"def_fr": "feuilles d'automne, feuillage rouge",
+"sent_fr": "C'est bientôt la saison des <b>feuilles d'automne</b>."
+},
+{
+"id": 1723207972691,
+"def_fr": "hanami, contemplation des cerisiers en fleurs",
+"sent_fr": "Ce week-end, j'ai l'intention de faire un <b>hanami</b>."
+},
+{
+"id": 1723207972692,
+"def_fr": "fleurir",
+"sent_fr": "Les fleurs <b>sont écloses</b> dans le parc."
+},
+{
+"id": 1723207972693,
+"def_fr": "feuille",
+"sent_fr": "Les <b>feuilles</b> de cette fleur sont jolies."
+},
+{
+"id": 1723207972694,
+"def_fr": "branche",
+"sent_fr": "Un oiseau est perché sur la <b>branche</b> de l'arbre."
+},
+{
+"id": 1723207972695,
+"def_fr": "se casser, se briser (une branche, etc.)",
+"sent_fr": "L'arbre <b>s'est brisé</b> à cause du typhon."
+},
+{
+"id": 1723207972696,
+"def_fr": "casser, briser, rompre",
+"sent_fr": "Il ne faut pas <b>casser</b> les branches des cerisiers."
+},
+{
+"id": 1723207972697,
+"def_fr": "planter",
+"sent_fr": "J'ai <b>planté</b> un cerisier dans le jardin."
+},
+{
+"id": 1723207972698,
+"def_fr": "Shinkansen, train à grande vitesse",
+"sent_fr": "Il faut environ deux heures et demie pour aller à Osaka en <b>Shinkansen</b>."
+},
+{
+"id": 1723207972699,
+"def_fr": "(train) express",
+"sent_fr": "Il faut environ 15 minutes pour aller à la gare de Tokyo en <b>express</b>."
+},
+{
+"id": 1723207972700,
+"def_fr": "bus de nuit",
+"sent_fr": "Le <b>bus de nuit</b> est arrivé à Kyoto vers 8 h du matin."
+},
+{
+"id": 1723207972701,
+"def_fr": "automobile, voiture",
+"sent_fr": "Les petites <b>voitures</b> ont la cote."
+},
+{
+"id": 1723207972702,
+"def_fr": "moto",
+"sent_fr": "Le week-end, je sors avec un ami à <b>moto</b>."
+},
+{
+"id": 1723207972703,
+"def_fr": "bateau, navire",
+"sent_fr": "Un jour, je voudrais faire le tour du monde en <b>bateau</b>."
+},
+{
+"id": 1723207972704,
+"def_fr": "circulation, transports",
+"sent_fr": "À Tokyo, les <b>transports</b> sont très pratiques."
+},
+{
+"id": 1723207972705,
+"def_fr": "utilisation, usage, utiliser",
+"sent_fr": "J'<b>utilise</b> toujours le métro."
+},
+{
+"id": 1723207972706,
+"def_fr": "descendre (de)",
+"sent_fr": "Je <b>descends</b> du bus ici."
+},
+{
+"id": 1723207972707,
+"def_fr": "changer (de train), prendre une correspondance",
+"sent_fr": "<b>Changez</b> ici pour prendre le métro, s'il vous plaît."
+},
+{
+"id": 1723207972708,
+"def_fr": "heure de pointe",
+"sent_fr": "Dans ce train, on peut s'asseoir même à l'<b>heure de pointe</b>."
+},
+{
+"id": 1723207972709,
+"def_fr": "être bondé, être plein de monde",
+"sent_fr": "Les trains du matin sont vraiment <b>bondés</b>."
+},
+{
+"id": 1723207972710,
+"def_fr": "se vider, devenir libre, être vide",
+"sent_fr": "Ce bus est toujours <b>vide</b>."
+},
+{
+"id": 1723207972711,
+"def_fr": "passer (par), traverser",
+"sent_fr": "Toutes sortes de trains <b>passent</b> par cette gare."
+},
+{
+"id": 1723207972712,
+"def_fr": "dépasser, passer",
+"sent_fr": "Après avoir <b>dépassé</b> la gare A, le train s'est vidé."
+},
+{
+"id": 1723207972713,
+"def_fr": "s'ouvrir",
+"sent_fr": "À la prochaine station, les portes de droite <b>s'ouvriront</b>."
+},
+{
+"id": 1723207972714,
+"def_fr": "ouvrir (qqch)",
+"sent_fr": "Il fait chaud, alors <b>ouvrons</b> la fenêtre."
+},
+{
+"id": 1723207972715,
+"def_fr": "se fermer",
+"sent_fr": "Les portes de droite vont <b>se fermer</b>."
+},
+{
+"id": 1723207972716,
+"def_fr": "fermer (qqch)",
+"sent_fr": "Il fait froid, alors <b>fermez</b> la fenêtre, s'il vous plaît."
+},
+{
+"id": 1723207972717,
+"def_fr": "conducteur, chauffeur",
+"sent_fr": "Quand j'étais enfant, je voulais devenir <b>chauffeur</b> de bus."
+},
+{
+"id": 1723207972718,
+"def_fr": "client, passager",
+"sent_fr": "Ce bus a beaucoup de <b>passagers</b> étrangers."
+},
+{
+"id": 1723207972719,
+"def_fr": "siège, place",
+"sent_fr": "Y a-t-il encore des <b>places</b> dans cet avion ?"
+},
+{
+"id": 1723207972720,
+"def_fr": "adulte",
+"sent_fr": "Deux billets <b>adulte</b> et deux billets enfant, s'il vous plaît."
+},
+{
+"id": 1723207972721,
+"def_fr": "personne âgée, aîné",
+"sent_fr": "Ces places sont réservées aux <b>personnes âgées</b>."
+},
+{
+"id": 1723207972722,
+"def_fr": "avancer, progresser",
+"sent_fr": "La route est embouteillée, alors les voitures ne peuvent pas <b>avancer</b>."
+},
+{
+"id": 1723207972723,
+"def_fr": "se diriger vers, aller vers",
+"sent_fr": "Je me <b>dirige</b> vers l'aéroport en voiture."
+},
+{
+"id": 1723207972724,
+"def_fr": "arrêter (qqch), garer",
+"sent_fr": "Il ne faut pas <b>garer</b> sa voiture près d'un arrêt de bus."
+},
+{
+"id": 1723207972725,
+"def_fr": "s'arrêter, être arrêté",
+"sent_fr": "Un grand bus <b>est arrêté</b> dans la rue."
+},
+{
+"id": 1723207972726,
+"def_fr": "transporter, porter",
+"sent_fr": "<b>Transportez</b> aussi ces bagages avec nous, s'il vous plaît."
+},
+{
+"id": 1723207972727,
+"def_fr": "manipulation, fonctionnement, commande",
+"sent_fr": "On <b>commande</b> les portes de la voiture avec une télécommande."
+},
+{
+"id": 1723207972728,
+"def_fr": "tourner, faire tourner",
+"sent_fr": "Je <b>tourne</b> le volant de la voiture."
+},
+{
+"id": 1723207972729,
+"def_fr": "accident",
+"sent_fr": "Hier, j'ai vu un <b>accident</b> dans la rue."
+},
+{
+"id": 1723207972730,
+"def_fr": "avoir un accident",
+"sent_fr": "J'ai <b>eu un accident</b> à un carrefour."
+},
+{
+"id": 1723207972731,
+"def_fr": "heurter, se cogner, entrer en collision",
+"sent_fr": "Deux taxis se sont <b>heurtés</b> au feu."
+},
+{
+"id": 1723207972732,
+"def_fr": "glisser",
+"sent_fr": "Les jours de neige, on <b>glisse</b> facilement."
+},
+{
+"id": 1723207972733,
+"def_fr": "sécurité, sûr<br>",
+"sent_fr": "La <b>sécurité</b> passe avant tout.<br>"
+},
+{
+"id": 1723207972734,
+"def_fr": "sécurité, sûr<br>",
+"sent_fr": "Prenons une rue <b>sûre</b>.<br>"
+},
+{
+"id": 1723207972735,
+"def_fr": "danger, dangereux<br>",
+"sent_fr": "Ici, il y a un <b>risque</b> d'accident.<br>"
+},
+{
+"id": 1723207972736,
+"def_fr": "danger, dangereux<br>",
+"sent_fr": "Cette route est <b>dangereuse</b> parce qu'il y a beaucoup de voitures.<br>"
+},
+{
+"id": 1723207972737,
+"def_fr": "attention, prudence",
+"sent_fr": "Faisons <b>attention</b> aux voitures comme aux vélos.<br>"
+},
+{
+"id": 1723207972738,
+"def_fr": "attention; avertissement; conseil",
+"sent_fr": "Je suis arrivé en retard et le professeur m'a <b>réprimandé</b>.<br>"
+},
+{
+"id": 1723207972739,
+"def_fr": "bébé",
+"sent_fr": "Ma grande sœur a eu un <b>bébé</b>."
+},
+{
+"id": 1723207972740,
+"def_fr": "panne",
+"sent_fr": "La voiture est de nouveau <b>tombée en panne</b>."
+},
+{
+"id": 1723207972741,
+"def_fr": "en chemin, au milieu de, pendant",
+"sent_fr": "J'ai vu un accident <b>en allant</b> à l'aéroport."
+},
+{
+"id": 1723207972742,
+"def_fr": "à destination de, aller (trajet aller)",
+"sent_fr": "À l'<b>aller</b>, la route était dégagée."
+},
+{
+"id": 1723207972743,
+"def_fr": "retour, trajet de retour",
+"sent_fr": "Au <b>retour</b>, il y avait énormément de monde."
+},
+{
+"id": 1723207972744,
+"def_fr": "essence",
+"sent_fr": "Le prix de l'<b>essence</b> a de nouveau augmenté."
+},
+{
+"id": 1723207972745,
+"def_fr": "moteur",
+"sent_fr": "Le <b>moteur</b> de cette voiture est bruyant."
+},
+{
+"id": 1723207972746,
+"def_fr": "feu (de signalisation)",
+"sent_fr": "Le <b>feu</b> est encore rouge."
+},
+{
+"id": 1723207972747,
+"def_fr": "flèche",
+"sent_fr": "Au musée d'art, avancez en suivant les <b>flèches</b>, s'il vous plaît."
+},
+{
+"id": 1723207972748,
+"def_fr": "kilomètre",
+"sent_fr": "Il y a deux <b>kilomètres</b> d'ici jusqu'à chez elle."
+},
+{
+"id": 1723207972749,
+"def_fr": "population",
+"sent_fr": "La <b>population</b> du Japon diminue."
+}
+]

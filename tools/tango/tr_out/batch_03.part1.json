@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1723207973007,
+  "def_fr": "détaillé; bien informé",
+  "sent_fr": "Les explications de ce dictionnaire sont <b>détaillées</b>."
+ },
+ {
+  "id": 1723207973008,
+  "def_fr": "fin; menu; minutieux",
+  "sent_fr": "Coupez les oignons <b>finement</b>, s'il vous plaît."
+ },
+ {
+  "id": 1723207973009,
+  "def_fr": "effrayant; craintif",
+  "sent_fr": "Quand la nuit tombe, cette route est sombre et <b>effrayante</b>."
+ },
+ {
+  "id": 1723207973010,
+  "def_fr": "incroyable; terrible",
+  "sent_fr": "Hier soir, il est tombé une pluie <b>terrible</b>."
+ },
+ {
+  "id": 1723207973011,
+  "def_fr": "magnifique; splendide",
+  "sent_fr": "Mes études à l'étranger m'ont donné des expériences <b>magnifiques</b>."
+ },
+ {
+  "id": 1723207973012,
+  "def_fr": "correct; juste",
+  "sent_fr": "Je ne sais pas si cette réponse est <b>correcte</b>."
+ },
+ {
+  "id": 1723207973013,
+  "def_fr": "terrible; affreux",
+  "sent_fr": "Hier, j'ai eu une note <b>affreuse</b> au test."
+ },
+ {
+  "id": 1723207973014,
+  "def_fr": "gros; épais",
+  "sent_fr": "Ce radis blanc est vraiment <b>gros</b>."
+ },
+ {
+  "id": 1723207973015,
+  "def_fr": "fin; mince",
+  "sent_fr": "Elle a des jambes vraiment <b>fines</b>."
+ },
+ {
+  "id": 1723207973016,
+  "def_fr": "épais",
+  "sent_fr": "Il fait froid, alors je voudrais un manteau <b>épais</b>."
+ },
+ {
+  "id": 1723207973017,
+  "def_fr": "peu profond",
+  "sent_fr": "Cette rivière est <b>peu profonde</b>, donc les enfants peuvent y jouer."
+ },
+ {
+  "id": 1723207973018,
+  "def_fr": "profond",
+  "sent_fr": "Le milieu de cette piscine est très <b>profond</b>."
+ },
+ {
+  "id": 1723207973019,
+  "def_fr": "avoir sommeil; somnolent",
+  "sent_fr": "J'ai le ventre plein, alors j'ai un peu <b>sommeil</b>."
+ },
+ {
+  "id": 1723207973020,
+  "def_fr": "rare; peu courant",
+  "sent_fr": "Un diamant aussi gros est <b>rare</b>."
+ },
+ {
+  "id": 1723207973021,
+  "def_fr": "augmenter; s'accroître",
+  "sent_fr": "Ce restaurant a de plus en plus de clients étrangers, leur nombre <b>augmente</b> beaucoup."
+ },
+ {
+  "id": 1723207973022,
+  "def_fr": "augmenter (qqch); accroître",
+  "sent_fr": "Je veux travailler à temps partiel pour <b>augmenter</b> mes économies."
+ },
+ {
+  "id": 1723207973023,
+  "def_fr": "diminuer; baisser",
+  "sent_fr": "Au Japon, la population <b>diminue</b>."
+ },
+ {
+  "id": 1723207973024,
+  "def_fr": "diminuer (qqch); réduire",
+  "sent_fr": "J'ai fait de l'exercice et j'ai <b>perdu</b> du poids."
+ },
+ {
+  "id": 1723207973025,
+  "def_fr": "être différent; se tromper; ne pas être exact",
+  "sent_fr": "Ma grande sœur et moi, nous n'allons pas à la même université (<b>différente</b>)."
+ },
+ {
+  "id": 1723207973026,
+  "def_fr": "changer (qqch); modifier",
+  "sent_fr": "Quand le printemps viendra, je <b>changerai</b> de coiffure."
+ },
+ {
+  "id": 1723207973027,
+  "def_fr": "changer; se transformer",
+  "sent_fr": "Après m'être fait couper les cheveux, mon humeur a <b>changé</b>."
+ },
+ {
+  "id": 1723207973028,
+  "def_fr": "être visible; se voir",
+  "sent_fr": "On <b>voit</b> bien le mont Fuji depuis la fenêtre."
+ },
+ {
+  "id": 1723207973029,
+  "def_fr": "s'entendre; être audible",
+  "sent_fr": "On <b>entend</b> des voix d'enfants dans le voisinage."
+ },
+ {
+  "id": 1723207973030,
+  "def_fr": "être libre; être vide; être disponible",
+  "sent_fr": "Cet hôtel est très populaire, donc il n'y a <b>plus de chambre libre</b>."
+ },
+ {
+  "id": 1723207973031,
+  "def_fr": "se détacher; se défaire",
+  "sent_fr": "Un bouton de ma chemise <b>s'est détaché</b>."
+ },
+ {
+  "id": 1723207973032,
+  "def_fr": "se casser; se rompre; se déchirer",
+  "sent_fr": "Le lacet des chaussures de mon petit frère <b>s'est cassé</b>."
+ },
+ {
+  "id": 1723207973033,
+  "def_fr": "journal (entreprise); société de presse",
+  "sent_fr": "À partir du mois prochain, je travaillerai dans un <b>journal</b> à Tokyo."
+ },
+ {
+  "id": 1723207973034,
+  "def_fr": "chaîne de télévision",
+  "sent_fr": "Je voudrais passer le concours d'une <b>chaîne de télévision</b>."
+ },
+ {
+  "id": 1723207973035,
+  "def_fr": "émission (de télévision, de radio)",
+  "sent_fr": "Quel genre d'<b>émissions</b> regardez-vous souvent ?"
+ },
+ {
+  "id": 1723207973036,
+  "def_fr": "actualités en ligne; informations sur Internet",
+  "sent_fr": "Je lis les <b>actualités en ligne</b> tous les jours."
+ },
+ {
+  "id": 1723207973037,
+  "def_fr": "information; renseignements",
+  "sent_fr": "Sur Internet, on peut obtenir tout de suite des <b>informations</b> sur le monde entier."
+ },
+ {
+  "id": 1723207973038,
+  "def_fr": "données",
+  "sent_fr": "J'ai rassemblé des <b>données</b> du monde entier."
+ },
+ {
+  "id": 1723207973039,
+  "def_fr": "mot-clé",
+  "sent_fr": "Notons les <b>mots-clés</b> de l'actualité."
+ },
+ {
+  "id": 1723207973040,
+  "def_fr": "diffusion; émission",
+  "sent_fr": "Cette émission est aussi <b>diffusée</b> à l'étranger."
+ },
+ {
+  "id": 1723207973041,
+  "def_fr": "transmettre; communiquer; annoncer",
+  "sent_fr": "Ils <b>présentent</b> des informations difficiles de façon simple."
+ },
+ {
+  "id": 1723207973042,
+  "def_fr": "incendie",
+  "sent_fr": "Il y a eu un <b>incendie</b> près de la gare."
+ },
+ {
+  "id": 1723207973043,
+  "def_fr": "se produire; arriver (accident)",
+  "sent_fr": "Des accidents <b>se produisent</b> souvent sur cette route."
+ },
+ {
+  "id": 1723207973044,
+  "def_fr": "découverte",
+  "sent_fr": "Un écolier a <b>découvert</b> une nouvelle étoile."
+ },
+ {
+  "id": 1723207973045,
+  "def_fr": "être trouvé; être retrouvé",
+  "sent_fr": "Les documents que j'avais oubliés dans le train ont été <b>retrouvés</b>."
+ },
+ {
+  "id": 1723207973046,
+  "def_fr": "trouver; découvrir; retrouver",
+  "sent_fr": "J'ai <b>retrouvé</b> au parc le chien qui avait disparu."
+ },
+ {
+  "id": 1723207973047,
+  "def_fr": "annonce; présentation; publication",
+  "sent_fr": "Mon écrivain préféré a <b>publié</b> un nouveau roman."
+ },
+ {
+  "id": 1723207973048,
+  "def_fr": "discours",
+  "sent_fr": "Le <b>discours</b> du président était magnifique."
+ },
+ {
+  "id": 1723207973049,
+  "def_fr": "continuer; durer",
+  "sent_fr": "Les jours de pluie <b>durent</b> depuis deux semaines déjà."
+ },
+ {
+  "id": 1723207973050,
+  "def_fr": "continuer (qqch); poursuivre",
+  "sent_fr": "J'ai l'intention de <b>continuer</b> à étudier le japonais."
+ },
+ {
+  "id": 1723207973051,
+  "def_fr": "promesse; rendez-vous",
+  "sent_fr": "J'ai <b>promis</b> à un ami d'aller m'amuser avec lui."
+ },
+ {
+  "id": 1723207973052,
+  "def_fr": "tenir sa promesse",
+  "sent_fr": "On doit <b>tenir ses promesses</b>."
+ },
+ {
+  "id": 1723207973053,
+  "def_fr": "rompre une promesse; manquer à sa parole",
+  "sent_fr": "Ce n'est pas bien de <b>manquer à sa parole</b>."
+ },
+ {
+  "id": 1723207973054,
+  "def_fr": "arriver à temps; être à temps",
+  "sent_fr": "Même en prenant un taxi, je n'<b>arriverai</b> pas <b>à temps</b> pour le concert."
+ },
+ {
+  "id": 1723207973055,
+  "def_fr": "être en retard; retarder",
+  "sent_fr": "J'ai eu une heure de <b>retard</b> à mon rendez-vous galant."
+ },
+ {
+  "id": 1723207973056,
+  "def_fr": "annulation",
+  "sent_fr": "J'ai <b>annulé</b> mon voyage à cause du typhon."
+ },
+ {
+  "id": 1723207973057,
+  "def_fr": "raison; explication; sens",
+  "sent_fr": "Je ne comprends pas la <b>raison</b> pour laquelle ma petite sœur pleure."
+ },
+ {
+  "id": 1723207973058,
+  "def_fr": "inviter; entraîner",
+  "sent_fr": "<b>Invitons</b> aussi Maria à la fête."
+ },
+ {
+  "id": 1723207973059,
+  "def_fr": "contact; communication; avis",
+  "sent_fr": "Je vais <b>prévenir</b> tout le monde de l'heure de la fête."
+ },
+ {
+  "id": 1723207973060,
+  "def_fr": "recevoir un appel; il y a un appel",
+  "sent_fr": "J'ai <b>reçu un appel</b> d'un ami de mon pays."
+ },
+ {
+  "id": 1723207973061,
+  "def_fr": "repas",
+  "sent_fr": "Allons <b>manger</b> tous ensemble la semaine prochaine."
+ },
+ {
+  "id": 1723207973062,
+  "def_fr": "participation",
+  "sent_fr": "Je <b>participerai</b> au voyage d'entreprise de la semaine prochaine."
+ },
+ {
+  "id": 1723207973063,
+  "def_fr": "convenance; circonstances; emploi du temps",
+  "sent_fr": "Dites-moi votre <b>emploi du temps</b> de la semaine prochaine, s'il vous plaît."
+ },
+ {
+  "id": 1723207973064,
+  "def_fr": "projet; programme; prévu",
+  "sent_fr": "Je <b>prévois</b> de voyager à Hokkaido pendant le long week-end."
+ },
+ {
+  "id": 1723207973065,
+  "def_fr": "partenaire; adversaire; interlocuteur; personne en face",
+  "sent_fr": "La <b>personne</b> qui a appelé tout à l'heure est ma mère."
+ },
+ {
+  "id": 1723207973066,
+  "def_fr": "occasion; opportunité",
+  "sent_fr": "Ces derniers temps, j'ai plus d'<b>occasions</b> de boire de l'alcool."
+ },
+ {
+  "id": 1723207973067,
+  "def_fr": "heureux; content",
+  "sent_fr": "Il m'a offert une bague et je suis très <b>heureuse</b>."
+ },
+ {
+  "id": 1723207973068,
+  "def_fr": "rire; sourire",
+  "sent_fr": "Si l'on <b>sourit</b> toujours, de bonnes choses arrivent."
+ },
+ {
+  "id": 1723207973069,
+  "def_fr": "bonheur; chance/heureux; chanceux<br>",
+  "sent_fr": "De quelle couleur pensez-vous que soit le <b>bonheur</b> ?<br>"
+ },
+ {
+  "id": 1723207973070,
+  "def_fr": "bonheur; chance/heureux; chanceux<br>",
+  "sent_fr": "Toute ma famille est en bonne santé et <b>heureuse</b>.<br>"
+ },
+ {
+  "id": 1723207973071,
+  "def_fr": "facile; confortable; à l'aise",
+  "sent_fr": "Je voudrais une chaise <b>confortable</b> pour me reposer à la maison."
+ },
+ {
+  "id": 1723207973072,
+  "def_fr": "soulagement; tranquillité/rassurant; sûr; stable<br>",
+  "sent_fr": "J'ai retrouvé mon portefeuille perdu et je suis <b>soulagé</b>.<br>"
+ },
+ {
+  "id": 1723207973073,
+  "def_fr": "soulagement; tranquillité/rassurant; sûr; stable<br>",
+  "sent_fr": "Ce serait <b>rassurant</b> d'avoir un ami qui habite près de chez moi.<br>"
+ },
+ {
+  "id": 1723207973074,
+  "def_fr": "croire; faire confiance",
+  "sent_fr": "Je <b>crois</b> ce qu'il dit."
+ },
+ {
+  "id": 1723207973075,
+  "def_fr": "prier",
+  "sent_fr": "Je <b>prie</b> pour la paix dans le monde."
+ },
+ {
+  "id": 1723207973076,
+  "def_fr": "triste",
+  "sent_fr": "Mon amie est rentrée dans son pays et je suis très <b>triste</b>."
+ },
+ {
+  "id": 1723207973077,
+  "def_fr": "seul; solitaire; triste de solitude",
+  "sent_fr": "Pendant environ un mois après mon arrivée au Japon, je me suis senti très <b>seul</b>."
+ },
+ {
+  "id": 1723207973078,
+  "def_fr": "pleurer",
+  "sent_fr": "Un bébé <b>pleurait</b> dans le train."
+ },
+ {
+  "id": 1723207973079,
+  "def_fr": "larme",
+  "sent_fr": "J'ai regardé un film sur les animaux et j'ai eu les <b>larmes</b> aux yeux."
+ },
+ {
+  "id": 1723207973080,
+  "def_fr": "inquiétude; souci/inquiétant; inquiet<br>",
+  "sent_fr": "Vous n'avez <b>à vous inquiéter</b> de rien.<br>"
+ },
+ {
+  "id": 1723207973081,
+  "def_fr": "inquiétude; souci/inquiétant; inquiet<br>",
+  "sent_fr": "Je suis très <b>inquiet</b> de savoir si je réussirai l'examen.<br>"
+ },
+ {
+  "id": 1723207973082,
+  "def_fr": "ennuyeux; sans intérêt",
+  "sent_fr": "Ce film était <b>ennuyeux</b>."
+ },
+ {
+  "id": 1723207973083,
+  "def_fr": "déception",
+  "sent_fr": "J'ai été <b>déçu</b> d'apprendre qu'un acteur que j'aimais s'était marié."
+ },
+ {
+  "id": 1723207973084,
+  "def_fr": "renoncer; abandonner",
+  "sent_fr": "On ne doit pas <b>abandonner</b> si facilement en toute chose."
+ },
+ {
+  "id": 1723207973085,
+  "def_fr": "tension; nervosité",
+  "sent_fr": "J'étais très <b>nerveux</b> pendant mon discours d'hier."
+ },
+ {
+  "id": 1723207973086,
+  "def_fr": "gênant; honteux",
+  "sent_fr": "J'ai <b>honte</b> de ne pas savoir lire des kanji simples."
+ },
+ {
+  "id": 1723207973087,
+  "def_fr": "surprise; étonnement",
+  "sent_fr": "A : Il paraît que chez M. Tanaka, il y a une assiette qui vaut dix millions de yens.<br>B : Ah bon ? Quelle <b>surprise</b> !"
+ },
+ {
+  "id": 1723207973088,
+  "def_fr": "être surpris; s'étonner",
+  "sent_fr": "En pleine nuit, une voix forte a retenti dans la rue et j'ai été <b>surpris</b>."
+ },
+ {
+  "id": 1723207973089,
+  "def_fr": "se fâcher; se mettre en colère",
+  "sent_fr": "Quand mon père <b>se fâche</b>, son visage devient rouge."
+ },
+ {
+  "id": 1723207973090,
+  "def_fr": "humeur; sentiment; état d'esprit",
+  "sent_fr": "Les jours où je me lève tôt, je suis de bonne <b>humeur</b>."
+ },
+ {
+  "id": 1723207973091,
+  "def_fr": "mal-être; être de mauvaise humeur; ne pas se sentir bien",
+  "sent_fr": "Je ne me <b>sens pas bien</b> depuis ce matin."
+ },
+ {
+  "id": 1723207973092,
+  "def_fr": "cœur; esprit; âme",
+  "sent_fr": "Mon corps et mon <b>esprit</b> sont en bonne santé."
+ },
+ {
+  "id": 1723207973093,
+  "def_fr": "stress",
+  "sent_fr": "Personne n'est sans <b>stress</b>."
+ },
+ {
+  "id": 1723207973094,
+  "def_fr": "mal du pays",
+  "sent_fr": "Parfois, j'ai le <b>mal du pays</b> et je pleure."
+ },
+ {
+  "id": 1723207973095,
+  "def_fr": "sans faute; absolument; sûrement",
+  "sent_fr": "Apportez <b>absolument</b> vos devoirs demain, s'il vous plaît."
+ },
+ {
+  "id": 1723207973096,
+  "def_fr": "probablement; sûrement; certainement",
+  "sent_fr": "Si vous faites de votre mieux, vous réussirez <b>sûrement</b>."
+ },
+ {
+  "id": 1723207973097,
+  "def_fr": "fermement; solidement; bien",
+  "sent_fr": "Collez l'affiche <b>solidement</b>, s'il vous plaît."
+ },
+ {
+  "id": 1723207973098,
+  "def_fr": "soigneusement; correctement; comme il faut",
+  "sent_fr": "Rangez bien les livres <b>soigneusement</b> sur l'étagère, s'il vous plaît."
+ },
+ {
+  "id": 1723207973099,
+  "def_fr": "correctement; comme il faut; bien",
+  "sent_fr": "Quand vous sortez des toilettes, éteignez <b>bien</b> la lumière."
+ },
+ {
+  "id": 1723207973100,
+  "def_fr": "absolument; à tout prix",
+  "sent_fr": "Je veux <b>absolument</b> gagner le match de demain."
+ },
+ {
+  "id": 1723207973101,
+  "def_fr": "sans faute; absolument; à tout prix",
+  "sent_fr": "Quand vous viendrez au Japon, contactez-moi <b>sans faute</b>, s'il vous plaît."
+ },
+ {
+  "id": 1723207973102,
+  "def_fr": "autant que possible",
+  "sent_fr": "Un typhon arrive, alors rentrons le plus tôt <b>possible</b>."
+ },
+ {
+  "id": 1723207973103,
+  "def_fr": "clairement; nettement",
+  "sent_fr": "Les jours de beau temps, on voit <b>nettement</b> le mont Fuji."
+ },
+ {
+  "id": 1723207973104,
+  "def_fr": "assez; bien; considérablement",
+  "sent_fr": "Vous avez <b>beaucoup</b> progressé en japonais."
+ },
+ {
+  "id": 1723207973105,
+  "def_fr": "assez; plutôt; passablement",
+  "sent_fr": "Ce restaurant français a l'air <b>plutôt</b> cher."
+ },
+ {
+  "id": 1723207973106,
+  "def_fr": "en grande partie; considérablement",
+  "sent_fr": "Je comprends <b>assez bien</b> maintenant la façon de penser des Japonais."
+ },
+ {
+  "id": 1723207973107,
+  "def_fr": "plus; davantage",
+  "sent_fr": "Si vous ne faites pas <b>plus</b> d'efforts, vous ne réussirez pas."
+ },
+ {
+  "id": 1723207973108,
+  "def_fr": "en gros; à peu près; pour l'essentiel",
+  "sent_fr": "Le rapport est <b>à peu près</b> terminé."
+ },
+ {
+  "id": 1723207973109,
+  "def_fr": "généralement; la plupart du temps",
+  "sent_fr": "Mes jours de congé, je reste <b>généralement</b> à la maison."
+ },
+ {
+  "id": 1723207973110,
+  "def_fr": "de temps en temps; parfois",
+  "sent_fr": "<b>De temps en temps</b>, je vais dans un restaurant du quartier."
+ },
+ {
+  "id": 1723207973111,
+  "def_fr": "(ne) pas du tout; complètement",
+  "sent_fr": "Je n'ai <b>pas du tout</b> compris les informations en japonais."
+ },
+ {
+  "id": 1723207973112,
+  "def_fr": "jamais; en aucun cas",
+  "sent_fr": "Ne touchez <b>jamais</b> ce tableau, s'il vous plaît."
+ },
+ {
+  "id": 1723207973113,
+  "def_fr": "pas du tout; pas le moins du monde",
+  "sent_fr": "Je ne comprends <b>pas du tout</b> les informations en japonais."
+ },
+ {
+  "id": 1723207973114,
+  "def_fr": "encore; toujours; (ne) pas encore",
+  "sent_fr": "J'utilise <b>toujours</b> ce dictionnaire.<br>"
+ },
+ {
+  "id": 1723207973115,
+  "def_fr": "encore; toujours; (ne) pas encore",
+  "sent_fr": "Je n'ai <b>pas encore</b> déjeuné.<br>"
+ },
+ {
+  "id": 1723207973116,
+  "def_fr": "presque; pour la plupart; en grande partie",
+  "sent_fr": "J'ai étudié les kanji, mais j'en ai <b>presque</b> tout oublié."
+ },
+ {
+  "id": 1723207973117,
+  "def_fr": "très; assez; (ne) pas vraiment",
+  "sent_fr": "À cause de la neige, le bus ne vient <b>pas vraiment</b>."
+ },
+ {
+  "id": 1723207973118,
+  "def_fr": "soudainement; tout à coup",
+  "sent_fr": "L'après-midi, le ciel s'est <b>soudain</b> assombri."
+ },
+ {
+  "id": 1723207973119,
+  "def_fr": "un moment; quelque temps",
+  "sent_fr": "Veuillez patienter un <b>moment</b>."
+ },
+ {
+  "id": 1723207973120,
+  "def_fr": "tout le temps; depuis longtemps; sans interruption<br>",
+  "sent_fr": "J'ai <b>toujours</b> voulu faire un séjour d'études au Japon.<br>"
+ },
+ {
+  "id": 1723207973121,
+  "def_fr": "bien (meilleur, etc.); de loin; de beaucoup",
+  "sent_fr": "Ma petite sœur est <b>bien</b> plus intelligente que moi.<br>"
+ },
+ {
+  "id": 1723207973122,
+  "def_fr": "tel quel; en l'état; comme ça",
+  "sent_fr": "Le manteau que j'ai enlevé est <b>resté tel quel</b>, là où je l'ai posé."
+ },
+ {
+  "id": 1723207973123,
+  "def_fr": "bientôt; il est temps de",
+  "sent_fr": "Il est déjà 21 heures, donc je vais <b>bientôt</b> rentrer."
+ },
+ {
+  "id": 1723207973124,
+  "def_fr": "enfin; finalement; à la fin",
+  "sent_fr": "Ces deux-là se disputaient souvent, et ils ont <b>fini par</b> se séparer."
+ },
+ {
+  "id": 1723207973125,
+  "def_fr": "enfin; finalement; à la fin",
+  "sent_fr": "J'ai <b>enfin</b> rencontré la personne que je veux épouser."
+ },
+ {
+  "id": 1723207973126,
+  "def_fr": "certainement; sûrement; si je me souviens bien",
+  "sent_fr": "Je crois <b>bien</b> que la réunion de demain commence à 15 heures."
+ },
+ {
+  "id": 1723207973127,
+  "def_fr": "apparemment; décidément; vraiment",
+  "sent_fr": "Mon frère a <b>apparemment</b> eu une bonne nouvelle."
+ },
+ {
+  "id": 1723207973128,
+  "def_fr": "par exemple",
+  "sent_fr": "Au Nouvel An, je voudrais aller en Asie, <b>par exemple</b> en Thaïlande."
+ },
+ {
+  "id": 1723207973129,
+  "def_fr": "direct; directement; en personne",
+  "sent_fr": "Parlez-lui <b>directement</b> vous-même, s'il vous plaît."
+ },
+ {
+  "id": 1723207973130,
+  "def_fr": "surtout; en particulier",
+  "sent_fr": "Parmi les sucreries, j'adore <b>surtout</b> les gâteaux."
+ },
+ {
+  "id": 1723207973131,
+  "def_fr": "de plus en plus; rapidement; sans cesse",
+  "sent_fr": "Le nombre d'étudiants étrangers augmente <b>sans cesse</b>."
+ },
+ {
+  "id": 1723207973132,
+  "def_fr": "je vois; ah bon; effectivement",
+  "sent_fr": "A : Ce livre est bien, il y a aussi des exercices.<br>B : <b>Je vois</b>. Il a l'air bien."
+ },
+ {
+  "id": 1723207973133,
+  "def_fr": "pour la première fois; d'abord; premier",
+  "sent_fr": "Le mois dernier, j'ai pu aller à Hokkaido <b>pour la première fois</b>."
+ },
+ {
+  "id": 1723207973134,
+  "def_fr": "d'abord; au début; pour commencer",
+  "sent_fr": "<b>Pour commencer</b>, coupez finement les carottes, s'il vous plaît."
+ },
+ {
+  "id": 1723207973135,
+  "def_fr": "si; au cas où",
+  "sent_fr": "<b>Si</b> vous avez le temps, voulez-vous déjeuner ensemble ?"
+ },
+ {
+  "id": 1723207973136,
+  "def_fr": "bien sûr; évidemment",
+  "sent_fr": "Si je suis invité à un mariage, je voudrais <b>bien sûr</b> y assister."
+ }
+]

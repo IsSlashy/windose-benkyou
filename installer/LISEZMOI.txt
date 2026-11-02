@@ -1,0 +1,28 @@
+べんきょう.exe : Windose Benkyou
+================================
+
+Installation
+1. Décompresse tout le zip (clic droit, Extraire tout).
+2. Double-clique Installer.cmd. Si Windows demande confirmation, clique Exécuter.
+3. Anki se lance. S'il demande la langue, choisis le français.
+   Les paquets de cartes s'importent tout seuls, en une minute environ.
+
+Ce que fait Installer.cmd
+- installe Anki 26.9.3 s'il manque (winget) ;
+- copie chaque collection existante dans Anki2\sauvegarde-installeur avant tout ;
+- installe Onigiri (sauf s'il est déjà là) et Windose Benkyou ;
+- prépare Kaishi 1.5k FR (N5) et JLPT Tango FR (N4, N3, N2) : Anki les importe
+  au premier lancement, sans jamais importer deux fois un paquet déjà présent ;
+- reprend les voix de KAngel et Ame si un dossier voix est à côté de Installer.cmd.
+
+Tes réglages et tes voix déjà en place ne sont jamais écrasés : tu peux relancer
+Installer.cmd sans risque pour mettre l'add-on à jour.
+
+Voix de KAngel et Ame
+Elles ne sont pas dans ce zip et ne doivent jamais être mises en ligne.
+Sur le PC qui les a : double-clique Exporter-voix.cmd, il crée un dossier voix
+ici. Emporte ce dossier avec une clé USB ou un disque, pose-le à côté de
+Installer.cmd sur le nouveau PC, puis lance Installer.cmd.
+
+Usage personnel uniquement : les images et les sons viennent du jeu
+NEEDY GIRL OVERDOSE. Ne partage pas ce zip.

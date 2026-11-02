@@ -1,0 +1,31 @@
+{
+  "simple_mode": true,
+  "character": "kangel",
+  "voice": "character",
+  "quiz": true,
+  "quiz_fields": {
+    "word": "Word",
+    "meaning": "Word Meaning",
+    "reading": "Word Reading",
+    "sentence": "Sentence",
+    "sentence_furigana": "Sentence Furigana",
+    "sentence_meaning": "Sentence Meaning",
+    "notes": "Notes"
+  },
+  "wallpaper": "windose",
+  "taskbar": true,
+  "stream": true,
+  "chat": true,
+  "sounds": true,
+  "sound_files": {
+    "start": "piporo",
+    "correct": "poko",
+    "again": "sippai",
+    "milestone": "Tetehen",
+    "learn": "status_up"
+  },
+  "window_chrome": true,
+  "window_pos": {},
+  "window_title": "べんきょう.exe ♡ Anki",
+  "rename_default_deck_to": "Kaishi 1.5k"
+}

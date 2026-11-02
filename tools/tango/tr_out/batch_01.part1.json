@@ -1,0 +1,642 @@
+[
+{
+"id": 1723207972237,
+"def_fr": "à l'instant (même)",
+"sent_fr": "Le train vient <b>juste</b> de partir."
+},
+{
+"id": 1723207972238,
+"def_fr": "d'un moment à l'autre, à tout instant",
+"sent_fr": "Le ciel s'est assombri et il va pleuvoir <b>d'un instant à l'autre</b>."
+},
+{
+"id": 1723207972239,
+"def_fr": "bientôt; sous peu; d'ici peu; presque; quasiment",
+"sent_fr": "Il est 11 h 30. C'est <b>bientôt</b> l'heure du déjeuner."
+},
+{
+"id": 1723207972240,
+"def_fr": "tout à l'heure, il y a un instant",
+"sent_fr": "A : « Où est M. Yamashita ? »<br>B : « M. Yamashita, il est rentré <b>tout à l'heure</b>. »"
+},
+{
+"id": 1723207972241,
+"def_fr": "ces derniers temps, ces jours-ci",
+"sent_fr": "<b>Ces temps-ci</b>, il y a beaucoup de jours froids, n'est-ce pas ?"
+},
+{
+"id": 1723207972242,
+"def_fr": "récemment",
+"sent_fr": "<b>Récemment</b>, j'étudie l'espagnol."
+},
+{
+"id": 1723207972243,
+"def_fr": "l'autre jour, il y a peu",
+"sent_fr": "A : « M. Tanaka va bien ? »<br>B : « Oui. Je l'ai vu <b>l'autre jour</b>. »"
+},
+{
+"id": 1723207972244,
+"def_fr": "dernièrement; récemment; l'autre jour",
+"sent_fr": "Le test de <b>cette fois</b> était vraiment difficile."
+},
+{
+"id": 1723207972245,
+"def_fr": "la prochaine fois; une autre fois; prochainement; bientôt",
+"sent_fr": "A : Allons boire un verre <b>la prochaine fois</b>.<div>B : Oui, avec plaisir.</div>"
+},
+{
+"id": 1723207972246,
+"def_fr": "n'importe quand",
+"sent_fr": "A : « Si on mange ensemble, quelle heure vous arrange ? »<br>B : « Moi, <b>n'importe quand</b> me convient. »"
+},
+{
+"id": 1723207972247,
+"def_fr": "un jour, un de ces jours",
+"sent_fr": "<b>Un jour</b>, j'aimerais faire le tour du monde en famille."
+},
+{
+"id": 1723207972248,
+"def_fr": "avenir",
+"sent_fr": "<b>Plus tard</b>, je voudrais devenir médecin."
+},
+{
+"id": 1723207972249,
+"def_fr": "autrefois, il y a longtemps",
+"sent_fr": "<b>Autrefois</b>, il y avait ici la mer."
+},
+{
+"id": 1723207972250,
+"def_fr": "un jour",
+"sent_fr": "<b>Un jour</b>, il y avait un chat noir devant la maison."
+},
+{
+"id": 1723207972251,
+"def_fr": "journée, de jour",
+"sent_fr": "Ce quartier est plein de monde <b>en journée</b>, mais calme la nuit."
+},
+{
+"id": 1723207972252,
+"def_fr": "soir, fin d'après-midi",
+"sent_fr": "On dit qu'il va pleuvoir fort <b>à partir de la fin d'après-midi</b>."
+},
+{
+"id": 1723207972253,
+"def_fr": "milieu de la nuit, tard dans la nuit",
+"sent_fr": "Tous les jours, j'étudie <b>jusque tard dans la nuit</b>."
+},
+{
+"id": 1723207972254,
+"def_fr": "demain",
+"sent_fr": "Envoyez-moi l'e-mail d'ici <b>demain</b> après-midi, s'il vous plaît."
+},
+{
+"id": 1723207972255,
+"def_fr": "avant-hier",
+"sent_fr": "J'ai attrapé un rhume et j'ai de la fièvre depuis <b>avant-hier</b>."
+},
+{
+"id": 1723207972256,
+"def_fr": "soir, hier soir",
+"sent_fr": "<b>Hier soir</b>, nous avons fait une fête chez moi."
+},
+{
+"id": 1723207972257,
+"def_fr": "ce soir",
+"sent_fr": "<b>Ce soir</b>, il fait très froid."
+},
+{
+"id": 1723207972258,
+"def_fr": "ce mois-ci",
+"sent_fr": "<b>Ce mois-ci</b>, j'ai pas moins de trois examens importants."
+},
+{
+"id": 1723207972259,
+"def_fr": "dans deux semaines, la semaine d'après la semaine prochaine",
+"sent_fr": "La semaine prochaine, je suis occupé, alors voyons-nous <b>dans deux semaines</b>."
+},
+{
+"id": 1723207972260,
+"def_fr": "dans deux mois, le mois d'après le mois prochain",
+"sent_fr": "Je pars un an à New York <b>dans deux mois</b>."
+},
+{
+"id": 1723207972261,
+"def_fr": "dans deux ans, l'année d'après l'année prochaine",
+"sent_fr": "<b>Dans deux ans</b>, les Jeux olympiques auront lieu dans ce pays."
+},
+{
+"id": 1723207972262,
+"def_fr": "il y a deux ans, l'année avant l'année dernière",
+"sent_fr": "C'est en avril <b>il y a deux ans</b> que je suis venu au Japon."
+},
+{
+"id": 1723207972263,
+"def_fr": "chaque semaine, toutes les semaines",
+"sent_fr": "<b>Chaque semaine</b>, le samedi, je joue au tennis avec un ami."
+},
+{
+"id": 1723207972264,
+"def_fr": "chaque mois, tous les mois",
+"sent_fr": "<b>Chaque mois</b>, je reçois ma paie du petit boulot le 20."
+},
+{
+"id": 1723207972265,
+"def_fr": "chaque année, tous les ans",
+"sent_fr": "<b>Chaque année</b>, je rentre dans mon pays pour Noël."
+},
+{
+"id": 1723207972266,
+"def_fr": "jour de semaine, jour ouvrable",
+"sent_fr": "<b>En semaine</b>, j'ai énormément de travail."
+},
+{
+"id": 1723207972267,
+"def_fr": "premier, au début, d'abord",
+"sent_fr": "<b>D'abord</b>, j'ai appris あいうえお."
+},
+{
+"id": 1723207972268,
+"def_fr": "en plein milieu (de ~), pendant",
+"sent_fr": "Il est interdit de quitter la salle <b>pendant</b> l'examen."
+},
+{
+"id": 1723207972269,
+"def_fr": "dernier, en dernier, à la fin",
+"sent_fr": "Ce bus arrive à la gare de Tokyo <b>en dernier</b>."
+},
+{
+"id": 1723207972270,
+"def_fr": "d'abord, avant, en avance",
+"sent_fr": "A : « Allons déjeuner. »<br>B : « J'ai encore du travail, alors allez-y <b>devant</b>. »"
+},
+{
+"id": 1723207972271,
+"def_fr": "mari",
+"sent_fr": "Mon <b>mari</b> travaille tard tous les jours."
+},
+{
+"id": 1723207972272,
+"def_fr": "épouse, femme",
+"sent_fr": "Ma <b>femme</b> adore le curry."
+},
+{
+"id": 1723207972273,
+"def_fr": "parents (père et mère)",
+"sent_fr": "Mes <b>parents</b> habitent en Angleterre."
+},
+{
+"id": 1723207972274,
+"def_fr": "fils",
+"sent_fr": "Mon <b>fils</b> joue au football depuis l'école primaire."
+},
+{
+"id": 1723207972275,
+"def_fr": "fille",
+"sent_fr": "Ma <b>fille</b> préfère le sport aux études."
+},
+{
+"id": 1723207972276,
+"def_fr": "enfant, enfants (de quelqu'un d'autre)",
+"sent_fr": "Est-ce que <b>votre enfant</b> est maintenant au collège, professeur ?"
+},
+{
+"id": 1723207972277,
+"def_fr": "grand-père",
+"sent_fr": "Mon <b>grand-père</b> était instituteur."
+},
+{
+"id": 1723207972278,
+"def_fr": "grand-mère",
+"sent_fr": "J'adore ma <b>grand-mère</b>."
+},
+{
+"id": 1723207972279,
+"def_fr": "petit-enfant",
+"sent_fr": "Mon grand-père et ma grand-mère ont huit <b>petits-enfants</b>."
+},
+{
+"id": 1723207972280,
+"def_fr": "oncle (frère du père ou de la mère)",
+"sent_fr": "Cet <b>oncle</b> est le petit frère de ma mère."
+},
+{
+"id": 1723207972281,
+"def_fr": "tante (sœur du père ou de la mère)",
+"sent_fr": "Ma <b>tante</b> cuisine très bien."
+},
+{
+"id": 1723207972282,
+"def_fr": "parents (famille), proches",
+"sent_fr": "Beaucoup de <b>proches</b> viendront au mariage de ma grande sœur."
+},
+{
+"id": 1723207972283,
+"def_fr": "animal de compagnie",
+"sent_fr": "On ne peut pas avoir d'<b>animal de compagnie</b> dans cet appartement."
+},
+{
+"id": 1723207972284,
+"def_fr": "ressembler à",
+"sent_fr": "Je <b>ressemble</b> à ma mère et ma grande sœur à mon père."
+},
+{
+"id": 1723207972285,
+"def_fr": "<div>inquiéter quelqu'un, causer du souci à quelqu'un<br></div>",
+"sent_fr": "Il ne faut pas <b>inquiéter</b> ses parents."
+},
+{
+"id": 1723207972286,
+"def_fr": "gronder, réprimander",
+"sent_fr": "Quand j'étais enfant, ma mère me <b>grondait</b> souvent."
+},
+{
+"id": 1723207972287,
+"def_fr": "féliciter, louer",
+"sent_fr": "J'ai eu 100 points à l'examen et mon père m'a <b>félicité</b>."
+},
+{
+"id": 1723207972288,
+"def_fr": "avoir (un animal), élever",
+"sent_fr": "J'aimerais <b>avoir</b> un lapin."
+},
+{
+"id": 1723207972289,
+"def_fr": "appartement",
+"sent_fr": "Mon <b>appartement</b> actuel est plus spacieux que le précédent."
+},
+{
+"id": 1723207972290,
+"def_fr": "appartement en copropriété, immeuble résidentiel",
+"sent_fr": "Notre <b>appartement</b> est à trois minutes à pied de la gare."
+},
+{
+"id": 1723207972291,
+"def_fr": "loyer",
+"sent_fr": "Le <b>loyer</b> augmente un peu à partir du mois prochain."
+},
+{
+"id": 1723207972292,
+"def_fr": "gardien, gérant, concierge, régisseur",
+"sent_fr": "Il y a toujours un <b>gardien</b> dans l'immeuble."
+},
+{
+"id": 1723207972293,
+"def_fr": "adresse",
+"sent_fr": "Connaissez-vous l'<b>adresse</b> de M. Tanaka ?"
+},
+{
+"id": 1723207972294,
+"def_fr": "construire, bâtir",
+"sent_fr": "Plus tard, je veux <b>construire</b> une grande maison."
+},
+{
+"id": 1723207972295,
+"def_fr": "être construit",
+"sent_fr": "Un grand immeuble s'est <b>construit</b> à côté."
+},
+{
+"id": 1723207972296,
+"def_fr": "dresser, mettre debout",
+"sent_fr": "Je <b>pose</b> le parapluie debout près de la porte."
+},
+{
+"id": 1723207972297,
+"def_fr": "se tenir debout, se lever, se dresser",
+"sent_fr": "Un grand arbre <b>se dresse</b> devant la maison."
+},
+{
+"id": 1723207972298,
+"def_fr": "déménagement",
+"sent_fr": "Demain, c'est le <b>déménagement</b>."
+},
+{
+"id": 1723207972299,
+"def_fr": "déplacer, transférer (qqch)",
+"sent_fr": "J'ai <b>déplacé</b> la table dans la pièce d'à côté."
+},
+{
+"id": 1723207972300,
+"def_fr": "déménager, se déplacer, être transféré",
+"sent_fr": "La poste <b>déménage</b> dans l'immeuble devant la gare."
+},
+{
+"id": 1723207972301,
+"def_fr": "chez soi, domicile",
+"sent_fr": "C'est mon numéro de téléphone <b>personnel</b>."
+},
+{
+"id": 1723207972302,
+"def_fr": "domicile, maison (de l'interlocuteur), chez vous",
+"sent_fr": "Où se trouve <b>la maison</b> du professeur ?"
+},
+{
+"id": 1723207972303,
+"def_fr": "visite",
+"sent_fr": "Demain, je vais <b>rendre visite</b> à un ami chez lui."
+},
+{
+"id": 1723207972304,
+"def_fr": "invitation",
+"sent_fr": "Ce week-end, je vais <b>inviter</b> un ami chez moi."
+},
+{
+"id": 1723207972305,
+"def_fr": "voisinage, quartier",
+"sent_fr": "Une célébrité habite <b>dans le voisinage</b>."
+},
+{
+"id": 1723207972306,
+"def_fr": "autour",
+"sent_fr": "Il y a des cerisiers <b>autour</b> de la maison."
+},
+{
+"id": 1723207972307,
+"def_fr": "entrée (d'une maison), vestibule",
+"sent_fr": "Il y a plein de chaussures dans l'<b>entrée</b>."
+},
+{
+"id": 1723207972308,
+"def_fr": "entrée",
+"sent_fr": "Tapez le numéro de la chambre à l'<b>entrée</b>, s'il vous plaît."
+},
+{
+"id": 1723207972309,
+"def_fr": "fermer à clé (une porte, etc.)",
+"sent_fr": "Veuillez <b>fermer à clé</b> quand vous sortez."
+},
+{
+"id": 1723207972310,
+"def_fr": "être fermé à clé",
+"sent_fr": "La porte de l'entrée <b>est fermée à clé</b>."
+},
+{
+"id": 1723207972311,
+"def_fr": "mur",
+"sent_fr": "Je voudrais éclaircir les <b>murs</b> de la pièce."
+},
+{
+"id": 1723207972312,
+"def_fr": "couloir",
+"sent_fr": "Les toilettes sont à droite dans ce <b>couloir</b>."
+},
+{
+"id": 1723207972313,
+"def_fr": "cuisine",
+"sent_fr": "La <b>cuisine</b> de chez moi est pratique à utiliser."
+},
+{
+"id": 1723207972314,
+"def_fr": "eau courante, eau du robinet",
+"sent_fr": "On peut boire l'eau du <b>robinet</b>."
+},
+{
+"id": 1723207972315,
+"def_fr": "gaz",
+"sent_fr": "Le <b>gaz</b> a été coupé à cause d'un séisme."
+},
+{
+"id": 1723207972316,
+"def_fr": "pièce de style japonais",
+"sent_fr": "J'aime les <b>pièces de style japonais</b>."
+},
+{
+"id": 1723207972317,
+"def_fr": "tatami (natte de paille japonaise)",
+"sent_fr": "Je voudrais habiter dans un appartement qui a une pièce à <b>tatamis</b>."
+},
+{
+"id": 1723207972318,
+"def_fr": "placard (japonais)",
+"sent_fr": "C'est pratique d'avoir un <b>placard</b> dans la chambre."
+},
+{
+"id": 1723207972319,
+"def_fr": "futon, matelas japonais",
+"sent_fr": "Je préfère le <b>futon</b> au lit."
+},
+{
+"id": 1723207972320,
+"def_fr": "verre, vitre",
+"sent_fr": "Nettoyons les <b>vitres</b> des fenêtres."
+},
+{
+"id": 1723207972321,
+"def_fr": "rideau",
+"sent_fr": "Je vais acheter des <b>rideaux</b> de couleur vive."
+},
+{
+"id": 1723207972322,
+"def_fr": "coin, recoin",
+"sent_fr": "J'ai mis un bureau dans un <b>coin</b> de la pièce."
+},
+{
+"id": 1723207972323,
+"def_fr": "meuble, mobilier",
+"sent_fr": "J'aime les <b>meubles</b> en bois."
+},
+{
+"id": 1723207972324,
+"def_fr": "étagère",
+"sent_fr": "Il y a des DVD sur l'<b>étagère</b>."
+},
+{
+"id": 1723207972325,
+"def_fr": "assembler, monter",
+"sent_fr": "Veuillez <b>monter</b> ce lit vous-même."
+},
+{
+"id": 1723207972326,
+"def_fr": "tiroir",
+"sent_fr": "Le passeport est dans le <b>tiroir</b> du bureau."
+},
+{
+"id": 1723207972327,
+"def_fr": "ranger, mettre en ordre",
+"sent_fr": "Mon ami vient, alors j'ai <b>rangé</b> ma chambre."
+},
+{
+"id": 1723207972328,
+"def_fr": "être rangé, se ranger",
+"sent_fr": "La chambre <b>est</b> toujours <b>rangée</b>."
+},
+{
+"id": 1723207972329,
+"def_fr": "rangement, mise en ordre",
+"sent_fr": "Veuillez bien <b>ranger</b> le dessus du bureau."
+},
+{
+"id": 1723207972330,
+"def_fr": "déplacer, faire bouger",
+"sent_fr": "Tous ensemble, nous <b>déplaçons</b> la grande table."
+},
+{
+"id": 1723207972331,
+"def_fr": "bouger, fonctionner, se mouvoir",
+"sent_fr": "L'ascenseur <b>fonctionne</b>."
+},
+{
+"id": 1723207972332,
+"def_fr": "vase (à fleurs)",
+"sent_fr": "Je n'ai chez moi qu'un petit <b>vase</b>."
+},
+{
+"id": 1723207972333,
+"def_fr": "calendrier",
+"sent_fr": "J'ai acheté un <b>calendrier</b> avec des chats mignons."
+},
+{
+"id": 1723207972334,
+"def_fr": "affiche, poster",
+"sent_fr": "Je voudrais un <b>poster</b> de chien."
+},
+{
+"id": 1723207972335,
+"def_fr": "décorer",
+"sent_fr": "Je voudrais <b>décorer</b> l'entrée avec des fleurs."
+},
+{
+"id": 1723207972336,
+"def_fr": "coller, afficher",
+"sent_fr": "Il y a un mot <b>collé</b> sur le réfrigérateur."
+},
+{
+"id": 1723207972337,
+"def_fr": "accrocher (un tableau)",
+"sent_fr": "J'ai <b>accroché</b> un joli tableau dans l'entrée."
+},
+{
+"id": 1723207972338,
+"def_fr": "être accroché (un calendrier)",
+"sent_fr": "Vous avez un très joli <b>calendrier accroché au mur</b>."
+},
+{
+"id": 1723207972339,
+"def_fr": "s'asseoir (sur une chaise)",
+"sent_fr": "Puis-je m'<b>asseoir sur</b> cette <b>chaise</b> ?"
+},
+{
+"id": 1723207972340,
+"def_fr": "chauffage",
+"sent_fr": "Il fait froid aujourd'hui, alors allumons le <b>chauffage</b>."
+},
+{
+"id": 1723207972341,
+"def_fr": "monter, augmenter, relever",
+"sent_fr": "Pouvez-vous <b>augmenter</b> un peu la température de la climatisation ?"
+},
+{
+"id": 1723207972342,
+"def_fr": "alimentation (électrique), prise de courant",
+"sent_fr": "Cette pièce a peu de <b>prises</b>, c'est peu pratique."
+},
+{
+"id": 1723207972343,
+"def_fr": "allumer (la lumière)",
+"sent_fr": "La pièce est sombre, alors <b>allumons la lumière</b>."
+},
+{
+"id": 1723207972344,
+"def_fr": "être allumé (la télé), s'allumer",
+"sent_fr": "Si vous appuyez ici, la <b>télé s'allume</b>."
+},
+{
+"id": 1723207972345,
+"def_fr": "éteindre",
+"sent_fr": "Quand vous quittez la salle de classe, <b>éteignez</b> les lumières."
+},
+{
+"id": 1723207972346,
+"def_fr": "être éteint, s'éteindre",
+"sent_fr": "La lumière <b>est éteinte</b>, donc M. Tanaka n'est sûrement pas dans la pièce."
+},
+{
+"id": 1723207972347,
+"def_fr": "se lever, se réveiller",
+"sent_fr": "Les jours de congé, je <b>me lève</b> vers midi."
+},
+{
+"id": 1723207972348,
+"def_fr": "réveiller, faire lever (qqn)",
+"sent_fr": "Tous les matins, ma mère me <b>réveille</b>."
+},
+{
+"id": 1723207972349,
+"def_fr": "se lever tôt",
+"sent_fr": "Tous les jours, je <b>me lève tôt</b>."
+},
+{
+"id": 1723207972350,
+"def_fr": "grasse matinée, se lever en retard",
+"sent_fr": "J'ai trop bu et j'ai <b>fait la grasse matinée</b>."
+},
+{
+"id": 1723207972351,
+"def_fr": "brosser, polir, astiquer",
+"sent_fr": "<b>Brossons-nous</b> les dents trois fois par jour."
+},
+{
+"id": 1723207972352,
+"def_fr": "téléphone portable",
+"sent_fr": "Le matin, je mets mon <b>portable</b> dans mon sac."
+},
+{
+"id": 1723207972353,
+"def_fr": "sonner, retentir",
+"sent_fr": "Le <b>portable sonne</b> très fort."
+},
+{
+"id": 1723207972354,
+"def_fr": "ordures, déchets",
+"sent_fr": "Mettons les <b>déchets</b> à la poubelle."
+},
+{
+"id": 1723207972355,
+"def_fr": "bouteille",
+"sent_fr": "Qu'y a-t-il dans cette <b>bouteille</b> ?"
+},
+{
+"id": 1723207972356,
+"def_fr": "canette, boîte de conserve",
+"sent_fr": "Veuillez sortir les <b>canettes</b> le lundi."
+},
+{
+"id": 1723207972357,
+"def_fr": "bouteille en plastique",
+"sent_fr": "J'ai toujours une <b>bouteille en plastique</b> de thé sur moi."
+},
+{
+"id": 1723207972358,
+"def_fr": "recyclage",
+"sent_fr": "J'ai donné mon manteau au <b>recyclage</b>."
+},
+{
+"id": 1723207972359,
+"def_fr": "sortir, mettre dehors, rendre",
+"sent_fr": "Ce matin, j'ai oublié de <b>sortir</b> les poubelles."
+},
+{
+"id": 1723207972360,
+"def_fr": "sortir, partir, quitter",
+"sent_fr": "Le bus <b>part</b> à 10 h."
+},
+{
+"id": 1723207972361,
+"def_fr": "brûler, être combustible",
+"sent_fr": "Le mardi et le vendredi, c'est le jour des déchets <b>combustibles</b>."
+},
+{
+"id": 1723207972362,
+"def_fr": "savon",
+"sent_fr": "Lavons-nous les mains au <b>savon</b>."
+},
+{
+"id": 1723207972363,
+"def_fr": "shampoing",
+"sent_fr": "Ce <b>shampoing</b> est très bon marché."
+},
+{
+"id": 1723207972364,
+"def_fr": "machine à laver",
+"sent_fr": "La <b>machine à laver</b> de chez moi est très bruyante."
+}
+]

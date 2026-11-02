@@ -1,0 +1,652 @@
+[
+{
+"id": 1726956824811,
+"def_fr": "regret; remords",
+"sent_fr": "Je <b>regrette</b> d'avoir acheté un sac cher."
+},
+{
+"id": 1726956824812,
+"def_fr": "se tracasser; être préoccupé; se tourmenter",
+"sent_fr": "Ne <b>te tourmente</b> pas tout seul, parle-m'en."
+},
+{
+"id": 1726956824813,
+"def_fr": "souci; tracas; préoccupation",
+"sent_fr": "Si tu as un <b>souci</b>, j'aimerais que tu m'en parles."
+},
+{
+"id": 1726956824814,
+"def_fr": "anxiété; inquiétude; insécurité",
+"sent_fr": "Demain, je passe l'examen d'entrée à l'école. Je suis plein d'<b>anxiété</b>."
+},
+{
+"id": 1726956824815,
+"def_fr": "<div>inquiet; anxieux; mal à l'aise; crainte<br></div>",
+"sent_fr": "Quand tu es <b>inquiet</b>, parle-moi."
+},
+{
+"id": 1726956824816,
+"def_fr": "dérangement; gêne; ennui (causer)",
+"sent_fr": "Je suis désolé de vous avoir causé tant de <b>dérangement</b>."
+},
+{
+"id": 1726956824817,
+"def_fr": "gênant; importun; embêtant",
+"sent_fr": "Il y a une personne <b>gênante</b> dans le quartier."
+},
+{
+"id": 1726956824818,
+"def_fr": "s'occuper de qqn; prendre soin de qqn",
+"sent_fr": "Je <b>m'occupe</b> de ma petite sœur."
+},
+{
+"id": 1726956824819,
+"def_fr": "<div>embêtant; compliqué; ennui; peine<br></div>",
+"sent_fr": "Il vaut mieux faire d'abord les choses <b>compliquées</b>."
+},
+{
+"id": 1726956824820,
+"def_fr": "embêtant; pénible; fastidieux",
+"sent_fr": "Ce travail prend du temps et il est <b>pénible</b>."
+},
+{
+"id": 1726956824821,
+"def_fr": "en grommelant; en marmonnant",
+"sent_fr": "Il est toujours en train de <b>marmonner</b>."
+},
+{
+"id": 1726956824822,
+"def_fr": "chaque; un par un; en détail",
+"sent_fr": "Mon père me fait la leçon <b>sur chaque</b> petit détail."
+},
+{
+"id": 1726956824823,
+"def_fr": "bruyant; fort; tapageur",
+"sent_fr": "Dehors, le bruit du chantier est <b>assourdissant</b>."
+},
+{
+"id": 1726956824824,
+"def_fr": "bruyant; pointilleux; qui se plaint pour des détails",
+"sent_fr": "Mon père <b>n'arrête pas de critiquer</b> mon mode de vie."
+},
+{
+"id": 1726956824825,
+"def_fr": "du fond du cœur",
+"sent_fr": "Je remercie mon professeur <b>du fond du cœur</b>."
+},
+{
+"id": 1726956824826,
+"def_fr": "prier",
+"sent_fr": "Je <b>prie</b> sincèrement pour la sécurité de tous."
+},
+{
+"id": 1726956824827,
+"def_fr": "prière",
+"sent_fr": "prière"
+},
+{
+"id": 1726956824828,
+"def_fr": "souhait; désir; espoir",
+"sent_fr": "Il <b>souhaite</b> travailler à l'étranger."
+},
+{
+"id": 1726956824829,
+"def_fr": "souhait; désir; espoir",
+"sent_fr": "souhait"
+},
+{
+"id": 1726956824830,
+"def_fr": "désirer; souhaiter",
+"sent_fr": "désirer"
+},
+{
+"id": 1726956824831,
+"def_fr": "espérer; souhaiter; demander",
+"sent_fr": "Dans l'<b>espoir</b> de réussir mon examen, je suis allé dans un sanctuaire célèbre."
+},
+{
+"id": 1726956824832,
+"def_fr": "souhait; vœu; demande",
+"sent_fr": "Pourvu que ce <b>vœu</b> parvienne jusqu'à elle."
+},
+{
+"id": 1726956824833,
+"def_fr": "sentir; ressentir",
+"sent_fr": "J'ai <b>ressenti</b> de l'affection dans ses paroles."
+},
+{
+"id": 1726956824834,
+"def_fr": "vague; ambigu; flou",
+"sent_fr": "Il y a beaucoup d'expressions <b>vagues</b> en japonais."
+},
+{
+"id": 1726956824835,
+"def_fr": "inattendu; contre toute attente; étonnamment",
+"sent_fr": "Il a l'air gentil, mais en fait il est <b>étonnamment</b> égoïste."
+},
+{
+"id": 1726956824836,
+"def_fr": "inattendu; surprenant",
+"sent_fr": "inattendu"
+},
+{
+"id": 1726956824837,
+"def_fr": "par inadvertance; par étourderie; distraitement",
+"sent_fr": "J'ai <b>oublié par étourderie</b> de fermer la porte d'entrée à clé."
+},
+{
+"id": 1726956824838,
+"def_fr": "s'il vous plaît; de grâce; d'une manière ou d'une autre",
+"sent_fr": "<b>Pourvu</b> que je réussisse l'examen du N3."
+},
+{
+"id": 1726956824839,
+"def_fr": "d'une manière ou d'une autre; tant bien que mal",
+"sent_fr": "Je voudrais <b>réussir tant bien que mal</b> à rendre mon rapport avant la date limite."
+},
+{
+"id": 1726956824840,
+"def_fr": "sans trop savoir pourquoi; vaguement",
+"sent_fr": "Ce film a l'air <b>plutôt</b> intéressant."
+},
+{
+"id": 1726956824841,
+"def_fr": "énorme; terrible; très",
+"sent_fr": "Il paraît qu'il tombe une pluie <b>torrentielle</b> à Kyushu."
+},
+{
+"id": 1726956824842,
+"def_fr": "exprès; spécialement; en se déplaçant tout exprès",
+"sent_fr": "Merci d'être <b>venu tout exprès</b> me rendre visite pendant ma maladie."
+},
+{
+"id": 1726956824843,
+"def_fr": "en cachette; discrètement",
+"sent_fr": "J'ai <b>emprunté en cachette</b> le sac de ma grande sœur."
+},
+{
+"id": 1726956824844,
+"def_fr": "soudain; par hasard",
+"sent_fr": "Je me suis <b>soudain</b> souvenu d'une chose d'il y a longtemps."
+},
+{
+"id": 1726956824845,
+"def_fr": "mais enfin; au juste; diable",
+"sent_fr": "Mais <b>à quoi</b> cette personne peut-elle bien penser ?"
+},
+{
+"id": 1726956824846,
+"def_fr": "expression",
+"sent_fr": "Je n'arrive pas à bien <b>exprimer</b> mes sentiments."
+},
+{
+"id": 1726956824847,
+"def_fr": "avoir le trac; être intimidé",
+"sent_fr": "J'<b>ai eu le trac</b> pendant mon discours et j'en ai oublié le contenu."
+},
+{
+"id": 1726956824848,
+"def_fr": "être tendu; stress mental",
+"sent_fr": "être tendu"
+},
+{
+"id": 1726956824849,
+"def_fr": "s'impatienter; s'affoler",
+"sent_fr": "Ne <b>t'affole</b> pas, parle lentement."
+},
+{
+"id": 1726956824850,
+"def_fr": "<div>impatience<br></div><div>早くあることをしなければならないという気持ち。<br></div>",
+"sent_fr": "impatience"
+},
+{
+"id": 1726956824851,
+"def_fr": "agité; fébrile; nerveux",
+"sent_fr": "Mon grand frère est <b>fébrile</b> depuis ce matin."
+},
+{
+"id": 1726956824852,
+"def_fr": "patience; endurance; supporter",
+"sent_fr": "J'ai le ventre vide et je ne peux plus <b>tenir</b>."
+},
+{
+"id": 1726956824853,
+"def_fr": "vantardise; fierté; se vanter",
+"sent_fr": "Il <b>se vante</b> souvent de sa famille."
+},
+{
+"id": 1726956824854,
+"def_fr": "intérêt; préoccupation",
+"sent_fr": "Je n'ai aucun <b>intérêt</b> pour la politique."
+},
+{
+"id": 1726956824855,
+"def_fr": "indifférent; apathique",
+"sent_fr": "indifférent"
+},
+{
+"id": 1726956824856,
+"def_fr": "humeur; état d'esprit",
+"sent_fr": "Aujourd'hui, le chef de service est de bonne <b>humeur</b>."
+},
+{
+"id": 1726956824857,
+"def_fr": "<div>de très bonne humeur</div>",
+"sent_fr": "de très bonne humeur"
+},
+{
+"id": 1726956824858,
+"def_fr": "mauvaise humeur; mécontentement",
+"sent_fr": "de mauvaise humeur"
+},
+{
+"id": 1726956824859,
+"def_fr": "sang-froid; calme; indifférence",
+"sent_fr": "Il a l'air <b>indifférent</b>, mais je ne sais pas ce qu'il ressent vraiment."
+},
+{
+"id": 1726956824860,
+"def_fr": "sérieux; sincère",
+"sent_fr": "On peut voir dans ses yeux si cette personne est <b>sérieuse</b> ou non."
+},
+{
+"id": 1726956824861,
+"def_fr": "se perdre; hésiter",
+"sent_fr": "Je voulais aller au cinéma, mais je me suis <b>perdu</b> en chemin."
+},
+{
+"id": 1726956824862,
+"def_fr": "égarement; hésitation",
+"sent_fr": "Je pense à partir étudier à l'étranger, mais j'ai encore une certaine <b>hésitation</b>."
+},
+{
+"id": 1726956824863,
+"def_fr": "subtil; délicat; compliqué",
+"sent_fr": "C'est un sentiment <b>subtil</b>: je ne sais pas si je suis heureux ou triste."
+},
+{
+"id": 1726956824864,
+"def_fr": "charme; attrait",
+"sent_fr": "J'ai ressenti un certain <b>charme</b> dans ses beaux yeux."
+},
+{
+"id": 1726956824865,
+"def_fr": "charmant; fascinant",
+"sent_fr": "charmant"
+},
+{
+"id": 1726956824866,
+"def_fr": "vrai sentiment; pensée sincère",
+"sent_fr": "Les Japonais disent rarement ce qu'ils pensent <b>vraiment</b>."
+},
+{
+"id": 1726956824867,
+"def_fr": "<div>façade; position officielle (par opposition à la pensée privée); principes affichés</div>",
+"sent_fr": "façade"
+},
+{
+"id": 1726956824868,
+"def_fr": "mieux; préférable",
+"sent_fr": "Plutôt que de travailler sous les ordres d'une telle personne, il <b>vaut mieux</b> démissionner."
+},
+{
+"id": 1726956824869,
+"def_fr": "larme",
+"sent_fr": "Quand je repense à ma famille, les <b>larmes</b> me viennent parfois."
+},
+{
+"id": 1726956824870,
+"def_fr": "haïr; détester",
+"sent_fr": "Je l'aimais, mais maintenant je le <b>hais</b>."
+},
+{
+"id": 1726956824871,
+"def_fr": "détestable; haïssable",
+"sent_fr": "détestable"
+},
+{
+"id": 1726956824872,
+"def_fr": "consultation psychologique; conseil (psychologique)",
+"sent_fr": "Quand on suit une <b>consultation</b>, on se sent beaucoup mieux."
+},
+{
+"id": 1726956824873,
+"def_fr": "avoir mal à la tête; avoir un souci",
+"sent_fr": "avoir mal à la tête"
+},
+{
+"id": 1726956824874,
+"def_fr": "se mettre en colère; être très irrité",
+"sent_fr": "se mettre en colère"
+},
+{
+"id": 1726956824875,
+"def_fr": "se fâcher; être furieux",
+"sent_fr": "se fâcher"
+},
+{
+"id": 1726956824876,
+"def_fr": "<div>voir<br></div>",
+"sent_fr": "voir"
+},
+{
+"id": 1726956824877,
+"def_fr": "<div>entendre<br></div>",
+"sent_fr": "entendre"
+},
+{
+"id": 1726956824878,
+"def_fr": "fier",
+"sent_fr": "fier"
+},
+{
+"id": 1726956824879,
+"def_fr": "<div>convenir au goût de qqn<br></div>",
+"sent_fr": "convenir à son goût"
+},
+{
+"id": 1726956824880,
+"def_fr": "<div>avoir la langue bien pendue; ne pas savoir garder un secret<br></div>",
+"sent_fr": "avoir la langue bien pendue"
+},
+{
+"id": 1726956824881,
+"def_fr": "<div>savoir garder un secret</div>",
+"sent_fr": "savoir garder un secret"
+},
+{
+"id": 1726956824882,
+"def_fr": "<div>être renvoyé; être licencié<br></div>",
+"sent_fr": "être renvoyé"
+},
+{
+"id": 1726956824883,
+"def_fr": "<div>se soucier de</div>",
+"sent_fr": "se soucier de"
+},
+{
+"id": 1726956824884,
+"def_fr": "<div>être intrigué par; ne pas cesser d'y penser<br></div>",
+"sent_fr": "être intrigué par"
+},
+{
+"id": 1726956824885,
+"def_fr": "avec tout mon amour",
+"sent_fr": "avec tout mon amour"
+},
+{
+"id": 1726956824886,
+"def_fr": "avec mes remerciements",
+"sent_fr": "avec mes remerciements"
+},
+{
+"id": 1726956824887,
+"def_fr": "de tout cœur",
+"sent_fr": "de tout cœur"
+},
+{
+"id": 1726956824888,
+"def_fr": "motif; dessin; décor",
+"sent_fr": "Cette année, quels <b>motifs</b> de vêtements sont à la mode ?"
+},
+{
+"id": 1726956824889,
+"def_fr": "réaménagement<div>室内の飾りつけや家具の配置を変えること。<br></div>",
+"sent_fr": "réaménagement de la décoration"
+},
+{
+"id": 1726956824890,
+"def_fr": "caractéristique; trait distinctif",
+"sent_fr": "Ses créations ont un certain <b>caractère</b>."
+},
+{
+"id": 1726956824891,
+"def_fr": "point fort; qualité<div>特に優れた事柄。<br></div>",
+"sent_fr": "point fort"
+},
+{
+"id": 1726956824892,
+"def_fr": "trait distinctif; couleur; originalité",
+"sent_fr": "Mon grand frère porte toujours des vêtements sans <b>caractère</b>."
+},
+{
+"id": 1726956824893,
+"def_fr": "motif; dessin",
+"sent_fr": "Ce T-shirt est disponible en dix <b>motifs</b> au choix."
+},
+{
+"id": 1726956824894,
+"def_fr": "motif à fleurs",
+"sent_fr": "Je voudrais une jupe à <b>motif floral</b>."
+},
+{
+"id": 1726956824895,
+"def_fr": "pois; à pois",
+"sent_fr": "Cette robe à <b>pois</b> est vraiment mignonne."
+},
+{
+"id": 1726956824896,
+"def_fr": "<div>motif à pois<br></div><div>小さな丸を散らした模様。</div>",
+"sent_fr": "motif à pois"
+},
+{
+"id": 1726956824897,
+"def_fr": "rayure; rayé",
+"sent_fr": "En portant une chemise à <b>rayures</b>, on paraît plus mince."
+},
+{
+"id": 1726956824898,
+"def_fr": "motif rayé",
+"sent_fr": "motif rayé"
+},
+{
+"id": 1726956824899,
+"def_fr": "vertical; longueur",
+"sent_fr": "Veuillez tracer une ligne dans le sens <b>vertical</b>."
+},
+{
+"id": 1726956824900,
+"def_fr": "écriture verticale",
+"sent_fr": "écriture verticale"
+},
+{
+"id": 1726956824901,
+"def_fr": "rayures verticales",
+"sent_fr": "rayures verticales"
+},
+{
+"id": 1726956824902,
+"def_fr": "horizontal; côté; largeur",
+"sent_fr": "L'anglais s'écrit à l'<b>horizontale</b>."
+},
+{
+"id": 1726956824903,
+"def_fr": "écriture horizontale",
+"sent_fr": "écriture horizontale"
+},
+{
+"id": 1726956824904,
+"def_fr": "rayures horizontales",
+"sent_fr": "rayures horizontales"
+},
+{
+"id": 1726956824905,
+"def_fr": "en diagonale; en biais",
+"sent_fr": "Cette illustration est intéressante quand on la regarde <b>en biais</b>."
+},
+{
+"id": 1726956824906,
+"def_fr": "en diagonale; de travers; oblique",
+"sent_fr": "Le tableau est accroché <b>de travers</b>."
+},
+{
+"id": 1726956824907,
+"def_fr": "largeur",
+"sent_fr": "La <b>largeur</b> de cette table est de 90 centimètres."
+},
+{
+"id": 1726956824908,
+"def_fr": "rayure",
+"sent_fr": "J'ai acheté un T-shirt à fines <b>rayures</b>."
+},
+{
+"id": 1726956824909,
+"def_fr": "uni; sans motif",
+"sent_fr": "Une chemise <b>unie</b> s'associe facilement à une jupe à motifs."
+},
+{
+"id": 1726956824910,
+"def_fr": "simple; sobre",
+"sent_fr": "Aujourd'hui, sortons dans une tenue <b>simple</b>."
+},
+{
+"id": 1726956824911,
+"def_fr": "tout rouge; rouge vif",
+"sent_fr": "Je suis allé à la fête dans des vêtements <b>tout rouges</b>."
+},
+{
+"id": 1726956824912,
+"def_fr": "tout noir; noir comme du charbon<br>",
+"sent_fr": "tout noir"
+},
+{
+"id": 1726956824913,
+"def_fr": "bleu vif; bleu profond; livide",
+"sent_fr": "bleu vif"
+},
+{
+"id": 1726956824914,
+"def_fr": "tout blanc; blanc pur<br>",
+"sent_fr": "tout blanc"
+},
+{
+"id": 1726956824915,
+"def_fr": "disparate; dispersé; en désordre",
+"sent_fr": "Les boutons de cette chemise sont <b>dépareillés</b>, en couleur comme en forme."
+},
+{
+"id": 1726956824916,
+"def_fr": "net; sobre; épuré",
+"sent_fr": "Son costume est ajusté et <b>net</b>."
+},
+{
+"id": 1726956824917,
+"def_fr": "merveilleux; superbe; beau",
+"sent_fr": "Cette écharpe est vraiment <b>superbe</b>."
+},
+{
+"id": 1726956824918,
+"def_fr": "impression",
+"sent_fr": "Quand je l'ai rencontré pour la première fois, je n'ai pas eu très bonne <b>impression</b>."
+},
+{
+"id": 1726956824919,
+"def_fr": "marquant; impressionnant",
+"sent_fr": "impressionnant"
+},
+{
+"id": 1726956824920,
+"def_fr": "bonne impression",
+"sent_fr": "bonne impression"
+},
+{
+"id": 1726956824921,
+"def_fr": "première impression",
+"sent_fr": "première impression"
+},
+{
+"id": 1726956824922,
+"def_fr": "apparence; aspect extérieur",
+"sent_fr": "Il a une belle <b>apparence</b>, mais son caractère pose sans doute problème."
+},
+{
+"id": 1726956824923,
+"def_fr": "air; aspect; état",
+"sent_fr": "Elle ne montre à personne son <b>air</b> fatigué."
+},
+{
+"id": 1726956824924,
+"def_fr": "expression (du visage)",
+"sent_fr": "Cet enfant a un visage très <b>expressif</b>."
+},
+{
+"id": 1726956824925,
+"def_fr": "silhouette; allure; apparition",
+"sent_fr": "Je n'ai pas vu la <b>silhouette</b> de M. Tanaka aujourd'hui."
+},
+{
+"id": 1726956824926,
+"def_fr": "vêtu d'un kimono",
+"sent_fr": "vêtu d'un kimono"
+},
+{
+"id": 1726956824927,
+"def_fr": "vu de dos; silhouette de dos",
+"sent_fr": "vue de dos"
+},
+{
+"id": 1726956824928,
+"def_fr": "ambiance; atmosphère",
+"sent_fr": "Il y a chez lui une <b>aura</b> particulière."
+},
+{
+"id": 1726956824929,
+"def_fr": "très jeune; en bas âge",
+"sent_fr": "Elle a un enfant en <b>bas âge</b>."
+},
+{
+"id": 1726956824930,
+"def_fr": "très jeune; puéril; immature",
+"sent_fr": "Quel que soit son âge, sa façon de penser reste <b>puérile</b>."
+},
+{
+"id": 1726956824931,
+"def_fr": "classe; cool; beau",
+"sent_fr": "Il est élégant et très <b>cool</b>."
+},
+{
+"id": 1726956824932,
+"def_fr": "moche; pas élégant; peu flatteur",
+"sent_fr": "moche"
+},
+{
+"id": 1726956824933,
+"def_fr": "manière de parler; langage; choix des mots",
+"sent_fr": "Il a un mauvais <b>langage</b>."
+},
+{
+"id": 1726956824934,
+"def_fr": "élégant; raffiné",
+"sent_fr": "Cette actrice a une façon de parler très <b>élégante</b>."
+},
+{
+"id": 1726956824935,
+"def_fr": "élégant; raffiné",
+"sent_fr": "élégant"
+},
+{
+"id": 1726956824936,
+"def_fr": "vulgaire; grossier",
+"sent_fr": "Il mange d'une façon <b>vulgaire</b>."
+},
+{
+"id": 1726956824937,
+"def_fr": "sobre; discret; terne",
+"sent_fr": "Ces vêtements sont un peu <b>ternes</b> pour ma petite sœur étudiante."
+},
+{
+"id": 1726956824938,
+"def_fr": "voyant; criard; tape-à-l'œil",
+"sent_fr": "Elle a l'air <b>voyante</b>, mais en fait elle est discrète."
+},
+{
+"id": 1726956824939,
+"def_fr": "svelte; élégant; mince",
+"sent_fr": "Elle est <b>svelte</b> comme un mannequin."
+},
+{
+"id": 1726956824940,
+"def_fr": "fin; élégant; raffiné (ne signifie pas habituellement « intelligent »)",
+"sent_fr": "Il est toujours <b>galant</b> avec les femmes."
+}
+]

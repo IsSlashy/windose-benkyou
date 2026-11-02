@@ -1,0 +1,627 @@
+[
+{
+"id": 1726956824686,
+"def_fr": "assez; passablement",
+"sent_fr": "On a constaté qu'<b>un assez grand nombre</b> de personnes n'étaient pas d'accord."
+},
+{
+"id": 1726956824687,
+"def_fr": "confiance; crédit",
+"sent_fr": "On peut avoir <b>confiance</b> dans ces données."
+},
+{
+"id": 1726956824688,
+"def_fr": "perdre",
+"sent_fr": "Il a effacé des données importantes par erreur et <b>a perdu</b> sa crédibilité."
+},
+{
+"id": 1726956824689,
+"def_fr": "normal; en état de marche",
+"sent_fr": "Cet ordinateur fonctionne <b>normalement</b>."
+},
+{
+"id": 1726956824690,
+"def_fr": "crise économique; récession",
+"sent_fr": "La <b>crise économique</b> dure depuis plusieurs années déjà."
+},
+{
+"id": 1726956824691,
+"def_fr": "<div>marasme économique; temps difficiles; dépression; récession<br></div>",
+"sent_fr": "Je veux changer cette société en <b>récession</b>."
+},
+{
+"id": 1726956824692,
+"def_fr": "yen fort; hausse du yen",
+"sent_fr": "Avec le <b>yen fort</b>, certains y perdent et d'autres y gagnent."
+},
+{
+"id": 1726956824693,
+"def_fr": "yen faible; baisse du yen",
+"sent_fr": "yen faible"
+},
+{
+"id": 1726956824694,
+"def_fr": "moyenne",
+"sent_fr": "La <b>moyenne</b> de ce test était de 75 points."
+},
+{
+"id": 1726956824695,
+"def_fr": "note moyenne; moyenne (des points)",
+"sent_fr": "note moyenne"
+},
+{
+"id": 1726956824696,
+"def_fr": "environ; approximativement",
+"sent_fr": "Les candidats reçus représentent <b>environ</b> 20 pour cent."
+},
+{
+"id": 1726956824697,
+"def_fr": "déraisonnable; excessif; absurde",
+"sent_fr": "Quiconque regarde ces résultats les trouve <b>absurdes</b>."
+},
+{
+"id": 1726956824698,
+"def_fr": "insensé; absurde",
+"sent_fr": "insensé"
+},
+{
+"id": 1726956824699,
+"def_fr": "le plus; plus que tout",
+"sent_fr": "Le film qui a eu <b>le plus</b> de succès cette année a été annoncé."
+},
+{
+"id": 1726956824700,
+"def_fr": "enfin; finalement; en fin de compte",
+"sent_fr": "<b>Enfin</b>, la population du Japon a commencé à diminuer."
+},
+{
+"id": 1726956824701,
+"def_fr": "enfin; à la fin; finalement",
+"sent_fr": "<b>Enfin</b>, la température moyenne de Tokyo a dépassé 16 degrés."
+},
+{
+"id": 1726956824702,
+"def_fr": "impossible",
+"sent_fr": "impossible"
+},
+{
+"id": 1726956824703,
+"def_fr": "peu naturel; artificiel",
+"sent_fr": "peu naturel"
+},
+{
+"id": 1726956824704,
+"def_fr": "imparfait; incomplet",
+"sent_fr": "imparfait"
+},
+{
+"id": 1726956824705,
+"def_fr": "gêne; handicap; inconvénient",
+"sent_fr": "gêne"
+},
+{
+"id": 1726956824706,
+"def_fr": "manque de sérieux",
+"sent_fr": "manque de sérieux"
+},
+{
+"id": 1726956824707,
+"def_fr": "échec (à un examen)",
+"sent_fr": "échec à l'examen"
+},
+{
+"id": 1726956824708,
+"def_fr": "instabilité",
+"sent_fr": "instabilité"
+},
+{
+"id": 1726956824709,
+"def_fr": "absurdité; non-sens",
+"sent_fr": "absurdité"
+},
+{
+"id": 1726956824710,
+"def_fr": "sans autorisation",
+"sent_fr": "sans autorisation"
+},
+{
+"id": 1726956824711,
+"def_fr": "irresponsabilité",
+"sent_fr": "irresponsabilité"
+},
+{
+"id": 1726956824712,
+"def_fr": "<div>sans plan; à l'aveuglette<br></div>",
+"sent_fr": "sans plan"
+},
+{
+"id": 1726956824713,
+"def_fr": "sans permis (de conduire)",
+"sent_fr": "sans permis"
+},
+{
+"id": 1726956824714,
+"def_fr": "sans expression; impassible",
+"sent_fr": "sans expression"
+},
+{
+"id": 1726956824715,
+"def_fr": "l'extraordinaire; ce qui sort du quotidien",
+"sent_fr": "hors du quotidien"
+},
+{
+"id": 1726956824716,
+"def_fr": "privé; non public; secret",
+"sent_fr": "non public"
+},
+{
+"id": 1726956824717,
+"def_fr": "informel; officieux",
+"sent_fr": "informel"
+},
+{
+"id": 1726956824718,
+"def_fr": "manque de bon sens",
+"sent_fr": "manque de bon sens"
+},
+{
+"id": 1726956824719,
+"def_fr": "inutilisé; non utilisé",
+"sent_fr": "inutilisé"
+},
+{
+"id": 1726956824720,
+"def_fr": "mineur; qui n'est pas majeur",
+"sent_fr": "mineur"
+},
+{
+"id": 1726956824721,
+"def_fr": "non résolu; en suspens",
+"sent_fr": "non résolu"
+},
+{
+"id": 1726956824722,
+"def_fr": "non développé (pays)",
+"sent_fr": "non développé"
+},
+{
+"id": 1726956824723,
+"def_fr": "inexpérience<div>まだ経験していない・こと（さま）。<br></div>",
+"sent_fr": "inexpérience"
+},
+{
+"id": 1726956824724,
+"def_fr": "individualité; personnalité",
+"sent_fr": "Respectons l'<b>individualité</b> de chacun."
+},
+{
+"id": 1726956824725,
+"def_fr": "<div>original; personnel; marqué d'une forte individualité<br></div>個性が顕著であるさま。",
+"sent_fr": "original"
+},
+{
+"id": 1726956824726,
+"def_fr": "sérieux; consciencieux",
+"sent_fr": "C'est un employé de bureau très <b>sérieux</b>."
+},
+{
+"id": 1726956824727,
+"def_fr": "travailleur; personne qui travaille dur",
+"sent_fr": "Ma mère est une grande <b>travailleuse</b>."
+},
+{
+"id": 1726956824728,
+"def_fr": "honnête; franc",
+"sent_fr": "Il ne faut pas mentir. Dis-le <b>franchement</b>."
+},
+{
+"id": 1726956824729,
+"def_fr": "personne honnête",
+"sent_fr": "personne honnête"
+},
+{
+"id": 1726956824730,
+"def_fr": "docile; simple; sincère",
+"sent_fr": "Mon petit frère a un caractère très <b>simple et franc</b>."
+},
+{
+"id": 1726956824731,
+"def_fr": "actif; proactif; dynamique",
+"sent_fr": "Au bureau, je travaille de façon <b>proactive</b>."
+},
+{
+"id": 1726956824732,
+"def_fr": "passif; réservé",
+"sent_fr": "Il est du genre <b>passif</b>."
+},
+{
+"id": 1726956824733,
+"def_fr": "jovial; gai; enjoué",
+"sent_fr": "Être avec quelqu'un de <b>jovial</b> rend heureux."
+},
+{
+"id": 1726956824734,
+"def_fr": "sociable; amical; qui se lie facilement",
+"sent_fr": "Elle est <b>sociable</b>, alors ses aînés l'apprécient."
+},
+{
+"id": 1726956824735,
+"def_fr": "<div>sociable; aimable; qui aime la compagnie<br></div>人にすぐ親しんで、以前からの知り合いであったかのように接することが出来る様子だ。",
+"sent_fr": "sociable"
+},
+{
+"id": 1726956824736,
+"def_fr": "calme; doux; paisible",
+"sent_fr": "Il est <b>doux</b>, donc tout le monde l'aime."
+},
+{
+"id": 1726956824737,
+"def_fr": "insouciant; sans souci",
+"sent_fr": "Arrête de jouer <b>avec insouciance</b> et va étudier."
+},
+{
+"id": 1726956824738,
+"def_fr": "sage; tranquille; docile",
+"sent_fr": "Il paraît que ma grande sœur est <b>discrète</b> au travail."
+},
+{
+"id": 1726956824739,
+"def_fr": "étourdi; distrait; irréfléchi",
+"sent_fr": "M. Tanaka est si <b>étourdi</b> qu'il fait trois erreurs par jour."
+},
+{
+"id": 1726956824740,
+"def_fr": "sans sérieux; négligent; irresponsable; à moitié",
+"sent_fr": "Il ne faut pas donner de réponse <b>à la légère</b>."
+},
+{
+"id": 1726956824741,
+"def_fr": "méchanceté; malveillance",
+"sent_fr": "Arrête de faire des <b>méchancetés</b>."
+},
+{
+"id": 1726956824742,
+"def_fr": "méchant; malveillant",
+"sent_fr": "Les gens <b>méchants</b> sont détestés."
+},
+{
+"id": 1726956824743,
+"def_fr": "caprice; égoïsme; capricieux",
+"sent_fr": "S'il vous plaît, ne faites pas de <b>caprices</b>."
+},
+{
+"id": 1726956824744,
+"def_fr": "égoïste; capricieux",
+"sent_fr": "Elle a un caractère <b>capricieux</b>."
+},
+{
+"id": 1726956824745,
+"def_fr": "égoïste; sans-gêne; à sa guise",
+"sent_fr": "S'il vous plaît, ne regardez pas les cahiers des autres <b>sans permission</b>."
+},
+{
+"id": 1726956824746,
+"def_fr": "effronté; culotté; sans gêne",
+"sent_fr": "Il utilise le dictionnaire des autres sans demander. Quel <b>culot</b>."
+},
+{
+"id": 1726956824747,
+"def_fr": "insolent; impertinent; effronté",
+"sent_fr": "Elle est un peu <b>insolente</b>, mais je ne la déteste pas."
+},
+{
+"id": 1726956824748,
+"def_fr": "avarice; radin; pingre",
+"sent_fr": "Il est <b>radin</b>, alors il ne m'invite jamais."
+},
+{
+"id": 1726956824749,
+"def_fr": "collant; (agaçamment) persistant",
+"sent_fr": "Il est <b>tenace</b>, alors il n'abandonnera sûrement pas."
+},
+{
+"id": 1726956824750,
+"def_fr": "tranchant; aiguisé",
+"sent_fr": "Il cherche un couteau <b>tranchant</b>."
+},
+{
+"id": 1726956824751,
+"def_fr": "<div>perspicace; vif; fin; sagace<br></div>",
+"sent_fr": "Ma mère est <b>perspicace</b>, alors elle remarque quand je mens."
+},
+{
+"id": 1726956824752,
+"def_fr": "lent d'esprit; émoussé; terne",
+"sent_fr": "Mon père est <b>lent à comprendre</b>, donc si on ne lui dit pas clairement, il ne comprend pas."
+},
+{
+"id": 1726956824753,
+"def_fr": "simple; sans complication",
+"sent_fr": "Il a fait une <b>simple</b> erreur de calcul."
+},
+{
+"id": 1726956824754,
+"def_fr": "simple; simpliste; direct",
+"sent_fr": "Il a un côté <b>simple</b>."
+},
+{
+"id": 1726956824755,
+"def_fr": "excessif; exagéré; au-delà de (une limite)",
+"sent_fr": "Cette personne dit tout de façon <b>exagérée</b>."
+},
+{
+"id": 1726956824756,
+"def_fr": "<div>grandiose; exagéré<br></div><div>実際より誇張している・こと（さま）。</div>",
+"sent_fr": "exagéré"
+},
+{
+"id": 1726956824757,
+"def_fr": "défaut; faille",
+"sent_fr": "Tout le monde a des <b>défauts</b>."
+},
+{
+"id": 1726956824758,
+"def_fr": "point faible<div>不完全・不十分なところ。欠点。<br></div>",
+"sent_fr": "point faible"
+},
+{
+"id": 1726956824759,
+"def_fr": "habitude; tic",
+"sent_fr": "J'ai l'<b>habitude</b> de me toucher les cheveux quand je parle."
+},
+{
+"id": 1726956824760,
+"def_fr": "tic de langage; expression favorite",
+"sent_fr": "tic de langage"
+},
+{
+"id": 1726956824761,
+"def_fr": "habile; adroit",
+"sent_fr": "Ma grande sœur est très <b>adroite</b> et elle cuisine bien aussi."
+},
+{
+"id": 1726956824762,
+"def_fr": "maladroit",
+"sent_fr": "maladroit"
+},
+{
+"id": 1726956824763,
+"def_fr": "émotion; sentiment",
+"sent_fr": "Elle ne montre pas ses <b>émotions</b> aux autres."
+},
+{
+"id": 1726956824764,
+"def_fr": "émotif; sentimental",
+"sent_fr": "émotif"
+},
+{
+"id": 1726956824765,
+"def_fr": "admirer; aspirer à",
+"sent_fr": "J'<b>admire</b> cette actrice depuis longtemps."
+},
+{
+"id": 1726956824766,
+"def_fr": "aspiration; désir ardent; rêve",
+"sent_fr": "<div>aspiration</div>"
+},
+{
+"id": 1726956824767,
+"def_fr": "envieux; enviable",
+"sent_fr": "Il n'a aucun défaut. Je l'<b>envie</b> vraiment."
+},
+{
+"id": 1726956824768,
+"def_fr": "se calmer; s'apaiser",
+"sent_fr": "Quand je parle avec lui, je me <b>sens</b> très <b>apaisé</b>."
+},
+{
+"id": 1726956824769,
+"def_fr": "vive émotion; émerveillement",
+"sent_fr": "J'ai été <b>bouleversée</b> quand mon petit ami m'a offert une bague de fiançailles."
+},
+{
+"id": 1726956824770,
+"def_fr": "émotion; fait d'être ému",
+"sent_fr": "Tout le monde sera sans doute <b>ému</b> par ce film."
+},
+{
+"id": 1726956824771,
+"def_fr": "admiration; fait d'être impressionné",
+"sent_fr": "M. Ain, votre japonais s'est amélioré. Je suis <b>impressionné</b>."
+},
+{
+"id": 1726956824772,
+"def_fr": "nostalgique; qui rappelle le passé",
+"sent_fr": "J'ai très <b>la nostalgie</b> de mes années de lycée."
+},
+{
+"id": 1726956824773,
+"def_fr": "sans façon; sans hésiter; à l'aise",
+"sent_fr": "Consultez-moi <b>sans hésiter</b> pour n'importe quoi."
+},
+{
+"id": 1726956824774,
+"def_fr": "insouciant; décontracté",
+"sent_fr": "Je veux vivre une vie <b>tranquille</b> et sans stress."
+},
+{
+"id": 1726956824775,
+"def_fr": "bonheur; chance",
+"sent_fr": "Le <b>bonheur</b> est différent selon les personnes."
+},
+{
+"id": 1726956824776,
+"def_fr": "heureux; chanceux",
+"sent_fr": "Il s'est passé beaucoup de choses, mais maintenant mes journées sont <b>heureuses</b>."
+},
+{
+"id": 1726956824777,
+"def_fr": "bonheur; chance",
+"sent_fr": "bonheur"
+},
+{
+"id": 1726956824778,
+"def_fr": "heureux<div>幸福であるさま。<br></div>",
+"sent_fr": "<b>heureux</b>"
+},
+{
+"id": 1726956824779,
+"def_fr": "bonheur; félicité<div>不自由や不満もなく，心が満ち足りている・こと（さま）。<br></div>",
+"sent_fr": "heureux"
+},
+{
+"id": 1726956824780,
+"def_fr": "plaisanterie; blague",
+"sent_fr": "Ses <b>blagues</b> sont drôles."
+},
+{
+"id": 1726956824781,
+"def_fr": "humour",
+"sent_fr": "Ça n'amuse pas de parler avec des gens sans <b>humour</b>."
+},
+{
+"id": 1726956824782,
+"def_fr": "agréable; plaisant; joyeux",
+"sent_fr": "C'est quelqu'un d'<b>agréable</b>."
+},
+{
+"id": 1726956824783,
+"def_fr": "désagréable; déplaisir<br>楽しくないこと。",
+"sent_fr": "désagréable"
+},
+{
+"id": 1726956824784,
+"def_fr": "aimer; chérir",
+"sent_fr": "Cette chanteuse est <b>aimée</b> dans le monde entier."
+},
+{
+"id": 1726956824785,
+"def_fr": "sérieux; avec sérieux",
+"sent_fr": "Il semble l'aimer <b>sérieusement</b>."
+},
+{
+"id": 1726956824786,
+"def_fr": "battre fort (cœur); avoir le cœur qui bat",
+"sent_fr": "Quand la personne que j'aime est près de moi, mon cœur <b>bat fort</b>."
+},
+{
+"id": 1726956824787,
+"def_fr": "excité; impatient",
+"sent_fr": "La semaine prochaine, je pars étudier au Japon, alors je suis <b>tout excité</b>."
+},
+{
+"id": 1726956824788,
+"def_fr": "soulagé; avec soulagement",
+"sent_fr": "J'ai été <b>soulagé</b> d'avoir réussi l'examen."
+},
+{
+"id": 1726956824789,
+"def_fr": "tranquillement; sans se presser",
+"sent_fr": "À l'avenir, je voudrais vivre <b>tranquillement</b> à la campagne."
+},
+{
+"id": 1726956824790,
+"def_fr": "sourire",
+"sent_fr": "Quand elle <b>sourit</b>, tout le monde se sent heureux."
+},
+{
+"id": 1726956824791,
+"def_fr": "visage souriant<div>にこにこと笑った顔。<br></div>",
+"sent_fr": "visage souriant"
+},
+{
+"id": 1726956824792,
+"def_fr": "sourire<div>微笑。笑顔。<br></div>",
+"sent_fr": "sourire"
+},
+{
+"id": 1726956824793,
+"def_fr": "sourire<div>微笑<br></div>",
+"sent_fr": "sourire"
+},
+{
+"id": 1726956824794,
+"def_fr": "absorbé; passionné; fou de",
+"sent_fr": "Ma petite sœur est <b>passionnée</b> par la mode."
+},
+{
+"id": 1726956824795,
+"def_fr": "courage; bravoure",
+"sent_fr": "Ayons du <b>courage</b> et lançons-nous des défis."
+},
+{
+"id": 1726956824796,
+"def_fr": "se lasser de; en avoir assez de",
+"sent_fr": "Je <b>me suis déjà lassé</b> de ce feuilleton."
+},
+{
+"id": 1726956824797,
+"def_fr": "détester; répugner à",
+"sent_fr": "Mon fils <b>n'aime pas</b> aider à la maison."
+},
+{
+"id": 1726956824798,
+"def_fr": "déprimer; se sentir abattu",
+"sent_fr": "Un ami a dit du mal de moi et j'<b>ai déprimé</b>."
+},
+{
+"id": 1726956824799,
+"def_fr": "déçu; être déçu",
+"sent_fr": "J'ai été <b>déçu</b> par les mauvais résultats de l'examen."
+},
+{
+"id": 1726956824800,
+"def_fr": "être triste; s'attrister",
+"sent_fr": "À cause du grave accident, tout le pays <b>est en deuil</b>."
+},
+{
+"id": 1726956824801,
+"def_fr": "tristesse",
+"sent_fr": "tristesse"
+},
+{
+"id": 1726956824802,
+"def_fr": "se réjouir; être ravi<div>よい事に出合って快い・楽しい・ 嬉[うれ]しいと思う。<br></div>",
+"sent_fr": "se réjouir"
+},
+{
+"id": 1726956824803,
+"def_fr": "pitoyable; pauvre; digne de pitié",
+"sent_fr": "Les enfants de cette région ne peuvent pas aller à l'école. C'est <b>triste pour eux</b>."
+},
+{
+"id": 1726956824804,
+"def_fr": "malheureux; digne de pitié",
+"sent_fr": "Je veux redonner du courage aux personnes <b>malheureuses</b>."
+},
+{
+"id": 1726956824805,
+"def_fr": "serré; étroit (vêtement, chaussure)",
+"sent_fr": "Ces chaussures sont trop <b>serrées</b>, je ne peux pas les porter."
+},
+{
+"id": 1726956824806,
+"def_fr": "dur; pénible; intense; sévère",
+"sent_fr": "Ce petit boulot est <b>dur</b>."
+},
+{
+"id": 1726956824807,
+"def_fr": "peur; terreur",
+"sent_fr": "Je n'ai jamais connu une telle <b>peur</b>."
+},
+{
+"id": 1726956824808,
+"def_fr": "film d'horreur",
+"sent_fr": "film d'horreur"
+},
+{
+"id": 1726956824809,
+"def_fr": "peur; terreur",
+"sent_fr": "peur"
+},
+{
+"id": 1726956824810,
+"def_fr": "choc",
+"sent_fr": "Les paroles de mon meilleur ami m'ont terriblement <b>choqué</b>."
+}
+]

@@ -1,0 +1,16 @@
+# Les voix ne quittent jamais la maison.
+voix/
+voices/
+user_files/
+*.mp3
+# Paquets et zips : dans la Release, pas dans le code (plus de 100 Mo).
+*.apkg
+*.ankiaddon
+*.zip
+dist/
+# RÃ©glages perso et fichiers de dev.
+meta.json
+__pycache__/
+*.pyc
+/addon/windose_benkyou/dev/
+dev_tour.flag

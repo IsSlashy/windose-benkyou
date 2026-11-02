@@ -1,0 +1,647 @@
+[
+{
+"id": 1723207972493,
+"def_fr": "document, dossier",
+"sent_fr": "Remettez-moi ces <b>documents</b> d'ici demain, s'il vous plaît."
+},
+{
+"id": 1723207972494,
+"def_fr": "dossier, fichier",
+"sent_fr": "Je range les documents dans le <b>classeur</b>."
+},
+{
+"id": 1723207972495,
+"def_fr": "saisie, entrée (de données)",
+"sent_fr": "<b>Saisissez</b> ici en anglais, s'il vous plaît."
+},
+{
+"id": 1723207972496,
+"def_fr": "traduction",
+"sent_fr": "Je <b>traduis</b> du chinois en japonais."
+},
+{
+"id": 1723207972497,
+"def_fr": "interprétation, interprète",
+"sent_fr": "Depuis l'école primaire, je voulais devenir <b>interprète</b>."
+},
+{
+"id": 1723207972498,
+"def_fr": "méthode, moyen",
+"sent_fr": "Dites-moi la <b>méthode</b> pour devenir meilleur en japonais."
+},
+{
+"id": 1723207972499,
+"def_fr": "manière de faire, façon de faire",
+"sent_fr": "J'ai tout de suite appris la <b>façon de</b> faire le travail."
+},
+{
+"id": 1723207972500,
+"def_fr": "s'habituer à",
+"sent_fr": "Récemment, j'ai enfin <b>pris mes marques</b> dans mon travail."
+},
+{
+"id": 1723207972501,
+"def_fr": "bien se passer, marcher bien",
+"sent_fr": "Le discours de demain <b>se passera</b> bien, je pense."
+},
+{
+"id": 1723207972502,
+"def_fr": "succès, réussite",
+"sent_fr": "M. Tanaka a <b>réussi</b> dans son travail."
+},
+{
+"id": 1723207972503,
+"def_fr": "demander, charger (de)",
+"sent_fr": "Le responsable du magasin m'a <b>chargé</b> d'un travail."
+},
+{
+"id": 1723207972504,
+"def_fr": "aider",
+"sent_fr": "<b>Aidez</b>-nous à interpréter le français, s'il vous plaît."
+},
+{
+"id": 1723207972505,
+"def_fr": "heures supplémentaires",
+"sent_fr": "Quand je suis occupé, je fais des <b>heures supplémentaires</b>."
+},
+{
+"id": 1723207972506,
+"def_fr": "déraisonnable; contre nature; injustifiable; impossible",
+"sent_fr": "Ne dites pas des choses aussi <b>déraisonnables</b>, s'il vous plaît.<br>"
+},
+{
+"id": 1723207972507,
+"def_fr": "impossible; trop dur<br>",
+"sent_fr": "Faire un petit boulot tous les jours, c'est <b>impossible</b>.<br>"
+},
+{
+"id": 1723207972508,
+"def_fr": "se dépêcher",
+"sent_fr": "On n'a pas beaucoup de temps, alors <b>dépêchez-vous</b>."
+},
+{
+"id": 1723207972509,
+"def_fr": "pause déjeuner",
+"sent_fr": "La <b>pause déjeuner</b> dure une heure à partir de midi."
+},
+{
+"id": 1723207972510,
+"def_fr": "pause",
+"sent_fr": "Il est 15 h, alors faisons une petite <b>pause</b>."
+},
+{
+"id": 1723207972511,
+"def_fr": "fête de fin d'année",
+"sent_fr": "La semaine prochaine, si on faisait la <b>fête de fin d'année</b> ?"
+},
+{
+"id": 1723207972512,
+"def_fr": "fonctionnaire",
+"sent_fr": "Mon père et ma mère sont tous les deux <b>fonctionnaires</b>."
+},
+{
+"id": 1723207972513,
+"def_fr": "avocat",
+"sent_fr": "Devenir <b>avocat</b> est difficile."
+},
+{
+"id": 1723207972514,
+"def_fr": "usine",
+"sent_fr": "Je travaillais à temps partiel dans une <b>usine</b> de pain."
+},
+{
+"id": 1723207972515,
+"def_fr": "bureau",
+"sent_fr": "Je mange mon déjeuner au <b>bureau</b>."
+},
+{
+"id": 1723207972516,
+"def_fr": "guide touristique",
+"sent_fr": "J'ai acheté un <b>guide touristique</b> à la librairie."
+},
+{
+"id": 1723207972517,
+"def_fr": "horaires (de train)",
+"sent_fr": "Où sont les <b>horaires</b> des trains ?"
+},
+{
+"id": 1723207972518,
+"def_fr": "plan, projet",
+"sent_fr": "Cette année, je <b>prévois</b> un voyage avec ma famille."
+},
+{
+"id": 1723207972519,
+"def_fr": "loin",
+"sent_fr": "De temps en temps, j'aimerais aller <b>loin</b>."
+},
+{
+"id": 1723207972520,
+"def_fr": "étranger (à l'étranger), outre-mer",
+"sent_fr": "Je voudrais aller <b>à l'étranger</b> pendant les vacances d'été."
+},
+{
+"id": 1723207972521,
+"def_fr": "intérieur du pays, national",
+"sent_fr": "En été, je vais voyager <b>dans le pays</b> avec ma mère."
+},
+{
+"id": 1723207972522,
+"def_fr": "paysage, vue",
+"sent_fr": "Le <b>paysage</b> qu'on voit d'ici est vraiment beau."
+},
+{
+"id": 1723207972523,
+"def_fr": "fête, festival",
+"sent_fr": "Il y a beaucoup de <b>fêtes</b> intéressantes au Japon."
+},
+{
+"id": 1723207972524,
+"def_fr": "feu d'artifice",
+"sent_fr": "La technique des <b>feux d'artifice</b> japonais est la meilleure du monde."
+},
+{
+"id": 1723207972525,
+"def_fr": "week-end prolongé, congé de plusieurs jours consécutifs",
+"sent_fr": "J'ai bientôt la joie d'avoir un <b>congé prolongé</b> de quatre jours."
+},
+{
+"id": 1723207972526,
+"def_fr": "Nouvel An",
+"sent_fr": "Je compte rentrer dans mon pays pendant les vacances du <b>Nouvel An</b>."
+},
+{
+"id": 1723207972527,
+"def_fr": "agence de voyages",
+"sent_fr": "L'<b>agence de voyages</b> près de la gare est très aimable."
+},
+{
+"id": 1723207972528,
+"def_fr": "s'inscrire, demander, postuler",
+"sent_fr": "Je me suis <b>inscrit</b> avec un ami pour un voyage à Hawaï."
+},
+{
+"id": 1723207972529,
+"def_fr": "chambre simple (avec un lit simple)",
+"sent_fr": "J'ai réservé une chambre <b>simple</b>."
+},
+{
+"id": 1723207972530,
+"def_fr": "réservation",
+"sent_fr": "Il vaut mieux <b>réserver</b> l'hôtel vite."
+},
+{
+"id": 1723207972531,
+"def_fr": "préparatifs",
+"sent_fr": "Je fais les <b>préparatifs</b> de mon voyage."
+},
+{
+"id": 1723207972532,
+"def_fr": "aéroport",
+"sent_fr": "D'ici, on va à l'<b>aéroport</b> en bus."
+},
+{
+"id": 1723207972533,
+"def_fr": "change (de monnaie)",
+"sent_fr": "Où dois-je <b>changer</b> mon argent en yens ?"
+},
+{
+"id": 1723207972534,
+"def_fr": "départ",
+"sent_fr": "L'avion va bientôt <b>partir</b>."
+},
+{
+"id": 1723207972535,
+"def_fr": "arrivée",
+"sent_fr": "À quelle heure <b>arrivez</b>-vous au Japon ?"
+},
+{
+"id": 1723207972536,
+"def_fr": "retour dans son pays",
+"sent_fr": "Le mois prochain, je dois <b>rentrer dans mon pays</b>."
+},
+{
+"id": 1723207972537,
+"def_fr": "auberge japonaise, ryokan",
+"sent_fr": "Ce <b>ryokan</b> est très célèbre."
+},
+{
+"id": 1723207972538,
+"def_fr": "réception (d'un hôtel)",
+"sent_fr": "Je montre mon passeport à la <b>réception</b> de l'hôtel."
+},
+{
+"id": 1723207972539,
+"def_fr": "loger, passer la nuit",
+"sent_fr": "J'aimerais <b>séjourner</b> dans ce célèbre ryokan."
+},
+{
+"id": 1723207972540,
+"def_fr": "passer (du temps)",
+"sent_fr": "J'aimerais <b>passer</b> du temps tranquillement dans un pays chaud."
+},
+{
+"id": 1723207972541,
+"def_fr": "expérience",
+"sent_fr": "Quand on est jeune, on <b>fait</b> toutes sortes d'<b>expériences</b>."
+},
+{
+"id": 1723207972542,
+"def_fr": "visite touristique, tourisme",
+"sent_fr": "J'ai pris un bus et j'ai <b>visité</b> Tokyo."
+},
+{
+"id": 1723207972543,
+"def_fr": "carte postale",
+"sent_fr": "Mon ami m'a envoyé une jolie <b>carte postale</b>."
+},
+{
+"id": 1723207972544,
+"def_fr": "cuisine japonaise",
+"sent_fr": "La cuisine japonaise s'appelle aussi <b>washoku</b>."
+},
+{
+"id": 1723207972545,
+"def_fr": "cuisine occidentale",
+"sent_fr": "Aujourd'hui, j'ai envie de manger de la <b>cuisine occidentale</b>."
+},
+{
+"id": 1723207972546,
+"def_fr": "steak",
+"sent_fr": "J'ai mangé tout seul un <b>steak</b> de 400 grammes."
+},
+{
+"id": 1723207972547,
+"def_fr": "steak haché",
+"sent_fr": "Le <b>steak haché</b> au tofu est bon pour la santé."
+},
+{
+"id": 1723207972548,
+"def_fr": "salade",
+"sent_fr": "Je mange beaucoup de <b>salade</b> tous les jours."
+},
+{
+"id": 1723207972549,
+"def_fr": "gâteau",
+"sent_fr": "Je mange du <b>gâteau</b> tous les jours à 15 h."
+},
+{
+"id": 1723207972550,
+"def_fr": "menu, carte",
+"sent_fr": "Qu'y a-t-il au <b>menu</b> du dîner ce soir ?"
+},
+{
+"id": 1723207972551,
+"def_fr": "à volonté (buffet), à gogo",
+"sent_fr": "Ce restaurant propose du <b>à volonté</b> pour 2 000 yens."
+},
+{
+"id": 1723207972552,
+"def_fr": "commande",
+"sent_fr": "J'ai <b>commandé</b> beaucoup de plats de viande."
+},
+{
+"id": 1723207972553,
+"def_fr": "régal, offrir un repas",
+"sent_fr": "Pour mon anniversaire, un ami m'a <b>invité au restaurant</b>."
+},
+{
+"id": 1723207972554,
+"def_fr": "alcool",
+"sent_fr": "Je ne peux pas boire d'<b>alcool</b>, alors je prends du thé oolong."
+},
+{
+"id": 1723207972555,
+"def_fr": "toast, trinquer",
+"sent_fr": "<b>Trinquons</b> avec de la bière."
+},
+{
+"id": 1723207972556,
+"def_fr": "se saouler, être ivre",
+"sent_fr": "J'ai trop bu de vin et je me suis <b>saoulé</b>."
+},
+{
+"id": 1723207972557,
+"def_fr": "sauce soja",
+"sent_fr": "On utilise de la <b>sauce soja</b> pour ce plat."
+},
+{
+"id": 1723207972558,
+"def_fr": "sauce",
+"sent_fr": "La <b>sauce</b> convient bien à ce plat."
+},
+{
+"id": 1723207972559,
+"def_fr": "tremper (dans la sauce soja)",
+"sent_fr": "C'est bon si on le <b>trempe dans la sauce soja</b>."
+},
+{
+"id": 1723207972560,
+"def_fr": "goût, saveur",
+"sent_fr": "J'adore le <b>goût</b> de la cuisine de ce restaurant."
+},
+{
+"id": 1723207972561,
+"def_fr": "léger (goût), fade, dilué",
+"sent_fr": "La soupe miso est un peu <b>fade</b> aujourd'hui."
+},
+{
+"id": 1723207972562,
+"def_fr": "fort (goût, odeur, etc.); riche, épais, corsé",
+"sent_fr": "J'aime le thé <b>fort</b>."
+},
+{
+"id": 1723207972563,
+"def_fr": "amer",
+"sent_fr": "La bière est <b>amère</b>, alors je n'en bois pas beaucoup."
+},
+{
+"id": 1723207972564,
+"def_fr": "odeur",
+"sent_fr": "Une bonne <b>odeur</b> vient de la cuisine."
+},
+{
+"id": 1723207972565,
+"def_fr": "mâcher, mordre",
+"sent_fr": "Pendant le repas, <b>mâchez</b> bien ce que vous mangez."
+},
+{
+"id": 1723207972566,
+"def_fr": "quantité, portion",
+"sent_fr": "Les <b>portions</b> de spaghettis de ce restaurant sont grosses."
+},
+{
+"id": 1723207972567,
+"def_fr": "laisser",
+"sent_fr": "J'ai <b>laissé</b> un peu de riz."
+},
+{
+"id": 1723207972568,
+"def_fr": "rester, être en reste",
+"sent_fr": "S'il <b>reste</b> du plat, mangeons-le demain."
+},
+{
+"id": 1723207972569,
+"def_fr": "défi, relever un défi; tenter; essayer",
+"sent_fr": "Je vais <b>tenter</b> la cuisine thaïlandaise.<br>Je vais <b>tenter</b> la cuisine thaïlandaise."
+},
+{
+"id": 1723207972570,
+"def_fr": "ingrédient, matière première",
+"sent_fr": "Je cuisine avec les <b>ingrédients</b> du réfrigérateur."
+},
+{
+"id": 1723207972571,
+"def_fr": "moitié",
+"sent_fr": "Coupez la tomate en <b>deux</b>, s'il vous plaît."
+},
+{
+"id": 1723207972572,
+"def_fr": "mesurer",
+"sent_fr": "Je <b>mesure</b> le sel et le sucre avec une cuillère."
+},
+{
+"id": 1723207972573,
+"def_fr": "mélanger",
+"sent_fr": "<b>Mélangez</b> bien la viande et les oignons, s'il vous plaît."
+},
+{
+"id": 1723207972574,
+"def_fr": "outil, ustensile",
+"sent_fr": "J'ai acheté de pratiques <b>ustensiles</b> de cuisine."
+},
+{
+"id": 1723207972575,
+"def_fr": "marmite, casserole",
+"sent_fr": "Mettez de l'eau dans la <b>casserole</b>, s'il vous plaît."
+},
+{
+"id": 1723207972576,
+"def_fr": "couvercle",
+"sent_fr": "Où est le <b>couvercle</b> de cette bouteille ?"
+},
+{
+"id": 1723207972577,
+"def_fr": "assiette",
+"sent_fr": "Utilisons une <b>assiette</b> blanche pour ce plat."
+},
+{
+"id": 1723207972578,
+"def_fr": "bol (à riz)",
+"sent_fr": "À qui est ce grand <b>bol</b> ?"
+},
+{
+"id": 1723207972579,
+"def_fr": "préparation, préparer",
+"sent_fr": "<b>Préparez</b> une grande assiette, s'il vous plaît."
+},
+{
+"id": 1723207972580,
+"def_fr": "faire la queue, s'aligner",
+"sent_fr": "Beaucoup de gens <b>font la queue</b> devant le restaurant de ramen."
+},
+{
+"id": 1723207972581,
+"def_fr": "aligner, disposer en ligne",
+"sent_fr": "J'ai <b>disposé</b> les plats sur la table."
+},
+{
+"id": 1723207972582,
+"def_fr": "feu, chaleur",
+"sent_fr": "Le <b>feu</b> est un peu fort, baissez-le, s'il vous plaît."
+},
+{
+"id": 1723207972583,
+"def_fr": "griller, cuire",
+"sent_fr": "Je <b>fais cuire</b> le poisson pendant environ 10 minutes."
+},
+{
+"id": 1723207972584,
+"def_fr": "être cuit, cuire",
+"sent_fr": "Le pain va bientôt <b>être cuit</b>."
+},
+{
+"id": 1723207972585,
+"def_fr": "bouilloire",
+"sent_fr": "Y a-t-il de l'eau dans la <b>bouilloire</b> ?"
+},
+{
+"id": 1723207972586,
+"def_fr": "faire bouillir, chauffer (un liquide)",
+"sent_fr": "<b>Faisons bouillir</b> de l'eau dans la bouilloire."
+},
+{
+"id": 1723207972587,
+"def_fr": "réchauffer",
+"sent_fr": "<b>Réchauffez</b> cette soupe, s'il vous plaît."
+},
+{
+"id": 1723207972588,
+"def_fr": "refroidir, rafraîchir",
+"sent_fr": "Je vais <b>laisser refroidir</b> ça 30 minutes au réfrigérateur."
+},
+{
+"id": 1723207972589,
+"def_fr": "pourrir, se gâter",
+"sent_fr": "La viande du réfrigérateur <b>s'est gâtée</b>."
+},
+{
+"id": 1723207972590,
+"def_fr": "jeter",
+"sent_fr": "Ne <b>jetez</b> pas ces légumes, s'il vous plaît."
+},
+{
+"id": 1723207972591,
+"def_fr": "riz",
+"sent_fr": "Je préfère le <b>riz</b> au pain."
+},
+{
+"id": 1723207972592,
+"def_fr": "repas en boîte, bento",
+"sent_fr": "Tous les jours, je prépare moi-même mon <b>bento</b>."
+},
+{
+"id": 1723207972593,
+"def_fr": "accompagnement, plat d'accompagnement",
+"sent_fr": "L'<b>accompagnement</b> d'aujourd'hui, ce sont des tempura."
+},
+{
+"id": 1723207972594,
+"def_fr": "aliment instantané",
+"sent_fr": "Je mange souvent des <b>aliments instantanés</b>."
+},
+{
+"id": 1723207972595,
+"def_fr": "conserve",
+"sent_fr": "Les <b>conserves</b> sont pratiques pour cuisiner."
+},
+{
+"id": 1723207972596,
+"def_fr": "tâches ménagères",
+"sent_fr": "De toutes les <b>tâches ménagères</b>, c'est la cuisine que je préfère."
+},
+{
+"id": 1723207972597,
+"def_fr": "prix",
+"sent_fr": "J'achète des chaussures après avoir regardé le <b>prix</b>."
+},
+{
+"id": 1723207972598,
+"def_fr": "monter, augmenter",
+"sent_fr": "Le prix des denrées alimentaires a <b>augmenté</b>."
+},
+{
+"id": 1723207972599,
+"def_fr": "soldes",
+"sent_fr": "Les <b>soldes</b> d'été commencent demain."
+},
+{
+"id": 1723207972600,
+"def_fr": "réduction, remise",
+"sent_fr": "Ce restaurant fait une <b>réduction</b> pour les étudiants."
+},
+{
+"id": 1723207972601,
+"def_fr": "gratuit",
+"sent_fr": "Ce magazine est <b>gratuit</b>."
+},
+{
+"id": 1723207972602,
+"def_fr": "payant",
+"sent_fr": "Ces toilettes sont <b>payantes</b>."
+},
+{
+"id": 1723207972603,
+"def_fr": "portefeuille",
+"sent_fr": "J'ai oublié mon <b>portefeuille</b> à la maison."
+},
+{
+"id": 1723207972604,
+"def_fr": "caisse (enregistreuse)",
+"sent_fr": "Une dizaine de personnes font la queue devant la <b>caisse</b>."
+},
+{
+"id": 1723207972605,
+"def_fr": "calcul",
+"sent_fr": "Ça prend du temps de <b>calculer</b>."
+},
+{
+"id": 1723207972606,
+"def_fr": "employé de magasin, vendeur",
+"sent_fr": "Les <b>employés</b> de ce supermarché sont aimables."
+},
+{
+"id": 1723207972607,
+"def_fr": "compter",
+"sent_fr": "<b>Comptez</b> combien il y a de bananes, s'il vous plaît."
+},
+{
+"id": 1723207972608,
+"def_fr": "payer",
+"sent_fr": "Où dois-je <b>payer</b> ?"
+},
+{
+"id": 1723207972609,
+"def_fr": "signature",
+"sent_fr": "Votre <b>signature</b> ici, s'il vous plaît."
+},
+{
+"id": 1723207972610,
+"def_fr": "suffire, être suffisant",
+"sent_fr": "Il <b>manque</b> un peu d'argent."
+},
+{
+"id": 1723207972611,
+"def_fr": "monnaie (rendue)",
+"sent_fr": "J'ai oublié de prendre ma <b>monnaie</b>."
+},
+{
+"id": 1723207972612,
+"def_fr": "ticket de caisse",
+"sent_fr": "Quand je fais des courses, je prends le <b>ticket de caisse</b>."
+},
+{
+"id": 1723207972613,
+"def_fr": "reçu (officiel), facture",
+"sent_fr": "J'ai obtenu un <b>reçu</b> au restaurant."
+},
+{
+"id": 1723207972614,
+"def_fr": "sac",
+"sent_fr": "Je vais toujours faire les courses avec un <b>sac</b>."
+},
+{
+"id": 1723207972615,
+"def_fr": "échanger, remplacer",
+"sent_fr": "J'ai fait <b>échanger</b> les chaussures."
+},
+{
+"id": 1723207972616,
+"def_fr": "chercher",
+"sent_fr": "Je <b>cherche</b> un pull rose depuis longtemps."
+},
+{
+"id": 1723207972617,
+"def_fr": "choisir",
+"sent_fr": "C'est très agréable de <b>choisir</b> le cadeau."
+},
+{
+"id": 1723207972618,
+"def_fr": "emballer, envelopper",
+"sent_fr": "<b>Emballez</b> cette chemise, s'il vous plaît."
+},
+{
+"id": 1723207972619,
+"def_fr": "retirer (de l'argent)",
+"sent_fr": "Je <b>retire de l'argent</b> à la banque."
+},
+{
+"id": 1723207972620,
+"def_fr": "bien se vendre, se vendre",
+"sent_fr": "Le pain d'ici <b>se vend</b> très bien."
+},
+{
+"id": 1723207972621,
+"def_fr": "produit alimentaire, denrées",
+"sent_fr": "Les <b>produits alimentaires</b> de ce magasin sont bon marché."
+}
+]

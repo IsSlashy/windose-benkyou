@@ -1,0 +1,642 @@
+[
+{
+"id": 1723207972750,
+"def_fr": "cent millions",
+"sent_fr": "Il y a 7 <b>milliards</b> de personnes dans le monde."
+},
+{
+"id": 1723207972751,
+"def_fr": "économie",
+"sent_fr": "Que pensez-vous qu'il adviendra de l'<b>économie</b> asiatique à partir de maintenant ?"
+},
+{
+"id": 1723207972752,
+"def_fr": "commerce extérieur, commerce international",
+"sent_fr": "Après l'université, je voudrais travailler dans le <b>commerce international</b>."
+},
+{
+"id": 1723207972753,
+"def_fr": "exportation, exporter",
+"sent_fr": "Le Japon <b>exporte</b> beaucoup de voitures."
+},
+{
+"id": 1723207972754,
+"def_fr": "importation, importer",
+"sent_fr": "Le Japon <b>importe</b> du pétrole et des matières premières."
+},
+{
+"id": 1723207972755,
+"def_fr": "matières premières",
+"sent_fr": "L'entreprise A importe les <b>matières premières</b> de la bière."
+},
+{
+"id": 1723207972756,
+"def_fr": "pétrole",
+"sent_fr": "Le prix du <b>pétrole</b> augmente encore."
+},
+{
+"id": 1723207972757,
+"def_fr": "prix des marchandises, coût de la vie",
+"sent_fr": "Dans ce pays, le <b>coût de la vie</b> est élevé."
+},
+{
+"id": 1723207972758,
+"def_fr": "politique",
+"sent_fr": "J'étudie la <b>politique</b> japonaise."
+},
+{
+"id": 1723207972759,
+"def_fr": "Premier ministre",
+"sent_fr": "Les <b>Premiers ministres</b> du Japon et de l'Angleterre se sont salués."
+},
+{
+"id": 1723207972760,
+"def_fr": "président (d'un pays)",
+"sent_fr": "Le <b>président</b> du pays A vient au Japon."
+},
+{
+"id": 1723207972761,
+"def_fr": "paix, paisible<br>",
+"sent_fr": "Que pouvons-nous faire pour la <b>paix</b> ?<br>"
+},
+{
+"id": 1723207972762,
+"def_fr": "paix, paisible<br>",
+"sent_fr": "Je voudrais vivre dans un pays <b>paisible</b>.<br>"
+},
+{
+"id": 1723207972763,
+"def_fr": "guerre",
+"sent_fr": "J'aimerais un monde sans <b>guerre</b>."
+},
+{
+"id": 1723207972764,
+"def_fr": "culture",
+"sent_fr": "Je veux connaître les <b>cultures</b> étrangères."
+},
+{
+"id": 1723207972765,
+"def_fr": "patrimoine mondial, site du patrimoine mondial",
+"sent_fr": "Combien y a-t-il de sites du <b>patrimoine mondial</b> au Japon ?"
+},
+{
+"id": 1723207972766,
+"def_fr": "siècle",
+"sent_fr": "Le 21e <b>siècle</b> a commencé en 2001."
+},
+{
+"id": 1723207972767,
+"def_fr": "époque, ère",
+"sent_fr": "C'est aujourd'hui l'<b>ère</b> où les robots travaillent."
+},
+{
+"id": 1723207972768,
+"def_fr": "international",
+"sent_fr": "Je voudrais étudier à l'étranger et trouver un travail <b>international</b>."
+},
+{
+"id": 1723207972769,
+"def_fr": "partout dans le monde, dans le monde entier",
+"sent_fr": "Faisons-nous des amis <b>dans le monde entier</b>."
+},
+{
+"id": 1723207972770,
+"def_fr": "adresse e-mail",
+"sent_fr": "Connaissez-vous l'<b>adresse e-mail</b> de M. Tanaka ?"
+},
+{
+"id": 1723207972771,
+"def_fr": "réponse",
+"sent_fr": "Mon ami ne me <b>répond</b> pas à mon e-mail."
+},
+{
+"id": 1723207972772,
+"def_fr": "faire connaissance, se rencontrer",
+"sent_fr": "J'ai <b>fait sa connaissance</b> grâce à un ami qui nous a présentés."
+},
+{
+"id": 1723207972773,
+"def_fr": "présentation, présenter",
+"sent_fr": "Un ami m'a <b>présenté</b> à elle."
+},
+{
+"id": 1723207972774,
+"def_fr": "aller bien avec, convenir à",
+"sent_fr": "Ces chaussures <b>vont bien</b> avec ta tenue d'aujourd'hui."
+},
+{
+"id": 1723207972775,
+"def_fr": "consultation, demander conseil",
+"sent_fr": "Je <b>demande conseil</b> à ma mère pour tout."
+},
+{
+"id": 1723207972776,
+"def_fr": "accord, approbation",
+"sent_fr": "Tout le monde <b>approuve</b> son mariage."
+},
+{
+"id": 1723207972777,
+"def_fr": "opposition, contre",
+"sent_fr": "Ma famille <b>s'opposait</b> à mes études à l'étranger."
+},
+{
+"id": 1723207972778,
+"def_fr": "rendre visite à, visiter",
+"sent_fr": "Je voudrais <b>rendre visite</b> à la maison de mon ami chinois."
+},
+{
+"id": 1723207972779,
+"def_fr": "guidage, accompagnement, guider",
+"sent_fr": "Le mois prochain, je vais <b>faire visiter</b> Tokyo à un ami de mon pays."
+},
+{
+"id": 1723207972780,
+"def_fr": "donner",
+"sent_fr": "J'ai <b>offert</b> une cravate à mon père pour la fête des pères."
+},
+{
+"id": 1723207972781,
+"def_fr": "donner (à moi ou aux miens), être donné",
+"sent_fr": "Pour mon anniversaire, ma grande sœur ne m'a rien <b>donné</b>."
+},
+{
+"id": 1723207972782,
+"def_fr": "recevoir",
+"sent_fr": "J'ai <b>reçu</b> ce stylo d'un ami."
+},
+{
+"id": 1723207972783,
+"def_fr": "offrir, faire cadeau de",
+"sent_fr": "Que dois-je <b>offrir</b> à mon amie qui rentre dans son pays ?"
+},
+{
+"id": 1723207972784,
+"def_fr": "cadeau",
+"sent_fr": "Ce collier est un <b>cadeau</b> de sa part."
+},
+{
+"id": 1723207972785,
+"def_fr": "félicitations, cadeau de félicitations",
+"sent_fr": "J'ai fait un <b>cadeau</b> à mon ami pour son entrée à l'école."
+},
+{
+"id": 1723207972786,
+"def_fr": "remettre, donner, passer",
+"sent_fr": "J'ai <b>remis</b> des fleurs au professeur."
+},
+{
+"id": 1723207972787,
+"def_fr": "se réjouir, être content",
+"sent_fr": "Ma mère s'est beaucoup <b>réjouie</b> de mon cadeau."
+},
+{
+"id": 1723207972788,
+"def_fr": "grâce à",
+"sent_fr": "Tous les jours sont agréables <b>grâce</b> à mes amis."
+},
+{
+"id": 1723207972789,
+"def_fr": "reconnaissance, remerciement",
+"sent_fr": "Je suis toujours <b>reconnaissant</b> envers mes amis."
+},
+{
+"id": 1723207972790,
+"def_fr": "remerciements, gratitude",
+"sent_fr": "J'ai écrit une lettre de <b>remerciement</b> à mon professeur."
+},
+{
+"id": 1723207972791,
+"def_fr": "s'excuser, présenter ses excuses",
+"sent_fr": "Quand on a tort, <b>excusons-nous</b>."
+},
+{
+"id": 1723207972792,
+"def_fr": "retenue, réserve, décliner (poliment)",
+"sent_fr": "Ne vous <b>gênez</b> pas, dites-moi tout."
+},
+{
+"id": 1723207972793,
+"def_fr": "remarquer, s'apercevoir",
+"sent_fr": "Je m'étais coupé les cheveux, mais mon mari ne l'a pas <b>remarqué</b>."
+},
+{
+"id": 1723207972794,
+"def_fr": "meilleur ami, ami proche",
+"sent_fr": "J'ai trois <b>amis proches</b>."
+},
+{
+"id": 1723207972795,
+"def_fr": "aîné (à l'école, au travail), ancien",
+"sent_fr": "Mon <b>aîné</b> de mon petit boulot s'occupe toujours de moi."
+},
+{
+"id": 1723207972796,
+"def_fr": "ils, eux",
+"sent_fr": "A : « Et ces gens-là ? »<br>B : « Ah, <b>eux</b>, ce sont mes camarades de lycée. »"
+},
+{
+"id": 1723207972797,
+"def_fr": "tout le monde, tous",
+"sent_fr": "Dans ma famille, <b>tout le monde</b> va bien."
+},
+{
+"id": 1723207972798,
+"def_fr": "populaire, popularité",
+"sent_fr": "Maria est <b>populaire</b> auprès de tout le monde."
+},
+{
+"id": 1723207972799,
+"def_fr": "rendez-vous (amoureux)",
+"sent_fr": "Je suis tellement occupé que je n'ai pas le temps d'avoir un <b>rendez-vous</b>."
+},
+{
+"id": 1723207972800,
+"def_fr": "sortir avec, être en couple avec<br>",
+"sent_fr": "Depuis quand ces deux-là <b>sortent-ils ensemble</b> ?<br>"
+},
+{
+"id": 1723207972801,
+"def_fr": "accompagner, tenir compagnie, faire (qqch) avec qqn<br>",
+"sent_fr": "<b>Accompagnez-moi</b> faire des courses demain.<br>"
+},
+{
+"id": 1723207972802,
+"def_fr": "emmener (une personne)",
+"sent_fr": "Je voudrais <b>emmener</b> ma compagne à la mer."
+},
+{
+"id": 1723207972803,
+"def_fr": "amener (une personne)",
+"sent_fr": "Mon petit frère a <b>amené</b> une fille à la maison."
+},
+{
+"id": 1723207972804,
+"def_fr": "rencontre arrangée en vue du mariage, omiai",
+"sent_fr": "La semaine prochaine, j'ai un <b>omiai</b> dans un restaurant."
+},
+{
+"id": 1723207972805,
+"def_fr": "fiançailles",
+"sent_fr": "Ma grande sœur s'est <b>fiancée</b> avec un de mes amis."
+},
+{
+"id": 1723207972806,
+"def_fr": "mariage, se marier",
+"sent_fr": "Le mois prochain, ma grande sœur <b>se marie</b>."
+},
+{
+"id": 1723207972807,
+"def_fr": "informer, faire savoir",
+"sent_fr": "J'ai <b>annoncé</b> mes fiançailles à mes amis."
+},
+{
+"id": 1723207972808,
+"def_fr": "signal, signe",
+"sent_fr": "Les deux se faisaient des <b>signes</b> avec les yeux."
+},
+{
+"id": 1723207972809,
+"def_fr": "dispute, bagarre",
+"sent_fr": "Ces deux-là <b>se disputent</b> tout le temps."
+},
+{
+"id": 1723207972810,
+"def_fr": "mensonge",
+"sent_fr": "Il ne faut pas <b>mentir</b> à ses amis."
+},
+{
+"id": 1723207972811,
+"def_fr": "se séparer, rompre",
+"sent_fr": "Les deux <b>ont rompu</b>."
+},
+{
+"id": 1723207972812,
+"def_fr": "obstacle, gêne, dérangement<br>",
+"sent_fr": "Un <b>contretemps</b> est venu perturber notre rendez-vous.<br>"
+},
+{
+"id": 1723207972813,
+"def_fr": "obstacle, gêne, dérangement<br>",
+"sent_fr": "Ce gros bagage est très <b>encombrant</b>.<br>"
+},
+{
+"id": 1723207972814,
+"def_fr": "il, lui; petit ami<br>",
+"sent_fr": "Mon <b>copain</b> est quelqu'un de très gentil.<br>"
+},
+{
+"id": 1723207972815,
+"def_fr": "il, lui; petit ami<br>",
+"sent_fr": "C'est <b>lui</b>, le mari de Mme Tanaka ?<br>"
+},
+{
+"id": 1723207972816,
+"def_fr": "elle; petite amie<br>",
+"sent_fr": "Depuis que je suis venu au Japon, j'ai une <b>copine</b>.<br>"
+},
+{
+"id": 1723207972817,
+"def_fr": "elle; petite amie<br>",
+"sent_fr": "Connaissez-vous <b>son</b> nom ?<br>"
+},
+{
+"id": 1723207972818,
+"def_fr": "tu, toi (familier, plutôt d'un homme à son cadet ou son égal)",
+"sent_fr": "Il m'appelle « <b>kimi</b> »."
+},
+{
+"id": 1723207972819,
+"def_fr": "moi, je (masculin, familier)",
+"sent_fr": "<b>Moi</b>, je t'aime beaucoup."
+},
+{
+"id": 1723207972820,
+"def_fr": "célibataire",
+"sent_fr": "Tous mes amis de la fac sont encore <b>célibataires</b>."
+},
+{
+"id": 1723207972821,
+"def_fr": "relation, rapport",
+"sent_fr": "Quelle est la <b>relation</b> entre ces deux-là ?"
+},
+{
+"id": 1723207972822,
+"def_fr": "important, cher",
+"sent_fr": "Elle est une personne <b>importante</b> pour moi."
+},
+{
+"id": 1723207972823,
+"def_fr": "spécial, particulier",
+"sent_fr": "Elle est une personne <b>spéciale</b> pour moi."
+},
+{
+"id": 1723207972824,
+"def_fr": "avoir des difficultés, être embarrassé, être dans l'embarras",
+"sent_fr": "Avez-vous des <b>difficultés</b> dans votre vie au Japon ?"
+},
+{
+"id": 1723207972825,
+"def_fr": "objet oublié",
+"sent_fr": "J'ai <b>oublié quelque chose</b> sur le porte-bagages du train."
+},
+{
+"id": 1723207972826,
+"def_fr": "disparaître, être perdu",
+"sent_fr": "Mon dictionnaire électronique a <b>disparu</b>."
+},
+{
+"id": 1723207972827,
+"def_fr": "perdre",
+"sent_fr": "Hier, j'ai <b>perdu</b> mon portefeuille quelque part."
+},
+{
+"id": 1723207972828,
+"def_fr": "laisser tomber, faire tomber",
+"sent_fr": "J'ai <b>laissé tomber</b> mon smartphone dans la rue."
+},
+{
+"id": 1723207972829,
+"def_fr": "tomber",
+"sent_fr": "Mon sac est <b>tombé</b> par terre."
+},
+{
+"id": 1723207972830,
+"def_fr": "se casser, tomber en panne",
+"sent_fr": "La télécommande de la télé s'est <b>cassée</b>."
+},
+{
+"id": 1723207972831,
+"def_fr": "réparer",
+"sent_fr": "<b>Réparez</b> la climatisation en panne, s'il vous plaît."
+},
+{
+"id": 1723207972832,
+"def_fr": "être déchiré",
+"sent_fr": "Le livre emprunté à la bibliothèque <b>était déchiré</b>."
+},
+{
+"id": 1723207972833,
+"def_fr": "déchirer",
+"sent_fr": "J'ai <b>déchiré</b> la lettre qu'il m'avait envoyée."
+},
+{
+"id": 1723207972834,
+"def_fr": "salir",
+"sent_fr": "J'ai <b>sali</b> la chemise que je venais d'acheter."
+},
+{
+"id": 1723207972835,
+"def_fr": "être sale, se salir",
+"sent_fr": "La table est un peu <b>sale</b>, n'est-ce pas ?"
+},
+{
+"id": 1723207972836,
+"def_fr": "casser, briser, fendre",
+"sent_fr": "J'ai <b>cassé</b> la tasse du directeur."
+},
+{
+"id": 1723207972837,
+"def_fr": "se casser, se briser, se fendre",
+"sent_fr": "Les vitres de la maison <b>se sont brisées</b> à cause du typhon."
+},
+{
+"id": 1723207972838,
+"def_fr": "bruit, son",
+"sent_fr": "J'entends un gros <b>bruit</b> dehors."
+},
+{
+"id": 1723207972839,
+"def_fr": "faire du bruit, s'agiter",
+"sent_fr": "Les gens de la chambre du dessus <b>font du bruit</b> en pleine nuit."
+},
+{
+"id": 1723207972840,
+"def_fr": "bruyant",
+"sent_fr": "Dans cet appartement, le bruit des voitures est très <b>bruyant</b>."
+},
+{
+"id": 1723207972841,
+"def_fr": "voleur, cambrioleur",
+"sent_fr": "Hier, un <b>voleur</b> est entré chez moi."
+},
+{
+"id": 1723207972842,
+"def_fr": "voler, dérober",
+"sent_fr": "Un diamant a été <b>volé</b>."
+},
+{
+"id": 1723207972843,
+"def_fr": "attraper, arrêter",
+"sent_fr": "Ma mère a <b>attrapé</b> le voleur."
+},
+{
+"id": 1723207972844,
+"def_fr": "maltraiter, harceler, brimer",
+"sent_fr": "Ne <b>maltraitez</b> pas les animaux, s'il vous plaît."
+},
+{
+"id": 1723207972845,
+"def_fr": "toucher",
+"sent_fr": "Si on <b>touche</b> ce bouton, ça fait un bruit."
+},
+{
+"id": 1723207972846,
+"def_fr": "marcher sur, piétiner",
+"sent_fr": "Dans le train, la personne à côté de moi m'a <b>marché sur</b> le pied."
+},
+{
+"id": 1723207972847,
+"def_fr": "raison, motif",
+"sent_fr": "La <b>raison</b> de mon retard, c'est que j'ai fait la grasse matinée."
+},
+{
+"id": 1723207972848,
+"def_fr": "cause, origine",
+"sent_fr": "Quelle est la <b>cause</b> de la dispute d'hier ?"
+},
+{
+"id": 1723207972849,
+"def_fr": "110 (numéro d'appel de la police au Japon)",
+"sent_fr": "Si je vois un cambrioleur, j'appelle le <b>110</b>."
+},
+{
+"id": 1723207972850,
+"def_fr": "sortie de secours",
+"sent_fr": "Vérifions les <b>sorties de secours</b> de l'hôtel."
+},
+{
+"id": 1723207972851,
+"def_fr": "s'enfuir, s'échapper",
+"sent_fr": "Le voleur s'est <b>enfui</b> par cette fenêtre."
+},
+{
+"id": 1723207972852,
+"def_fr": "désagréable, détestable",
+"sent_fr": "Il y a un collègue <b>désagréable</b> dans mon entreprise."
+},
+{
+"id": 1723207972853,
+"def_fr": "pas bien, interdit, inutile",
+"sent_fr": "Mon père m'a dit que les animaux de compagnie, c'était <b>non</b>."
+},
+{
+"id": 1723207972854,
+"def_fr": "pas bien, mauvais, ça ne va pas",
+"sent_fr": "A : « <b>Mince</b>. »<br>B : « Qu'est-ce qui se passe ? »<br>A : « J'ai oublié mon portefeuille à la maison. »"
+},
+{
+"id": 1723207972855,
+"def_fr": "pêche",
+"sent_fr": "Pendant mes jours de congé, je vais souvent à la <b>pêche</b>."
+},
+{
+"id": 1723207972856,
+"def_fr": "randonnée en montagne, alpinisme",
+"sent_fr": "De temps en temps, je fais de la <b>randonnée en montagne</b> avec mon père."
+},
+{
+"id": 1723207972857,
+"def_fr": "camping",
+"sent_fr": "Quand le printemps sera là, allons faire du <b>camping</b>."
+},
+{
+"id": 1723207972858,
+"def_fr": "manga, bande dessinée japonaise",
+"sent_fr": "Les <b>mangas</b> japonais sont lus aussi à l'étranger."
+},
+{
+"id": 1723207972859,
+"def_fr": "anime, dessin animé japonais",
+"sent_fr": "En regardant des <b>animes</b>, j'ai fini par aimer le Japon."
+},
+{
+"id": 1723207972860,
+"def_fr": "illustration",
+"sent_fr": "Plus tard, je veux travailler dans l'<b>illustration</b>."
+},
+{
+"id": 1723207972861,
+"def_fr": "jeu, jeu vidéo",
+"sent_fr": "J'ai joué aux <b>jeux vidéo</b> tard dans la nuit et j'ai fait la grasse matinée."
+},
+{
+"id": 1723207972862,
+"def_fr": "cérémonie du thé",
+"sent_fr": "Un ami m'a appris la <b>cérémonie du thé</b>."
+},
+{
+"id": 1723207972863,
+"def_fr": "kabuki (forme de théâtre japonais)",
+"sent_fr": "Je voudrais aller voir un <b>kabuki</b> au moins une fois."
+},
+{
+"id": 1723207972864,
+"def_fr": "danse",
+"sent_fr": "J'aimerais apprendre les <b>danses</b> du monde entier."
+},
+{
+"id": 1723207972865,
+"def_fr": "série télé, drama",
+"sent_fr": "Je ne regarde pas les infos, mais je regarde souvent des <b>séries</b>."
+},
+{
+"id": 1723207972866,
+"def_fr": "acteur",
+"sent_fr": "Je vais voir un film où joue un <b>acteur</b> que j'aime."
+},
+{
+"id": 1723207972867,
+"def_fr": "chanson, morceau",
+"sent_fr": "J'écoute toujours des <b>chansons</b> japonaises."
+},
+{
+"id": 1723207972868,
+"def_fr": "musique classique",
+"sent_fr": "En musique, j'aime la <b>musique classique</b>."
+},
+{
+"id": 1723207972869,
+"def_fr": "concert",
+"sent_fr": "Demain, je vais à un <b>concert</b>."
+},
+{
+"id": 1723207972870,
+"def_fr": "roman",
+"sent_fr": "J'aimerais lire un <b>roman</b> japonais."
+},
+{
+"id": 1723207972871,
+"def_fr": "cours de cuisine",
+"sent_fr": "Je vais à un <b>cours de cuisine</b> depuis le mois dernier."
+},
+{
+"id": 1723207972872,
+"def_fr": "concours",
+"sent_fr": "Je vais tenter un <b>concours</b> de rédaction."
+},
+{
+"id": 1723207972873,
+"def_fr": "profiter de, s'amuser, prendre plaisir à",
+"sent_fr": "Je <b>profite</b> de ma vie au Japon."
+},
+{
+"id": 1723207972874,
+"def_fr": "ce que l'on attend avec plaisir, attendre avec impatience<br>",
+"sent_fr": "J'ai beaucoup de choses à <b>attendre avec plaisir</b>.<br>"
+},
+{
+"id": 1723207972875,
+"def_fr": "ce que l'on attend avec plaisir, attendre avec impatience<br>",
+"sent_fr": "J'<b>ai hâte</b> de rentrer dans mon pays pour le Nouvel An.<br>"
+},
+{
+"id": 1723207972876,
+"def_fr": "intérêt",
+"sent_fr": "Je me suis toujours <b>intéressé</b> à l'ikebana."
+},
+{
+"id": 1723207972877,
+"def_fr": "enregistrement (vidéo)",
+"sent_fr": "J'ai oublié d'<b>enregistrer</b> le film à la télé."
+}
+]

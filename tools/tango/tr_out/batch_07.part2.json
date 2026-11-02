@@ -1,0 +1,652 @@
+[
+{
+"id": 1726956824556,
+"def_fr": "<div>magazine mensuel<br></div><div>毎月一回刊行すること。また，その出版物。</div>",
+"sent_fr": "magazine mensuel"
+},
+{
+"id": 1726956824557,
+"def_fr": "homme politique; politicien",
+"sent_fr": "Je lis un article d'interview d'un <b>homme politique</b>."
+},
+{
+"id": 1726956824558,
+"def_fr": "gouvernement",
+"sent_fr": "Le <b>gouvernement</b> a fait une annonce importante."
+},
+{
+"id": 1726956824559,
+"def_fr": "citoyen",
+"sent_fr": "De nombreux <b>citoyens</b> se sont rassemblés sur la place."
+},
+{
+"id": 1726956824560,
+"def_fr": "<div>nation; peuple<br></div><div>国家を構成する成員。</div>",
+"sent_fr": "peuple"
+},
+{
+"id": 1726956824561,
+"def_fr": "position; point de vue",
+"sent_fr": "Cet homme politique parle du <b>point de vue</b> du peuple."
+},
+{
+"id": 1726956824562,
+"def_fr": "monde; société",
+"sent_fr": "J'aimerais que ce soit un <b>monde</b> où tout le monde vit bien."
+},
+{
+"id": 1726956824563,
+"def_fr": "<div>société; public<br></div><div>生活空間を共有したり，相互に結びついたり，影響を与えあったりしている人々のまとまり。</div>",
+"sent_fr": "société"
+},
+{
+"id": 1726956824564,
+"def_fr": "grave; important",
+"sent_fr": "Le constructeur automobile a fait une annonce <b>importante</b>."
+},
+{
+"id": 1726956824565,
+"def_fr": "important",
+"sent_fr": "Aujourd'hui, il y a eu beaucoup de nouvelles <b>importantes</b>."
+},
+{
+"id": 1726956824566,
+"def_fr": "(pas) tellement; (pas) très",
+"sent_fr": "Cette émission ne <b>sert pas tellement</b> à étudier le japonais."
+},
+{
+"id": 1726956824567,
+"def_fr": "ce n'est rien de spécial; rien d'extraordinaire",
+"sent_fr": "ce n'est rien de spécial"
+},
+{
+"id": 1726956824568,
+"def_fr": "sans intérêt; insignifiant; nul",
+"sent_fr": "Je regarde souvent malgré moi des émissions <b>sans intérêt</b>."
+},
+{
+"id": 1726956824569,
+"def_fr": "animateur; présentateur",
+"sent_fr": "Depuis le printemps, l'<b>animateur</b> de l'émission a changé."
+},
+{
+"id": 1726956824570,
+"def_fr": "<div>animation d'une cérémonie; fait de présider<br></div><div>会の進行をつかさどること。</div>",
+"sent_fr": "animer (une émission)"
+},
+{
+"id": 1726956824571,
+"def_fr": "émission en direct",
+"sent_fr": "Il semble qu'un problème soit survenu pendant l'<b>émission en direct</b>."
+},
+{
+"id": 1726956824572,
+"def_fr": "<div>rediffusion<br></div><div>以前に放送した番組を再び放送すること。</div>",
+"sent_fr": "rediffusion"
+},
+{
+"id": 1726956824573,
+"def_fr": "<div>en direct (surtout concert, spectacle, etc.)</div>",
+"sent_fr": "concert en direct"
+},
+{
+"id": 1726956824574,
+"def_fr": "produit; marchandise",
+"sent_fr": "Ce <b>produit</b> se vend très bien."
+},
+{
+"id": 1726956824575,
+"def_fr": "<div>nouveau produit<br></div><div>新しいこと。新しいもの。</div>",
+"sent_fr": "nouveau produit"
+},
+{
+"id": 1726956824576,
+"def_fr": "mise en vente; commercialisation",
+"sent_fr": "Demain, un nouveau jeu <b>sort</b>."
+},
+{
+"id": 1726956824577,
+"def_fr": "nouveauté (produit ou modèle récemment mis en vente)",
+"sent_fr": "nouveauté"
+},
+{
+"id": 1726956824578,
+"def_fr": "réputation",
+"sent_fr": "Le magazine qui vient de paraître a bonne <b>réputation</b>."
+},
+{
+"id": 1726956824579,
+"def_fr": "attention; intérêt",
+"sent_fr": "Les gens du monde entier <b>portent leur attention</b> sur cette actrice."
+},
+{
+"id": 1726956824580,
+"def_fr": "succès; tube; hit",
+"sent_fr": "J'ai téléchargé la chanson qui a le plus de <b>succès</b> en ce moment."
+},
+{
+"id": 1726956824581,
+"def_fr": "produit à succès",
+"sent_fr": "produit à succès"
+},
+{
+"id": 1726956824582,
+"def_fr": "œuvre à succès",
+"sent_fr": "œuvre à succès"
+},
+{
+"id": 1726956824583,
+"def_fr": "chanson à succès; tube",
+"sent_fr": "chanson à succès"
+},
+{
+"id": 1726956824584,
+"def_fr": "comme prévu; comme je le pensais",
+"sent_fr": "A : « Il paraît que ces deux-là vont se marier. »<div>B : « Ils sortaient <b>bien ensemble, comme je le pensais</b>. »</div>"
+},
+{
+"id": 1726956824585,
+"def_fr": "comme prévu; comme attendu<br>",
+"sent_fr": "<div>comme prévu</div>"
+},
+{
+"id": 1726956824586,
+"def_fr": "jamais de la vie; pas possible",
+"sent_fr": "A : « Il paraît que l'animateur de cette émission a été hospitalisé hier. »<div>B : « <b>Pas possible</b>. Il avait l'air en si bonne forme. »</div>"
+},
+{
+"id": 1726956824587,
+"def_fr": "enfin; finalement",
+"sent_fr": "Le problème entre le pays A et le pays B a <b>enfin</b> été résolu."
+},
+{
+"id": 1726956824588,
+"def_fr": "finalement; en fin de compte",
+"sent_fr": "<b>En fin de compte</b>, cet article était faux."
+},
+{
+"id": 1726956824589,
+"def_fr": "suspect; louche",
+"sent_fr": "Si vous voyez une personne <b>suspecte</b>, prévenez la police."
+},
+{
+"id": 1726956824590,
+"def_fr": "effrayant; terrible",
+"sent_fr": "Ces derniers temps, il y a beaucoup d'affaires <b>effrayantes</b>."
+},
+{
+"id": 1726956824591,
+"def_fr": "se déchaîner; se montrer violent",
+"sent_fr": "Il paraît qu'un homme <b>se déchaînait</b> dans les environs."
+},
+{
+"id": 1726956824592,
+"def_fr": "violence; brutalité<br>",
+"sent_fr": "violence"
+},
+{
+"id": 1726956824593,
+"def_fr": "se battre; se disputer",
+"sent_fr": "Au milieu de la nuit, j'ai entendu un homme et une femme <b>se disputer</b>."
+},
+{
+"id": 1726956824594,
+"def_fr": "dispute; querelle<br>",
+"sent_fr": "dispute"
+},
+{
+"id": 1726956824595,
+"def_fr": "lutte; combat; conflit<div>勝とうとして競うこと。<br></div>",
+"sent_fr": "conflit"
+},
+{
+"id": 1726956824596,
+"def_fr": "crime; délinquance",
+"sent_fr": "Il y a beaucoup de <b>criminalité</b> dans cette ville."
+},
+{
+"id": 1726956824597,
+"def_fr": "découvreur; personne qui a fait la découverte",
+"sent_fr": "La police interroge la <b>personne qui a découvert</b> le sac suspect."
+},
+{
+"id": 1726956824598,
+"def_fr": "douter; soupçonner",
+"sent_fr": "Il semble que la police <b>soupçonne</b> la première personne qui a fait la découverte."
+},
+{
+"id": 1726956824599,
+"def_fr": "doute; soupçon",
+"sent_fr": "doute"
+},
+{
+"id": 1726956824600,
+"def_fr": "menteur",
+"sent_fr": "Personne ne le prenait pour un <b>menteur</b>."
+},
+{
+"id": 1726956824601,
+"def_fr": "coupable; criminel",
+"sent_fr": "Le <b>coupable</b> serait un homme d'une vingtaine d'années."
+},
+{
+"id": 1726956824602,
+"def_fr": "farce; espièglerie; bêtise",
+"sent_fr": "La <b>bêtise</b> d'un enfant a tourné à l'affaire grave."
+},
+{
+"id": 1726956824603,
+"def_fr": "espiègle; farceur",
+"sent_fr": "Un enfant <b>farceur</b> a posé une pierre sur la voie ferrée."
+},
+{
+"id": 1726956824604,
+"def_fr": "crier; hurler",
+"sent_fr": "Dehors, une femme <b>crie</b> à tue-tête."
+},
+{
+"id": 1726956824605,
+"def_fr": "cri",
+"sent_fr": "cri"
+},
+{
+"id": 1726956824606,
+"def_fr": "frapper; taper",
+"sent_fr": "Quelqu'un <b>frappe</b> à la porte."
+},
+{
+"id": 1726956824607,
+"def_fr": "frapper (une personne)",
+"sent_fr": "frapper"
+},
+{
+"id": 1726956824608,
+"def_fr": "voler; dérober",
+"sent_fr": "Un voleur m'a <b>volé</b> ma bague."
+},
+{
+"id": 1726956824609,
+"def_fr": "arracher; prendre de force",
+"sent_fr": "Je marchais dans la rue quand on m'<b>a arraché</b> mon sac à main."
+},
+{
+"id": 1726956824610,
+"def_fr": "chercher",
+"sent_fr": "La police <b>recherche</b> le coupable."
+},
+{
+"id": 1726956824611,
+"def_fr": "poursuivre; pourchasser",
+"sent_fr": "La police <b>poursuit</b> le coupable."
+},
+{
+"id": 1726956824612,
+"def_fr": "attraper; arrêter",
+"sent_fr": "La police a enfin <b>attrapé</b> le coupable."
+},
+{
+"id": 1726956824613,
+"def_fr": "être attrapé; être arrêté",
+"sent_fr": "Le criminel <b>a été arrêté</b> près de chez moi."
+},
+{
+"id": 1726956824614,
+"def_fr": "arrestation",
+"sent_fr": "Le coupable a été <b>arrêté</b> et les habitants sont soulagés."
+},
+{
+"id": 1726956824615,
+"def_fr": "sinistre; mal à l'aise; inquiétant",
+"sent_fr": "J'ai reçu un appel d'une personne inconnue et je me suis senti <b>mal à l'aise</b>."
+},
+{
+"id": 1726956824616,
+"def_fr": "voiture de police",
+"sent_fr": "Hier, j'ai entendu les sirènes des <b>voitures de police</b> jusqu'au milieu de la nuit."
+},
+{
+"id": 1726956824617,
+"def_fr": "ambulance",
+"sent_fr": "ambulance"
+},
+{
+"id": 1726956824618,
+"def_fr": "subir (un accident); être victime de",
+"sent_fr": "Quand j'étais enfant, j'<b>ai été victime</b> d'un accident de la route."
+},
+{
+"id": 1726956824619,
+"def_fr": "survenir; se produire; apparition",
+"sent_fr": "Des accidents <b>se produisent</b> tous les jours à ce carrefour."
+},
+{
+"id": 1726956824620,
+"def_fr": "vie",
+"sent_fr": "Rien n'est plus important que la <b>vie</b>."
+},
+{
+"id": 1726956824621,
+"def_fr": "sauver",
+"sent_fr": "Un inconnu m'<b>a sauvé</b> la vie."
+},
+{
+"id": 1726956824622,
+"def_fr": "bruyant; tapageur",
+"sent_fr": "Il y a pas mal d'<b>agitation</b> près du feu de signalisation."
+},
+{
+"id": 1726956824623,
+"def_fr": "bruyant; tapageur<br><div>大きな声や音が聞こえてやかましい。<br></div>",
+"sent_fr": "bruyant"
+},
+{
+"id": 1726956824624,
+"def_fr": "faire du bruit; s'agiter",
+"sent_fr": "Il y a quelqu'un qui <b>fait du bruit</b> au carrefour."
+},
+{
+"id": 1726956824625,
+"def_fr": "lieu des faits; scène; chantier; terrain",
+"sent_fr": "Il y a eu un grand bruit, alors je suis allé voir <b>sur place</b>."
+},
+{
+"id": 1726956824626,
+"def_fr": "chantier",
+"sent_fr": "chantier"
+},
+{
+"id": 1726956824627,
+"def_fr": "lieu d'un incident",
+"sent_fr": "lieu d'un incident"
+},
+{
+"id": 1726956824628,
+"def_fr": "lieu d'un accident",
+"sent_fr": "lieu d'un accident"
+},
+{
+"id": 1726956824629,
+"def_fr": "confusion; chaos",
+"sent_fr": "Les lieux sont dans la <b>confusion</b>, avec la police et beaucoup de monde."
+},
+{
+"id": 1726956824630,
+"def_fr": "panique",
+"sent_fr": "À la vue de la scène du grave accident, j'ai <b>paniqué</b>."
+},
+{
+"id": 1726956824631,
+"def_fr": "sécurité; bonne santé; sain et sauf",
+"sent_fr": "On a confirmé que la personne accidentée était <b>saine et sauve</b>."
+},
+{
+"id": 1726956824632,
+"def_fr": "sain et sauf; sans encombre; paisiblement",
+"sent_fr": "Le garçon disparu a été retrouvé <b>sain et sauf</b>."
+},
+{
+"id": 1726956824633,
+"def_fr": "empêcher; protéger; prévenir",
+"sent_fr": "La police n'a pas pu <b>empêcher</b> le crime."
+},
+{
+"id": 1726956824634,
+"def_fr": "de nouveau; encore une fois",
+"sent_fr": "Un terrible accident s'est <b>de nouveau</b> produit."
+},
+{
+"id": 1726956824635,
+"def_fr": "exprès; intentionnellement",
+"sent_fr": "Le conducteur a peut-être provoqué l'accident <b>exprès</b>."
+},
+{
+"id": 1726956824636,
+"def_fr": "victime",
+"sent_fr": "La <b>victime</b> de l'accident aurait été gravement blessée."
+},
+{
+"id": 1726956824637,
+"def_fr": "dommage; préjudice (subi)<br>",
+"sent_fr": "dommage subi"
+},
+{
+"id": 1726956824638,
+"def_fr": "auteur (d'un préjudice); agresseur<br><div>他人に危害や損害を与えた者。<br></div>",
+"sent_fr": "auteur du préjudice"
+},
+{
+"id": 1726956824639,
+"def_fr": "mutuellement; les uns les autres",
+"sent_fr": "Les cyclistes comme les piétons doivent faire attention <b>les uns aux autres</b>."
+},
+{
+"id": 1726956824640,
+"def_fr": "question; doute",
+"sent_fr": "Cet accident soulève plusieurs <b>questions</b>."
+},
+{
+"id": 1726956824641,
+"def_fr": "sauter dedans; plonger",
+"sent_fr": "Il ne faut pas <b>plonger</b> dans la mer sans s'être échauffé."
+},
+{
+"id": 1726956824642,
+"def_fr": "se noyer",
+"sent_fr": "Un homme qui avait bu de l'alcool est allé nager et s'<b>est noyé</b>."
+},
+{
+"id": 1726956824643,
+"def_fr": "surgir; se jeter (sur la route)",
+"sent_fr": "Veillez à ce que les enfants ne <b>se jettent</b> pas sur la route."
+},
+{
+"id": 1726956824644,
+"def_fr": "attention aux choses qui surgissent (sur la route, etc.)",
+"sent_fr": "attention, risque de surgissement soudain"
+},
+{
+"id": 1726956824645,
+"def_fr": "disparition; personne dont on est sans nouvelles",
+"sent_fr": "Trois personnes, hommes et femmes, sont <b>portées disparues</b> en montagne."
+},
+{
+"id": 1726956824646,
+"def_fr": "mourir; décéder",
+"sent_fr": "Chaque année, des gens <b>meurent</b> en faisant de la randonnée en montagne."
+},
+{
+"id": 1726956824647,
+"def_fr": "<div>coïncidence; hasard; accident fortuit<br></div>",
+"sent_fr": "C'était un accident dû au <b>hasard</b>."
+},
+{
+"id": 1726956824648,
+"def_fr": "coïncidence; hasard; par hasard",
+"sent_fr": "J'ai rencontré <b>par hasard</b> un ami du lycée."
+},
+{
+"id": 1726956824649,
+"def_fr": "plainte; réclamation; grief",
+"sent_fr": "J'ai reçu une <b>plainte</b> du voisinage, alors je me suis excusé."
+},
+{
+"id": 1726956824650,
+"def_fr": "réclamation (pour obtenir une indemnisation)",
+"sent_fr": "réclamation"
+},
+{
+"id": 1726956824651,
+"def_fr": "agité; occupé; précipité",
+"sent_fr": "Le président est décédé hier soir, alors la journée est très <b>agitée</b> aujourd'hui."
+},
+{
+"id": 1726956824652,
+"def_fr": "paniquer; s'affoler",
+"sent_fr": "Je n'ai pas trouvé mon portefeuille dans mon sac et j'<b>ai paniqué</b>."
+},
+{
+"id": 1726956824653,
+"def_fr": "soudainement; tout à coup",
+"sent_fr": "Devant l'immeuble, quelqu'un a <b>soudain</b> prononcé mon nom."
+},
+{
+"id": 1726956824654,
+"def_fr": "harcèlement; brimades",
+"sent_fr": "Le <b>harcèlement</b> est un problème de société."
+},
+{
+"id": 1726956824655,
+"def_fr": "harceler; brimer",
+"sent_fr": "<b>Harceler</b> ses amis, c'est abject."
+},
+{
+"id": 1726956824656,
+"def_fr": "enfant perdu; personne égarée",
+"sent_fr": "Quand je suis arrivé au Japon, je <b>me perdais</b> souvent."
+},
+{
+"id": 1726956824657,
+"def_fr": "cas; occasion",
+"sent_fr": "<b>Si vous vous perdez</b>, demandez de l'aide au poste de police de quartier."
+},
+{
+"id": 1726956824658,
+"def_fr": "laisser tomber; perdre",
+"sent_fr": "J'ai <b>laissé tomber</b> mon abonnement à la gare, mais on me l'a rendu."
+},
+{
+"id": 1726956824659,
+"def_fr": "tomber",
+"sent_fr": "(～が) tomber"
+},
+{
+"id": 1726956824660,
+"def_fr": "perdre (un objet)",
+"sent_fr": "J'ai <b>perdu</b> des documents importants et le chef de service m'a sévèrement réprimandé."
+},
+{
+"id": 1726956824661,
+"def_fr": "disparaître; être perdu (p. ex. un bagage)<div>disparaître (p. ex. la douleur)<br></div>",
+"sent_fr": "(～が) disparaître"
+},
+{
+"id": 1726956824662,
+"def_fr": "dette; emprunt",
+"sent_fr": "J'ai <b>emprunté de l'argent</b> à mes parents, mais je n'ai pas encore remboursé la moitié."
+},
+{
+"id": 1726956824663,
+"def_fr": "malhonnête; rusé",
+"sent_fr": "C'est quelqu'un de <b>malhonnête</b>, mieux vaut ne pas lui faire confiance."
+},
+{
+"id": 1726956824664,
+"def_fr": "tomber; s'effondrer; s'écrouler",
+"sent_fr": "L'immeuble <b>s'est effondré</b> à cause du séisme."
+},
+{
+"id": 1726956824665,
+"def_fr": "tomber malade; s'effondrer",
+"sent_fr": "J'ai trop travaillé et je <b>suis tombé malade</b>."
+},
+{
+"id": 1726956824666,
+"def_fr": "vaincre; renverser<div>abattre<br></div>",
+"sent_fr": "(～を) vaincre"
+},
+{
+"id": 1726956824667,
+"def_fr": "tomber; trébucher",
+"sent_fr": "J'<b>ai trébuché</b> un jour de neige et je me suis cassé la jambe."
+},
+{
+"id": 1726956824668,
+"def_fr": "être écrasé; être aplati",
+"sent_fr": "J'ai fait tomber la boîte et le gâteau <b>s'est écrasé</b>."
+},
+{
+"id": 1726956824669,
+"def_fr": "faire faillite; fermer (entreprise, etc.)",
+"sent_fr": "L'entreprise de mon ami <b>a fait faillite</b>, paraît-il."
+},
+{
+"id": 1726956824670,
+"def_fr": "écraser; broyer",
+"sent_fr": "(～を) écraser"
+},
+{
+"id": 1726956824671,
+"def_fr": "faire faillite (entreprise)<br><div>財産を使い果たして，事業などが破綻すること。<br></div>",
+"sent_fr": "faire faillite"
+},
+{
+"id": 1726956824672,
+"def_fr": "l'un après l'autre; successivement",
+"sent_fr": "Au bureau, des problèmes sont survenus <b>l'un après l'autre</b>."
+},
+{
+"id": 1726956824673,
+"def_fr": "coupure de courant; panne d'électricité",
+"sent_fr": "Il y a eu une <b>coupure de courant</b> dans la région, et le courant n'est pas revenu pendant deux heures."
+},
+{
+"id": 1726956824674,
+"def_fr": "coupure d'eau",
+"sent_fr": "L'approvisionnement en eau <b>a été coupé</b> dans cette région à cause du séisme."
+},
+{
+"id": 1726956824675,
+"def_fr": "trembler; vibrer; se balancer",
+"sent_fr": "Cet immeuble <b>tremble</b> pas mal pendant les séismes."
+},
+{
+"id": 1726956824676,
+"def_fr": "en vacillant; de façon instable",
+"sent_fr": "Pendant le séisme, les meubles <b>ont tremblé</b> dangereusement."
+},
+{
+"id": 1726956824677,
+"def_fr": "sortie de secours",
+"sent_fr": "Repérez toujours la <b>sortie de secours</b>."
+},
+{
+"id": 1726956824678,
+"def_fr": "(en cas d')urgence<br>",
+"sent_fr": "en cas d'urgence"
+},
+{
+"id": 1726956824679,
+"def_fr": "augmentation; hausse",
+"sent_fr": "Le nombre de touristes venant de l'étranger est en <b>hausse</b>."
+},
+{
+"id": 1726956824680,
+"def_fr": "diminution; baisse",
+"sent_fr": "Le nombre d'enfants continue de <b>diminuer</b>, comme avant."
+},
+{
+"id": 1726956824681,
+"def_fr": "dépasser",
+"sent_fr": "Plus de la moitié des personnes ont répondu « oui » au sondage, ce qui <b>dépasse</b> la moitié."
+},
+{
+"id": 1726956824682,
+"def_fr": "pic; sommet",
+"sent_fr": "On pourrait dire que la chaleur d'aujourd'hui est le <b>pic</b> de cette année."
+},
+{
+"id": 1726956824683,
+"def_fr": "dépasser; franchir",
+"sent_fr": "Le pic de la grippe semble <b>dépassé</b>."
+},
+{
+"id": 1726956824684,
+"def_fr": "totalité; ensemble",
+"sent_fr": "Quatre-vingts pour cent de l'<b>ensemble</b> des personnes ont répondu être contre."
+},
+{
+"id": 1726956824685,
+"def_fr": "global; dans l'ensemble",
+"sent_fr": "global"
+}
+]

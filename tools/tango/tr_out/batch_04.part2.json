@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1726956823401,
+  "def_fr": "pièce de monnaie",
+  "sent_fr": "J'aime collectionner les <b>pièces</b> de monnaie étrangères."
+ },
+ {
+  "id": 1726956823402,
+  "def_fr": "pièce de monnaie; monnaie métallique<br><div>金属製の貨幣。<br></div>",
+  "sent_fr": "pièce de monnaie"
+ },
+ {
+  "id": 1726956823403,
+  "def_fr": "petite monnaie; pièces",
+  "sent_fr": "Je n'ai pas de <b>petite monnaie</b> dans mon portefeuille."
+ },
+ {
+  "id": 1726956823404,
+  "def_fr": "coût de la vie; frais de subsistance",
+  "sent_fr": "Au Japon, le <b>coût de la vie</b> est élevé."
+ },
+ {
+  "id": 1726956823405,
+  "def_fr": "frais de nourriture; budget alimentaire",
+  "sent_fr": "Mes <b>frais de nourriture</b> pour un mois sont d'environ 20 000 yens."
+ },
+ {
+  "id": 1726956823406,
+  "def_fr": "frais de chauffage et d'électricité; charges",
+  "sent_fr": "Au Japon, les <b>frais de chauffage et d'électricité</b> sont élevés."
+ },
+ {
+  "id": 1726956823407,
+  "def_fr": "frais de sorties; frais de représentation",
+  "sent_fr": "Je sors souvent boire un verre avec des amis, alors mes <b>frais de sorties</b> sont élevés."
+ },
+ {
+  "id": 1726956823408,
+  "def_fr": "tarifs des services publics; factures (eau, gaz, électricité)",
+  "sent_fr": "Dans ce pays, les <b>tarifs des services publics</b> sont bas."
+ },
+ {
+  "id": 1726956823409,
+  "def_fr": "argent de poche",
+  "sent_fr": "Mon <b>argent de poche</b> mensuel est de 30 000 yens."
+ },
+ {
+  "id": 1726956823410,
+  "def_fr": "économie; épargne; économiser",
+  "sent_fr": "Je fais des <b>économies</b> pour pouvoir partir en voyage."
+ },
+ {
+  "id": 1726956823411,
+  "def_fr": "luxe; extravagance",
+  "sent_fr": "Je suis encore étudiant, alors je ne peux pas me permettre de <b>luxe</b>."
+ },
+ {
+  "id": 1726956823412,
+  "def_fr": "luxueux; somptueux; extravagant",
+  "sent_fr": "Je ne suis pas très intéressé par un mode de vie <b>luxueux</b>."
+ },
+ {
+  "id": 1726956823413,
+  "def_fr": "partage des frais; chacun paie sa part",
+  "sent_fr": "Aujourd'hui, <b>partageons l'addition</b>."
+ },
+ {
+  "id": 1726956823414,
+  "def_fr": "location",
+  "sent_fr": "Pour le mariage, j'ai opté pour une robe de <b>location</b>."
+ },
+ {
+  "id": 1726956823415,
+  "def_fr": "vidéo en location; location de vidéos",
+  "sent_fr": "location de vidéos"
+ },
+ {
+  "id": 1726956823416,
+  "def_fr": "payer; régler",
+  "sent_fr": "On peut <b>payer</b> ses factures de services publics à la supérette."
+ },
+ {
+  "id": 1726956823417,
+  "def_fr": "paiement; règlement",
+  "sent_fr": "J'avais oublié de <b>payer</b> mes factures de services publics."
+ },
+ {
+  "id": 1726956823418,
+  "def_fr": "addition; note; compte",
+  "sent_fr": "Client : Où est-ce que je <b>règle l'addition</b> ?<div>Employé : À la caisse, s'il vous plaît.</div>"
+ },
+ {
+  "id": 1726956823419,
+  "def_fr": "compte (bancaire)",
+  "sent_fr": "J'ai ouvert mon propre <b>compte</b> pour la première fois."
+ },
+ {
+  "id": 1726956823420,
+  "def_fr": "compte bancaire",
+  "sent_fr": "compte bancaire"
+ },
+ {
+  "id": 1726956823421,
+  "def_fr": "carte bancaire (de retrait); carte de retrait",
+  "sent_fr": "J'ai reçu ma <b>carte bancaire</b> de la banque."
+ },
+ {
+  "id": 1726956823422,
+  "def_fr": "code secret; code PIN",
+  "sent_fr": "J'ai oublié le <b>code secret</b> de ma carte."
+ },
+ {
+  "id": 1726956823423,
+  "def_fr": "dépôt; épargne déposée; déposer",
+  "sent_fr": "J'ai <b>déposé</b> un million de yens à la banque."
+ },
+ {
+  "id": 1726956823424,
+  "def_fr": "livret d'épargne; livret de banque",
+  "sent_fr": "livret d'épargne"
+ },
+ {
+  "id": 1726956823425,
+  "def_fr": "livret de compte; livret de banque<div>銀行などに預金をした人に，その証として渡す帳面。<br></div>",
+  "sent_fr": "livret de compte"
+ },
+ {
+  "id": 1726956823426,
+  "def_fr": "mettre de l'argent de côté; épargne<div>金をためること。<br></div>",
+  "sent_fr": "épargner"
+ },
+ {
+  "id": 1726956823427,
+  "def_fr": "économiser; mettre de côté; amasser",
+  "sent_fr": "Quand je serai salarié, j'ai l'intention d'<b>économiser</b> de l'argent."
+ },
+ {
+  "id": 1726956823428,
+  "def_fr": "s'accumuler (de l'argent); être économisé",
+  "sent_fr": "J'ai beau faire des économies, l'argent ne <b>s'accumule</b> pas vraiment."
+ },
+ {
+  "id": 1726956823429,
+  "def_fr": "retirer; tirer",
+  "sent_fr": "Je vais faire un gros achat, alors j'ai <b>retiré</b> de l'argent."
+ },
+ {
+  "id": 1726956823430,
+  "def_fr": "<div>retirer de l'argent d'un compte<br></div>貯金などを引き出す。",
+  "sent_fr": "retirer de l'argent"
+ },
+ {
+  "id": 1726956823431,
+  "def_fr": "virer; verser; payer par virement",
+  "sent_fr": "J'ai <b>réglé</b> mes factures de services publics par virement à la banque."
+ },
+ {
+  "id": 1726956823432,
+  "def_fr": "virement; versement bancaire<div>振替口座・預金口座などに金銭を払い込むこと。<br></div>",
+  "sent_fr": "virement"
+ },
+ {
+  "id": 1726956823433,
+  "def_fr": "envoi d'argent; envoyer de l'argent; virer de l'argent",
+  "sent_fr": "Ce mois-ci aussi, j'ai <b>envoyé de l'argent</b> à mes parents restés au pays."
+ },
+ {
+  "id": 1726956823434,
+  "def_fr": "mise à jour du livret; inscription sur le livret",
+  "sent_fr": "Je suis passé à la banque pour faire <b>mettre à jour mon livret</b>."
+ },
+ {
+  "id": 1726956823435,
+  "def_fr": "articles; marchandises",
+  "sent_fr": "Le grand magasin devant la gare a beaucoup d'<b>articles</b> chers."
+ },
+ {
+  "id": 1726956823436,
+  "def_fr": "argent liquide; espèces",
+  "sent_fr": "Quand je fais des achats, je paie toujours en <b>espèces</b>."
+ },
+ {
+  "id": 1726956823437,
+  "def_fr": "carte de crédit (en faisant des achats, souvent abrégé simplement en カード)",
+  "sent_fr": "Cette <b>carte de crédit</b> est très pratique."
+ },
+ {
+  "id": 1726956823438,
+  "def_fr": "paiement en une fois",
+  "sent_fr": "Le paiement par carte se fait <b>en une fois</b>."
+ },
+ {
+  "id": 1726956823439,
+  "def_fr": "paiement à la prime; paiement avec le bonus",
+  "sent_fr": "paiement avec le bonus"
+ },
+ {
+  "id": 1726956823440,
+  "def_fr": "total; montant total",
+  "sent_fr": "Mes paiements par carte du mois dernier se sont élevés à <b>un total de</b> 100 000 yens."
+ },
+ {
+  "id": 1726956823441,
+  "def_fr": "prix; somme à payer",
+  "sent_fr": "Les articles arrivent dans les trois jours suivant le paiement du <b>prix</b>."
+ },
+ {
+  "id": 1726956823442,
+  "def_fr": "taxes comprises; TTC",
+  "sent_fr": "Ce prix est-il <b>taxes comprises</b> ?"
+ },
+ {
+  "id": 1726956823443,
+  "def_fr": "hors taxes; hors taxe<div>表示された価格に、消費税などの税金が含まれておらず、別に追加されることを意味する表現。<br></div>",
+  "sent_fr": "hors taxes"
+ },
+ {
+  "id": 1726956823444,
+  "def_fr": "facture",
+  "sent_fr": "J'ai reçu la <b>facture</b> du téléphone."
+ },
+ {
+  "id": 1726956823445,
+  "def_fr": "reçu; quittance",
+  "sent_fr": "Quand je fais des achats, je demande un <b>reçu</b>."
+ },
+ {
+  "id": 1726956823446,
+  "def_fr": "épuisé; vendu (plus en stock dans le magasin)",
+  "sent_fr": "Le sac que je voulais était <b>épuisé</b>."
+ },
+ {
+  "id": 1726956823447,
+  "def_fr": "être épuisé; être vendu en totalité<div>全部売れて無くなる。<br></div>",
+  "sent_fr": "être épuisé"
+ },
+ {
+  "id": 1726956823448,
+  "def_fr": "rupture de stock (plus disponible nulle part)",
+  "sent_fr": "Le vendeur m'a dit que la taille M était en <b>rupture de stock</b>."
+ },
+ {
+  "id": 1726956823449,
+  "def_fr": "du jour; changeant chaque jour",
+  "sent_fr": "Ce magasin fait des soldes <b>différentes chaque jour</b>."
+ },
+ {
+  "id": 1726956823450,
+  "def_fr": "réduction; remise",
+  "sent_fr": "Cette boulangerie fait <b>10 % de réduction</b> le mercredi."
+ },
+ {
+  "id": 1726956823451,
+  "def_fr": "<div>tarif étudiant; réduction étudiant<br></div>",
+  "sent_fr": "réduction étudiante"
+ },
+ {
+  "id": 1726956823452,
+  "def_fr": "bon de réduction; coupon de réduction",
+  "sent_fr": "bon de réduction"
+ },
+ {
+  "id": 1726956823453,
+  "def_fr": "faire une réduction; rabattre<div>決まった価格から、ある割合の金額だけ安くする。<br></div>",
+  "sent_fr": "faire une réduction"
+ },
+ {
+  "id": 1726956823454,
+  "def_fr": "moitié prix",
+  "sent_fr": "J'ai pu acheter à <b>moitié prix</b> un manteau de 50 000 yens."
+ },
+ {
+  "id": 1726956823455,
+  "def_fr": "soldes à moitié prix<div>ある金額の半分。<br></div>",
+  "sent_fr": "soldes à moitié prix"
+ },
+ {
+  "id": 1726956823456,
+  "def_fr": "jour de promotion; jour de soldes",
+  "sent_fr": "Aujourd'hui, c'est le <b>jour de promotion</b> du supermarché."
+ },
+ {
+  "id": 1726956823457,
+  "def_fr": "article en promotion; bonne affaire",
+  "sent_fr": "article en promotion"
+ },
+ {
+  "id": 1726956823458,
+  "def_fr": "seulement; rien que",
+  "sent_fr": "Ce sac d'une marque célèbre ne coûtait que 30 000 yens (<b>seulement</b>)."
+ },
+ {
+  "id": 1726956823459,
+  "def_fr": "seulement; simplement; gratuit",
+  "sent_fr": "seulement"
+ },
+ {
+  "id": 1726956823460,
+  "def_fr": "avantage; bonne affaire; profit",
+  "sent_fr": "Je suis allé aux soldes et j'ai fait une <b>bonne affaire</b>."
+ },
+ {
+  "id": 1726956823461,
+  "def_fr": "faire une bonne affaire; y gagner<div>もうける。利益を得る。得をする。<br></div>",
+  "sent_fr": "y gagner"
+ },
+ {
+  "id": 1726956823462,
+  "def_fr": "perte; désavantage; non rentable",
+  "sent_fr": "Je n'ai pas pu aller aux soldes, alors j'ai <b>perdu au change</b>."
+ },
+ {
+  "id": 1726956823463,
+  "def_fr": "perdre; y perdre (de l'argent, etc.)<div>得るものよりも失うものの方が多くなる。<br></div>",
+  "sent_fr": "y perdre"
+ },
+ {
+  "id": 1726956823464,
+  "def_fr": "en plus; cadeau; rabais (supplément offert)",
+  "sent_fr": "Le vendeur m'a <b>offert en plus</b> une pomme."
+ },
+ {
+  "id": 1726956823465,
+  "def_fr": "inutile; vain; gaspillage",
+  "sent_fr": "Acheter un truc pareil, c'est de l'argent <b>gaspillé</b>."
+ },
+ {
+  "id": 1726956823466,
+  "def_fr": "inutile; vain; superflu",
+  "sent_fr": "J'essaie de ne pas acheter de choses <b>inutiles</b>."
+ },
+ {
+  "id": 1726956823467,
+  "def_fr": "gaspillage (d'argent); dépense inutile",
+  "sent_fr": "J'ai <b>gaspillé</b> l'argent de ma prime."
+ },
+ {
+  "id": 1726956823468,
+  "def_fr": "passer; faire un saut; s'arrêter brièvement",
+  "sent_fr": "Sur le chemin du retour, je me suis <b>arrêté</b> au grand magasin pour faire des achats."
+ },
+ {
+  "id": 1726956823469,
+  "def_fr": "en passant; à cette occasion; par la même occasion",
+  "sent_fr": "Je suis allé à la poste. <b>Par la même occasion</b>, je me suis arrêté à la supérette."
+ },
+ {
+  "id": 1726956823470,
+  "def_fr": "sac de caisse; sac plastique",
+  "sent_fr": "Dans ce supermarché, les <b>sacs de caisse</b> coûtent trois yens."
+ },
+ {
+  "id": 1726956823471,
+  "def_fr": "jour de fermeture hebdomadaire; jour de congé régulier",
+  "sent_fr": "Aujourd'hui est notre <b>jour de fermeture</b> habituel, nous sommes donc fermés."
+ },
+ {
+  "id": 1726956823472,
+  "def_fr": "se réveiller; ouvrir les yeux",
+  "sent_fr": "Je me suis <b>réveillé</b> à trois heures du matin."
+ },
+ {
+  "id": 1726956823473,
+  "def_fr": "se réveiller; s'éveiller",
+  "sent_fr": "Tous les matins, je me <b>réveille</b> à 7 heures."
+ },
+ {
+  "id": 1726956823474,
+  "def_fr": "faire jour; se lever (jour); s'achever (nuit, année)",
+  "sent_fr": "Je jouais aux jeux vidéo et sans m'en rendre compte, le <b>jour s'était levé</b>."
+ },
+ {
+  "id": 1726956823475,
+  "def_fr": "préparatifs; préparation",
+  "sent_fr": "Après m'être levé, je mange vite mon petit-déjeuner et je me <b>prépare</b>."
+ },
+ {
+  "id": 1726956823476,
+  "def_fr": "joindre; réunir; ajuster; faire correspondre",
+  "sent_fr": "Quand je mange, je <b>joins</b> les mains et je dis « Itadakimasu »."
+ },
+ {
+  "id": 1726956823477,
+  "def_fr": "ranger; mettre de côté",
+  "sent_fr": "Dans la matinée, j'aère mon futon d'hiver dehors puis je le <b>range</b>."
+ },
+ {
+  "id": 1726956823478,
+  "def_fr": "se raser (la barbe)",
+  "sent_fr": "Mon mari met du temps à <b>se raser</b>."
+ },
+ {
+  "id": 1726956823479,
+  "def_fr": "se peigner",
+  "sent_fr": "Le matin, je <b>me peigne</b> en trois minutes environ."
+ },
+ {
+  "id": 1726956823480,
+  "def_fr": "rassembler; réunir; assembler; mettre en ordre",
+  "sent_fr": "Je <b>rassemble</b> ce que je vais emporter et je le mets dans mon sac."
+ },
+ {
+  "id": 1726956823481,
+  "def_fr": "<div>se rassembler; être au complet<br></div>二つ以上のものの形・程度などが同じになる。",
+  "sent_fr": "se rassembler; être au complet"
+ },
+ {
+  "id": 1726956823482,
+  "def_fr": "sieste",
+  "sent_fr": "Au bureau, je fais une <b>sieste</b> de quinze minutes seulement."
+ },
+ {
+  "id": 1726956823483,
+  "def_fr": "s'asseoir; prendre un siège",
+  "sent_fr": "<b>Asseyons-nous</b> sur des chaises et reposons-nous un peu."
+ },
+ {
+  "id": 1726956823484,
+  "def_fr": "tomber (la nuit); se terminer (jour, année)",
+  "sent_fr": "Le soleil va bientôt <b>se coucher</b>."
+ },
+ {
+  "id": 1726956823485,
+  "def_fr": "fin d'année<div>年末。歳暮。<br></div>",
+  "sent_fr": "fin d'année"
+ },
+ {
+  "id": 1726956823486,
+  "def_fr": "bavardage; bavarder",
+  "sent_fr": "Je chéris le temps que je passe à <b>bavarder</b> avec ma famille."
+ },
+ {
+  "id": 1726956823487,
+  "def_fr": "détente; se détendre",
+  "sent_fr": "Quand je rentre à la maison, je me <b>détends</b> dans le salon."
+ },
+ {
+  "id": 1726956823488,
+  "def_fr": "d'habitude; habituellement; ordinairement",
+  "sent_fr": "<b>D'habitude</b>, je mange à la maison."
+ },
+ {
+  "id": 1726956823489,
+  "def_fr": "tenue décontractée; vêtements de tous les jours",
+  "sent_fr": "Je me suis endormi sur le canapé, en <b>tenue décontractée</b>."
+ },
+ {
+  "id": 1726956823490,
+  "def_fr": "comme toujours; comme d'habitude",
+  "sent_fr": "Mon fils joue aux jeux vidéo <b>comme toujours</b>."
+ },
+ {
+  "id": 1726956823491,
+  "def_fr": "normalement; d'habitude; en général",
+  "sent_fr": "<b>En général</b>, je me couche vers une heure."
+ },
+ {
+  "id": 1726956823492,
+  "def_fr": "veiller tard; se coucher tard",
+  "sent_fr": "Le week-end, il m'arrive de <b>veiller</b> un peu <b>tard</b>."
+ },
+ {
+  "id": 1726956823493,
+  "def_fr": "alimentation électrique; interrupteur d'alimentation; prise",
+  "sent_fr": "Le soir, j'<b>éteins</b> mon ordinateur."
+ },
+ {
+  "id": 1726956823494,
+  "def_fr": "charge (d'une batterie); recharger",
+  "sent_fr": "Avant de dormir, je mets mon smartphone en <b>charge</b>."
+ },
+ {
+  "id": 1726956823495,
+  "def_fr": "réglage; ensemble; programmer",
+  "sent_fr": "J'ai <b>réglé</b> mon réveil sur 7 heures."
+ },
+ {
+  "id": 1726956823496,
+  "def_fr": "caresser",
+  "sent_fr": "J'ai <b>caressé</b> mon chien et j'ai dit « bonne nuit »."
+ },
+ {
+  "id": 1726956823497,
+  "def_fr": "profondément (dormir); d'un sommeil profond",
+  "sent_fr": "Il me semble que je vais pouvoir dormir <b>profondément</b> aujourd'hui aussi."
+ },
+ {
+  "id": 1726956823498,
+  "def_fr": "chance; sort; fortune",
+  "sent_fr": "Aujourd'hui a été une journée où j'ai eu de la <b>chance</b>."
+ },
+ {
+  "id": 1726956823499,
+  "def_fr": "quotidien; de tous les jours",
+  "sent_fr": "Je veux profiter de la vie <b>quotidienne</b>."
+ },
+ {
+  "id": 1726956823500,
+  "def_fr": "<div>conversation courante (de la vie quotidienne)<br></div>",
+  "sent_fr": "conversation courante"
+ },
+ {
+  "id": 1726956823501,
+  "def_fr": "<div>vie de tous les jours; vie quotidienne<br></div>",
+  "sent_fr": "vie quotidienne"
+ },
+ {
+  "id": 1726956823502,
+  "def_fr": "toujours; constamment",
+  "sent_fr": "Je pense <b>constamment</b> à la santé de ma famille."
+ },
+ {
+  "id": 1726956823503,
+  "def_fr": "accueil; fait d'aller accueillir",
+  "sent_fr": "Je vais à l'aéroport <b>accueillir</b> un ami de mon pays."
+ },
+ {
+  "id": 1726956823504,
+  "def_fr": "accueillir; aller à la rencontre de; recevoir",
+  "sent_fr": "J'ai <b>accueilli</b> un ami à l'arrêt de bus."
+ },
+ {
+  "id": 1726956823505,
+  "def_fr": "fait d'accompagner un départ; adieux",
+  "sent_fr": "Je vais à l'aéroport pour <b>dire au revoir</b> à ma famille."
+ },
+ {
+  "id": 1726956823506,
+  "def_fr": "accompagner au départ; dire au revoir; voir partir",
+  "sent_fr": "J'ai <b>vu partir</b> ma famille en pleurant."
+ },
+ {
+  "id": 1726956823507,
+  "def_fr": "envoi par la poste; envoyer par courrier",
+  "sent_fr": "J'ai <b>envoyé par la poste</b> un cadeau d'anniversaire à ma mère."
+ },
+ {
+  "id": 1726956823508,
+  "def_fr": "colis",
+  "sent_fr": "J'ai mis un pull dans le <b>colis</b>."
+ },
+ {
+  "id": 1726956823509,
+  "def_fr": "frais d'envoi; frais de port",
+  "sent_fr": "Quand on envoie un colis, il y a des <b>frais d'envoi</b>."
+ },
+ {
+  "id": 1726956823510,
+  "def_fr": "adresse du destinataire",
+  "sent_fr": "J'ai écrit l'<b>adresse</b> en faisant attention à ne pas me tromper."
+ },
+ {
+  "id": 1726956823511,
+  "def_fr": "nom du destinataire",
+  "sent_fr": "J'ai écrit le nom de ma mère comme <b>destinataire</b>."
+ },
+ {
+  "id": 1726956823512,
+  "def_fr": "expéditeur",
+  "sent_fr": "Écrivez ici l'adresse de l'<b>expéditeur</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823513,
+  "def_fr": "d'abord; pour le moment; en attendant",
+  "sent_fr": "J'ai été admis à l'université, alors j'en ai <b>d'abord</b> informé ma mère."
+ },
+ {
+  "id": 1726956823514,
+  "def_fr": "livraison à domicile (de plats)",
+  "sent_fr": "Aujourd'hui, je suis fatigué, alors commandons des sushis en <b>livraison</b>."
+ },
+ {
+  "id": 1726956823515,
+  "def_fr": "livraison",
+  "sent_fr": "livraison"
+ },
+ {
+  "id": 1726956823516,
+  "def_fr": "dénouer; défaire; détacher",
+  "sent_fr": "À l'entrée, j'ai <b>dénoué</b> mes lacets."
+ },
+ {
+  "id": 1726956823517,
+  "def_fr": "nouer; attacher<div>ひも・帯などの両端をからませてつなぎ合わせる。<br></div>",
+  "sent_fr": "nouer"
+ },
+ {
+  "id": 1726956823518,
+  "def_fr": "répondeur téléphonique",
+  "sent_fr": "Il y avait la voix de ma mère sur le <b>répondeur</b>."
+ },
+ {
+  "id": 1726956823519,
+  "def_fr": "souvent; bien; fréquemment",
+  "sent_fr": "Je parle <b>souvent</b> au téléphone avec mes parents et mes frères et sœurs."
+ },
+ {
+  "id": 1726956823520,
+  "def_fr": "tôt; un peu à l'avance; en avance",
+  "sent_fr": "Je réserve mes billets d'avion <b>à l'avance</b>."
+ },
+ {
+  "id": 1726956823521,
+  "def_fr": "un peu tard; plutôt tard<br><div>きまった時間よりも少し遅い<br></div>",
+  "sent_fr": "un peu tard"
+ },
+ {
+  "id": 1726956823522,
+  "def_fr": "recyclage",
+  "sent_fr": "On peut <b>recycler</b> aussi bien les vêtements que les meubles."
+ },
+ {
+  "id": 1726956823523,
+  "def_fr": "réutilisation; recyclage",
+  "sent_fr": "réutiliser"
+ },
+ {
+  "id": 1726956823524,
+  "def_fr": "écarter; déplacer (pour dégager)",
+  "sent_fr": "Veuillez <b>déplacer</b> ce vélo, s'il vous plaît."
+ },
+ {
+  "id": 1726956823525,
+  "def_fr": "quartier commerçant; rue commerçante",
+  "sent_fr": "Il y a un grand <b>quartier commerçant</b> devant la gare."
+ },
+ {
+  "id": 1726956823526,
+  "def_fr": "animé; vivant",
+  "sent_fr": "Le quartier commerçant est <b>animé</b> : il y a beaucoup de monde."
+ },
+ {
+  "id": 1726956823527,
+  "def_fr": "gratte-ciel; immeuble de grande hauteur",
+  "sent_fr": "Il n'y a pas de <b>gratte-ciel</b> dans cette ville."
+ },
+ {
+  "id": 1726956823528,
+  "def_fr": "immeuble d'habitation de grande hauteur; tour résidentielle",
+  "sent_fr": "tour résidentielle"
+ },
+ {
+  "id": 1726956823529,
+  "def_fr": "être construit; s'élever",
+  "sent_fr": "Une tour résidentielle a été <b>construite</b> près de la rivière."
+ },
+ {
+  "id": 1726956823530,
+  "def_fr": "<div>construire; bâtir<br></div>ある場所に建物・建造物を造る。",
+  "sent_fr": "construire"
+ }
+]

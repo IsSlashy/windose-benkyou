@@ -1,0 +1,627 @@
+[
+ {
+  "id": 1726956823146,
+  "def_fr": "sexe; genre",
+  "sent_fr": "Écrivez votre nom et entourez votre <b>sexe</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823147,
+  "def_fr": "femme; féminin",
+  "sent_fr": "femme"
+ },
+ {
+  "id": 1726956823148,
+  "def_fr": "homme; masculin",
+  "sent_fr": "homme"
+ },
+ {
+  "id": 1726956823149,
+  "def_fr": "âge",
+  "sent_fr": "On ne doit pas demander son <b>âge</b> à une femme."
+ },
+ {
+  "id": 1726956823150,
+  "def_fr": "grand âge; vieillesse",
+  "sent_fr": "Au Japon, il y a beaucoup de personnes <b>âgées</b> en pleine forme."
+ },
+ {
+  "id": 1726956823151,
+  "def_fr": "personne âgée",
+  "sent_fr": "personne âgée"
+ },
+ {
+  "id": 1726956823152,
+  "def_fr": "vieillissement de la population",
+  "sent_fr": "vieillissement de la population"
+ },
+ {
+  "id": 1726956823153,
+  "def_fr": "personnes âgées",
+  "sent_fr": "personnes âgées"
+ },
+ {
+  "id": 1726956823154,
+  "def_fr": "personnes âgées; vieillards",
+  "sent_fr": "Le bowling est un sport que les <b>personnes âgées</b> aiment aussi."
+ },
+ {
+  "id": 1726956823155,
+  "def_fr": "jeune enfant; tout-petit (enfant de plus d'un an, pas encore en âge d'aller à l'école)",
+  "sent_fr": "Dans cette classe, des <b>tout-petits</b> apprennent l'anglais."
+ },
+ {
+  "id": 1726956823156,
+  "def_fr": "enfants; mineurs",
+  "sent_fr": "enfants"
+ },
+ {
+  "id": 1726956823157,
+  "def_fr": "nourrisson (de moins d'un an)<div>生後一年から一年半ぐらいまでの子供。<br></div>",
+  "sent_fr": "nourrisson"
+ },
+ {
+  "id": 1726956823158,
+  "def_fr": "origine; lieu d'origine; originaire de",
+  "sent_fr": "Il est <b>originaire</b> de Bangkok, en Thaïlande."
+ },
+ {
+  "id": 1726956823159,
+  "def_fr": "université d'origine; ancienne université",
+  "sent_fr": "université d'origine"
+ },
+ {
+  "id": 1726956823160,
+  "def_fr": "ville d'origine; lieu d'origine",
+  "sent_fr": "ville d'origine"
+ },
+ {
+  "id": 1726956823161,
+  "def_fr": "lieu de naissance; né à",
+  "sent_fr": "Je suis <b>née</b> à Osaka."
+ },
+ {
+  "id": 1726956823162,
+  "def_fr": "naître",
+  "sent_fr": "naître"
+ },
+ {
+  "id": 1726956823163,
+  "def_fr": "lieu où l'on a grandi; éducation",
+  "sent_fr": "Je suis née à Osaka et j'ai <b>grandi</b> à Tokyo."
+ },
+ {
+  "id": 1726956823164,
+  "def_fr": "grandir; être élevé; se développer<br>",
+  "sent_fr": "grandir"
+ },
+ {
+  "id": 1726956823165,
+  "def_fr": "bonnes manières; savoir-vivre; conduite",
+  "sent_fr": "Cet enfant est très <b>bien élevé</b>."
+ },
+ {
+  "id": 1726956823166,
+  "def_fr": "manières; savoir-vivre",
+  "sent_fr": "Il ne connaît pas les <b>bonnes manières</b> à observer quand on fume."
+ },
+ {
+  "id": 1726956823167,
+  "def_fr": "politesse; bonnes manières<br><div>人としてふみ行うべき作法。<br></div>",
+  "sent_fr": "politesse"
+ },
+ {
+  "id": 1726956823168,
+  "def_fr": "individu; personne; particulier",
+  "sent_fr": "Il vaut mieux ne pas trop communiquer ses données <b>personnelles</b>."
+ },
+ {
+  "id": 1726956823169,
+  "def_fr": "informations personnelles",
+  "sent_fr": "informations personnelles"
+ },
+ {
+  "id": 1726956823170,
+  "def_fr": "personnel; privé",
+  "sent_fr": "personnel"
+ },
+ {
+  "id": 1726956823171,
+  "def_fr": "adresse (e-mail)",
+  "sent_fr": "L'<b>adresse</b> e-mail est écrite sur la carte de visite."
+ },
+ {
+  "id": 1726956823172,
+  "def_fr": "adresse e-mail<br>",
+  "sent_fr": "adresse e-mail"
+ },
+ {
+  "id": 1726956823173,
+  "def_fr": "la personne concernée; l'intéressé(e) en personne",
+  "sent_fr": "Laissez-moi vérifier que vous êtes bien la <b>personne concernée</b>."
+ },
+ {
+  "id": 1726956823174,
+  "def_fr": "célibataire",
+  "sent_fr": "Il est <b>célibataire</b>, mais il disait vouloir se marier."
+ },
+ {
+  "id": 1726956823175,
+  "def_fr": "marié<div>すでに結婚していること。⇔未婚「－者」</div>",
+  "sent_fr": "marié"
+ },
+ {
+  "id": 1726956823176,
+  "def_fr": "femme au foyer; ménagère",
+  "sent_fr": "Ma grande sœur est <b>femme au foyer</b>, mais elle travaille aussi."
+ },
+ {
+  "id": 1726956823177,
+  "def_fr": "femme au foyer<br><div>就業せず，家事に専念する主婦。<br></div>",
+  "sent_fr": "femme au foyer"
+ },
+ {
+  "id": 1726956823178,
+  "def_fr": "travailleur à temps partiel (freeter); jobber",
+  "sent_fr": "Mon petit frère est <b>freeter</b> depuis qu'il a quitté l'université."
+ },
+ {
+  "id": 1726956823179,
+  "def_fr": "sans emploi; chômeur",
+  "sent_fr": "Je suis <b>sans emploi</b> pour le moment, mais je travaillerai à partir du mois prochain."
+ },
+ {
+  "id": 1726956823180,
+  "def_fr": "aujourd'hui; ce jour (formel)",
+  "sent_fr": "Merci de nous consacrer du temps <b>aujourd'hui</b>, malgré votre emploi du temps chargé."
+ },
+ {
+  "id": 1726956823181,
+  "def_fr": "<div>aujourd'hui<br></div>現在過ごしつつある，この日。本日。",
+  "sent_fr": "aujourd'hui"
+ },
+ {
+  "id": 1726956823182,
+  "def_fr": "demain",
+  "sent_fr": "Je passerai chez vous <b>demain</b> à 15 heures."
+ },
+ {
+  "id": 1726956823183,
+  "def_fr": "la veille; le jour précédent",
+  "sent_fr": "Je fais les préparatifs <b>la veille</b> de la réunion."
+ },
+ {
+  "id": 1726956823184,
+  "def_fr": "le lendemain; le jour suivant",
+  "sent_fr": "Le <b>lendemain</b> de mon anniversaire, je suis parti en voyage d'affaires en Corée."
+ },
+ {
+  "id": 1726956823185,
+  "def_fr": "l'année suivante<div>その次の年。<br></div>",
+  "sent_fr": "l'année suivante"
+ },
+ {
+  "id": 1726956823186,
+  "def_fr": "le mois suivant<div>その次の月。<br></div>",
+  "sent_fr": "le mois suivant"
+ },
+ {
+  "id": 1726956823187,
+  "def_fr": "la semaine suivante<div>その次の週。<br></div>",
+  "sent_fr": "la semaine suivante"
+ },
+ {
+  "id": 1726956823188,
+  "def_fr": "dans trois jours (après-après-demain)",
+  "sent_fr": "Mon anniversaire est <b>dans trois jours</b>."
+ },
+ {
+  "id": 1726956823189,
+  "def_fr": "il y a trois jours (avant-avant-hier)",
+  "sent_fr": "Il y a <b>trois jours</b>, il y a eu une réunion d'anciens élèves de mon lycée."
+ },
+ {
+  "id": 1726956823190,
+  "def_fr": "hier",
+  "sent_fr": "Merci pour tout ce que vous avez fait <b>hier</b>."
+ },
+ {
+  "id": 1726956823191,
+  "def_fr": "avant-hier<div>昨日の前日。<br></div>",
+  "sent_fr": "avant-hier"
+ },
+ {
+  "id": 1726956823192,
+  "def_fr": "l'année dernière",
+  "sent_fr": "Je suis venu au Japon en mai <b>de l'année dernière</b>."
+ },
+ {
+  "id": 1726956823193,
+  "def_fr": "il y a deux ans; l'année d'avant l'année dernière<div>昨年の前年。<br></div>",
+  "sent_fr": "il y a deux ans"
+ },
+ {
+  "id": 1726956823194,
+  "def_fr": "<div>il y a deux ans; l'année d'avant l'année dernière<br></div>昨年の前の年。",
+  "sent_fr": "il y a deux ans"
+ },
+ {
+  "id": 1726956823195,
+  "def_fr": "l'autre jour; récemment",
+  "sent_fr": "A : Merci beaucoup pour <b>l'autre jour</b>.<div>B : C'est moi qui vous remercie.</div>"
+ },
+ {
+  "id": 1726956823196,
+  "def_fr": "dans deux semaines; la semaine d'après la semaine prochaine",
+  "sent_fr": "Il semble que j'aurai beaucoup de travail <b>dans deux semaines</b>."
+ },
+ {
+  "id": 1726956823197,
+  "def_fr": "dans deux ans; l'année d'après l'année prochaine",
+  "sent_fr": "dans deux ans"
+ },
+ {
+  "id": 1726956823198,
+  "def_fr": "dans deux mois; le mois d'après le mois prochain",
+  "sent_fr": "dans deux mois"
+ },
+ {
+  "id": 1726956823199,
+  "def_fr": "il y a deux semaines; la semaine d'avant la semaine dernière",
+  "sent_fr": "L'examen d'<b>il y a deux semaines</b> m'a enfin été rendu aujourd'hui."
+ },
+ {
+  "id": 1726956823200,
+  "def_fr": "il y a deux mois; le mois d'avant le mois dernier",
+  "sent_fr": "il y a deux mois"
+ },
+ {
+  "id": 1726956823201,
+  "def_fr": "début du mois; les dix premiers jours du mois",
+  "sent_fr": "<b>Début</b> du mois prochain, je vais voyager en Thaïlande."
+ },
+ {
+  "id": 1726956823202,
+  "def_fr": "début du mois; les dix premiers jours du mois<br><div>月のはじめの１０日間。<br></div>",
+  "sent_fr": "début du mois"
+ },
+ {
+  "id": 1726956823203,
+  "def_fr": "milieu du mois; les dix jours du milieu du mois",
+  "sent_fr": "Rendez le rapport d'ici le <b>milieu</b> de ce mois, s'il vous plaît."
+ },
+ {
+  "id": 1726956823204,
+  "def_fr": "fin du mois; les dix (ou onze) derniers jours du mois",
+  "sent_fr": "Chaque mois, quand on arrive à la <b>fin</b> du mois, j'attends mon salaire avec impatience."
+ },
+ {
+  "id": 1726956823205,
+  "def_fr": "tard dans la nuit; nuit profonde",
+  "sent_fr": "Quand il se fait <b>tard dans la nuit</b>, j'entends une voix forte."
+ },
+ {
+  "id": 1726956823206,
+  "def_fr": "émission de fin de soirée; émission nocturne",
+  "sent_fr": "émission de fin de soirée"
+ },
+ {
+  "id": 1726956823207,
+  "def_fr": "<div>minuit; cœur de la nuit<br></div>夜の一番更けた時。深夜。",
+  "sent_fr": "minuit"
+ },
+ {
+  "id": 1726956823208,
+  "def_fr": "avenir (à plus grande échelle, pour des choses comme les événements mondiaux)",
+  "sent_fr": "Pensons à un <b>avenir</b> radieux pour les enfants."
+ },
+ {
+  "id": 1726956823209,
+  "def_fr": "quelques jours (quand le nombre exact est inconnu, ou pour exprimer une durée assez courte)",
+  "sent_fr": "À partir de samedi, il paraît que le temps sera mauvais pendant <b>quelques jours</b>."
+ },
+ {
+  "id": 1726956823210,
+  "def_fr": "quelques fois; plusieurs fois<br><div>二，三回から五，六回程度の回数。<br></div>",
+  "sent_fr": "plusieurs fois"
+ },
+ {
+  "id": 1726956823211,
+  "def_fr": "quelques années; plusieurs années<br>",
+  "sent_fr": "quelques années"
+ },
+ {
+  "id": 1726956823212,
+  "def_fr": "quelques mois; plusieurs mois",
+  "sent_fr": "quelques mois"
+ },
+ {
+  "id": 1726956823213,
+  "def_fr": "après; à partir de; dès lors",
+  "sent_fr": "<b>Depuis</b> le grand tremblement de terre, j'ai pris l'habitude de faire des réserves d'eau."
+ },
+ {
+  "id": 1726956823214,
+  "def_fr": "<div>avant; autrefois<br></div>ある時点よりも前。",
+  "sent_fr": "avant; autrefois"
+ },
+ {
+  "id": 1726956823215,
+  "def_fr": "depuis; dès lors; à partir de maintenant",
+  "sent_fr": "depuis"
+ },
+ {
+  "id": 1726956823216,
+  "def_fr": "après; désormais<div>これから先のこと。<br></div>",
+  "sent_fr": "désormais"
+ },
+ {
+  "id": 1726956823217,
+  "def_fr": "petit-déjeuner",
+  "sent_fr": "Même quand on est occupé, il vaut mieux prendre un <b>petit-déjeuner</b>."
+ },
+ {
+  "id": 1726956823218,
+  "def_fr": "petit-déjeuner",
+  "sent_fr": "petit-déjeuner"
+ },
+ {
+  "id": 1726956823219,
+  "def_fr": "petit-déjeuner (formule du matin)",
+  "sent_fr": "La formule <b>du matin</b> de ce café est bon marché et délicieuse."
+ },
+ {
+  "id": 1726956823220,
+  "def_fr": "déjeuner",
+  "sent_fr": "Comme je suis occupé, mon <b>déjeuner</b> est toujours un sandwich."
+ },
+ {
+  "id": 1726956823221,
+  "def_fr": "déjeuner",
+  "sent_fr": "déjeuner"
+ },
+ {
+  "id": 1726956823222,
+  "def_fr": "déjeuner; formule déjeuner",
+  "sent_fr": "Le menu du <b>déjeuner</b> d'ici a l'air délicieux."
+ },
+ {
+  "id": 1726956823223,
+  "def_fr": "dîner; repas du soir",
+  "sent_fr": "Il semble que le <b>dîner</b> de ce soir sera un peu tardif."
+ },
+ {
+  "id": 1726956823224,
+  "def_fr": "dîner",
+  "sent_fr": "dîner"
+ },
+ {
+  "id": 1726956823225,
+  "def_fr": "dîner (évoque un repas raffiné ou de standing)",
+  "sent_fr": "Hier, j'ai pris le <b>dîner</b> dans un restaurant de luxe."
+ },
+ {
+  "id": 1726956823226,
+  "def_fr": "dessert",
+  "sent_fr": "J'ai le ventre plein, mais je peux manger un <b>dessert</b>."
+ },
+ {
+  "id": 1726956823227,
+  "def_fr": "goûter; collation",
+  "sent_fr": "Il est bientôt 15 heures, c'est l'heure du <b>goûter</b>."
+ },
+ {
+  "id": 1726956823228,
+  "def_fr": "plat d'accompagnement; mets qui accompagnent le riz",
+  "sent_fr": "C'est difficile de trouver tous les jours les <b>plats d'accompagnement</b>."
+ },
+ {
+  "id": 1726956823229,
+  "def_fr": "bento; panier-repas; déjeuner en boîte",
+  "sent_fr": "Chaque jour, j'apporte un <b>bento</b> au travail."
+ },
+ {
+  "id": 1726956823230,
+  "def_fr": "faire sa propre cuisine; cuisiner soi-même",
+  "sent_fr": "Depuis que je suis arrivé au Japon, j'ai commencé à <b>cuisiner moi-même</b>."
+ },
+ {
+  "id": 1726956823231,
+  "def_fr": "manger au restaurant; manger dehors",
+  "sent_fr": "Le week-end, il m'arrive de <b>manger dehors</b>."
+ },
+ {
+  "id": 1726956823232,
+  "def_fr": "gourmet; fin gourmet",
+  "sent_fr": "C'est un <b>gourmet</b> : il connaît beaucoup de restaurants."
+ },
+ {
+  "id": 1726956823233,
+  "def_fr": "offrir un repas; inviter (à manger)",
+  "sent_fr": "J'ai reçu ma prime, alors j'ai <b>invité</b> ma petite sœur à dîner."
+ },
+ {
+  "id": 1726956823234,
+  "def_fr": "repas offert; invitation (aux frais de qqn)<br><div>自分の金で他人にごちそうすること。<br></div>",
+  "sent_fr": "c'est moi qui offre"
+ },
+ {
+  "id": 1726956823235,
+  "def_fr": "offrir un repas; régaler (qqn)<div>心を尽くして客をもてなすこと。<br></div>",
+  "sent_fr": "régaler"
+ },
+ {
+  "id": 1726956823236,
+  "def_fr": "appétit",
+  "sent_fr": "Ces derniers temps, je n'ai pas beaucoup d'<b>appétit</b>."
+ },
+ {
+  "id": 1726956823237,
+  "def_fr": "commande",
+  "sent_fr": "<b>Commandons</b> d'abord les boissons."
+ },
+ {
+  "id": 1726956823238,
+  "def_fr": "toast; santé",
+  "sent_fr": "<b>Trinquons</b> avec du vin."
+ },
+ {
+  "id": 1726956823239,
+  "def_fr": "mordre; mâcher",
+  "sent_fr": "Pendant les repas, <b>mâchons</b> bien."
+ },
+ {
+  "id": 1726956823240,
+  "def_fr": "savourer; déguster",
+  "sent_fr": "Quand on mange un bon plat, <b>savourons</b>-le bien."
+ },
+ {
+  "id": 1726956823241,
+  "def_fr": "resservir; reprise (d'un plat)",
+  "sent_fr": "La soupe miso était si bonne que j'en ai repris (<b>un supplément</b>)."
+ },
+ {
+  "id": 1726956823242,
+  "def_fr": "laisser (derrière soi, de reste)",
+  "sent_fr": "Il y avait trop de riz, alors j'en ai <b>laissé</b> un peu."
+ },
+ {
+  "id": 1726956823243,
+  "def_fr": "restes; reliefs",
+  "sent_fr": "Mangeons demain les <b>restes</b> d'aujourd'hui."
+ },
+ {
+  "id": 1726956823244,
+  "def_fr": "gaspillage; dommage",
+  "sent_fr": "Laisser de la nourriture dans son assiette, quel <b>gaspillage</b> !"
+ },
+ {
+  "id": 1726956823245,
+  "def_fr": "terminer; expédier; se contenter de",
+  "sent_fr": "Pour le déjeuner d'aujourd'hui, je me suis <b>contenté</b> d'un bento de supérette."
+ },
+ {
+  "id": 1726956823246,
+  "def_fr": "terminer; se contenter de; régler",
+  "sent_fr": "terminer; se contenter de"
+ },
+ {
+  "id": 1726956823247,
+  "def_fr": "finir; être terminé",
+  "sent_fr": "J'ai déjà <b>fini</b> de préparer le dîner."
+ },
+ {
+  "id": 1726956823248,
+  "def_fr": "suffire; se contenter; s'en tirer",
+  "sent_fr": "Si l'on prépare son bento, cela <b>revient</b> moins cher."
+ },
+ {
+  "id": 1726956823249,
+  "def_fr": "quantité; portion",
+  "sent_fr": "Les portions de spaghettis de ce restaurant sont <b>petites</b>."
+ },
+ {
+  "id": 1726956823250,
+  "def_fr": "équilibre",
+  "sent_fr": "Dans les repas, il est important d'avoir un bon <b>équilibre</b> entre viande et légumes."
+ },
+ {
+  "id": 1726956823251,
+  "def_fr": "marmite; casserole",
+  "sent_fr": "J'ai acheté une grande <b>marmite</b> au supermarché."
+ },
+ {
+  "id": 1726956823252,
+  "def_fr": "poêle",
+  "sent_fr": "J'ai fait une omelette à la <b>poêle</b>."
+ },
+ {
+  "id": 1726956823253,
+  "def_fr": "couteau de cuisine",
+  "sent_fr": "Chez moi, je n'ai qu'un seul <b>couteau de cuisine</b>."
+ },
+ {
+  "id": 1726956823254,
+  "def_fr": "planche à découper",
+  "sent_fr": "Notre <b>planche à découper</b> est en bois."
+ },
+ {
+  "id": 1726956823255,
+  "def_fr": "louche",
+  "sent_fr": "Mélangez bien le curry avec une <b>louche</b>."
+ },
+ {
+  "id": 1726956823256,
+  "def_fr": "spatule à riz; cuillère en bois",
+  "sent_fr": "Le riz colle peu à cette <b>spatule à riz</b>."
+ },
+ {
+  "id": 1726956823257,
+  "def_fr": "cuillère à soupe",
+  "sent_fr": "D'abord, ajoutez deux <b>cuillères à soupe</b> de sucre."
+ },
+ {
+  "id": 1726956823258,
+  "def_fr": "cuillère à café<br><div>茶匙など小形のさじ。<br></div>",
+  "sent_fr": "cuillère à café"
+ },
+ {
+  "id": 1726956823259,
+  "def_fr": "cuiseur à riz",
+  "sent_fr": "On cuit le riz dans un <b>cuiseur à riz</b>."
+ },
+ {
+  "id": 1726956823260,
+  "def_fr": "cuire (des céréales, ex. riz)<br>",
+  "sent_fr": "cuire (du riz)"
+ },
+ {
+  "id": 1726956823261,
+  "def_fr": "évier",
+  "sent_fr": "Cet <b>évier</b> est en pierre."
+ },
+ {
+  "id": 1726956823262,
+  "def_fr": "four à micro-ondes",
+  "sent_fr": "J'ai entendu le « ding » du <b>micro-ondes</b>."
+ },
+ {
+  "id": 1726956823263,
+  "def_fr": "cuisinière à gaz",
+  "sent_fr": "Il y a une drôle d'odeur qui vient de la <b>cuisinière à gaz</b>."
+ },
+ {
+  "id": 1726956823264,
+  "def_fr": "assaisonnement; condiment",
+  "sent_fr": "Il y a beaucoup d'<b>assaisonnements</b> dans la cuisine."
+ },
+ {
+  "id": 1726956823265,
+  "def_fr": "vinaigre",
+  "sent_fr": "vinaigre"
+ },
+ {
+  "id": 1726956823266,
+  "def_fr": "poivre",
+  "sent_fr": "poivre"
+ },
+ {
+  "id": 1726956823267,
+  "def_fr": "huile de cuisine; huile pour salade",
+  "sent_fr": "J'ai oublié d'aller acheter de l'<b>huile de cuisine</b>."
+ },
+ {
+  "id": 1726956823268,
+  "def_fr": "huile de cuisine; huile pour salade (même sens que サラダ油)",
+  "sent_fr": "huile de cuisine"
+ },
+ {
+  "id": 1726956823269,
+  "def_fr": "aliments; produits alimentaires",
+  "sent_fr": "J'achète mes <b>produits alimentaires</b> au supermarché du quartier."
+ },
+ {
+  "id": 1726956823270,
+  "def_fr": "plat cuisiné en sachet (retort); aliment conditionné dans un sachet plastique scellé (en laboratoire de chimie, la cornue est un appareil en verre servant à la distillation); apparenté à 食品",
+  "sent_fr": "plat cuisiné en sachet"
+ }
+]

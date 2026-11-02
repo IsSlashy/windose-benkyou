@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1723207973137,
+  "def_fr": "comme prévu; comme on pouvait s'y attendre; décidément",
+  "sent_fr": "Hier, l'équipe A a <b>comme prévu</b> remporté le match."
+ },
+ {
+  "id": 1723207973138,
+  "def_fr": "en fait; à vrai dire",
+  "sent_fr": "<b>En fait</b>, je vais rentrer dans mon pays le mois prochain."
+ },
+ {
+  "id": 1723207973139,
+  "def_fr": "comment",
+  "sent_fr": "<b>Que diriez-vous</b> d'un café ?"
+ },
+ {
+  "id": 1723207973140,
+  "def_fr": "de toutes ses forces; avec acharnement; de son mieux",
+  "sent_fr": "J'étudie <b>de toutes mes forces</b> tous les jours."
+ },
+ {
+  "id": 1723207973141,
+  "def_fr": "<div><div>1. foule; grand nombre de personnes</div></div><div><div>2. en grand nombre</div></div>",
+  "sent_fr": "Cette plage est célèbre, alors <b>beaucoup</b> de gens y viennent."
+ },
+ {
+  "id": 1723207973142,
+  "def_fr": "donc; c'est pourquoi",
+  "sent_fr": "J'adore les enfants. <b>C'est pourquoi</b> je veux devenir institutrice de maternelle."
+ },
+ {
+  "id": 1723207973143,
+  "def_fr": "alors; et donc; c'est pourquoi",
+  "sent_fr": "Hier, j'avais de la fièvre. <b>Alors</b>, je ne suis pas allé à l'école."
+ },
+ {
+  "id": 1723207973144,
+  "def_fr": "ou; ou bien",
+  "sent_fr": "Contactez-moi par téléphone <b>ou</b> par e-mail, s'il vous plaît."
+ },
+ {
+  "id": 1723207973145,
+  "def_fr": "de plus; en outre; et puis",
+  "sent_fr": "Pendant les longs week-ends, les hôtels sont chers. <b>Et puis</b>, il y a du monde partout."
+ },
+ {
+  "id": 1723207973146,
+  "def_fr": "en plus; de surcroît",
+  "sent_fr": "Il est beau. <b>En plus</b>, il est très riche."
+ },
+ {
+  "id": 1723207973147,
+  "def_fr": "alors; sur ce; et là",
+  "sent_fr": "Le ciel s'est soudain assombri. <b>Sur ce</b>, une forte pluie s'est mise à tomber."
+ },
+ {
+  "id": 1723207973148,
+  "def_fr": "cependant; mais",
+  "sent_fr": "Le Japon est un pays où il fait bon vivre. <b>Mais</b> le coût de la vie y est élevé."
+ },
+ {
+  "id": 1723207973149,
+  "def_fr": "dans ce cas; si c'est comme ça; alors",
+  "sent_fr": "A : C'est la première fois que je viens au Japon.<br>B : <b>Dans ce cas</b>, je vous ferai visiter Tokyo."
+ },
+ {
+  "id": 1723207973150,
+  "def_fr": "au fait; à propos",
+  "sent_fr": "A : La pluie d'hier était terrible, n'est-ce pas ?<br>B : Oui. <b>Au fait</b>, êtes-vous libre demain soir ?"
+ },
+ {
+  "id": 1726956823030,
+  "def_fr": "père",
+  "sent_fr": "Mon <b>père</b> aura 50 ans cette année."
+ },
+ {
+  "id": 1726956823031,
+  "def_fr": "mère",
+  "sent_fr": "La cuisine de ma <b>mère</b> est très bonne."
+ },
+ {
+  "id": 1726956823032,
+  "def_fr": "fille aînée",
+  "sent_fr": "Je suis la <b>fille aînée</b> et j'ai une petite sœur."
+ },
+ {
+  "id": 1726956823033,
+  "def_fr": "fils aîné",
+  "sent_fr": "Ma grande sœur a donné naissance à un <b>fils aîné</b> en pleine forme."
+ },
+ {
+  "id": 1726956823034,
+  "def_fr": "deuxième fille",
+  "sent_fr": "Notre <b>deuxième fille</b> ressemble à ma mère."
+ },
+ {
+  "id": 1726956823035,
+  "def_fr": "deuxième fils",
+  "sent_fr": "Mon <b>deuxième fils</b> est très grand."
+ },
+ {
+  "id": 1726956823036,
+  "def_fr": "troisième fille",
+  "sent_fr": "Notre <b>troisième fille</b> est en CP."
+ },
+ {
+  "id": 1726956823037,
+  "def_fr": "troisième fils",
+  "sent_fr": "Mon <b>troisième fils</b> est le plus énergique de ses frères et sœurs."
+ },
+ {
+  "id": 1726956823038,
+  "def_fr": "benjamin; dernier enfant",
+  "sent_fr": "Il est le <b>dernier</b> de cinq frères et sœurs."
+ },
+ {
+  "id": 1726956823039,
+  "def_fr": "enfant unique",
+  "sent_fr": "Parmi mes amis, il y a beaucoup d'<b>enfants uniques</b>."
+ },
+ {
+  "id": 1726956823040,
+  "def_fr": "sœurs; fratrie de filles",
+  "sent_fr": "Je suis la plus jeune de trois <b>sœurs</b>."
+ },
+ {
+  "id": 1726956823041,
+  "def_fr": "fille unique",
+  "sent_fr": "Le père a pleuré au mariage de sa <b>fille unique</b>."
+ },
+ {
+  "id": 1726956823042,
+  "def_fr": "fils unique",
+  "sent_fr": "fils unique"
+ },
+ {
+  "id": 1726956823043,
+  "def_fr": "parent et enfant; parents et enfants",
+  "sent_fr": "Ces derniers temps, nous partons souvent en voyage à l'étranger, <b>parent et enfant</b>."
+ },
+ {
+  "id": 1726956823044,
+  "def_fr": "mari et femme; couple marié",
+  "sent_fr": "<b>Les époux</b> Sato se promènent tous les jours."
+ },
+ {
+  "id": 1726956823045,
+  "def_fr": "couple marié; époux",
+  "sent_fr": "J'ai été invité chez mon chef de service et <b>son épouse</b>."
+ },
+ {
+  "id": 1726956823046,
+  "def_fr": "parents (famille); proches",
+  "sent_fr": "M. Tanaka et moi sommes <b>parents</b>."
+ },
+ {
+  "id": 1726956823047,
+  "def_fr": "parents (famille); proches",
+  "sent_fr": "parents (famille)"
+ },
+ {
+  "id": 1726956823048,
+  "def_fr": "ancêtre",
+  "sent_fr": "Il paraît qu'un célèbre samouraï figure parmi nos <b>ancêtres</b>."
+ },
+ {
+  "id": 1726956823049,
+  "def_fr": "ancêtre",
+  "sent_fr": "ancêtre"
+ },
+ {
+  "id": 1726956823050,
+  "def_fr": "respect; admiration",
+  "sent_fr": "Je <b>respecte</b> beaucoup mes parents."
+ },
+ {
+  "id": 1726956823051,
+  "def_fr": "oncle (伯父 ou 叔父 désignent respectivement un frère plus âgé ou plus jeune du père ou de la mère)",
+  "sent_fr": "Mon père et mon <b>oncle</b> sont deux frères."
+ },
+ {
+  "id": 1726956823052,
+  "def_fr": "tante (伯母 ou 叔母 désignent respectivement une sœur plus âgée ou plus jeune du père ou de la mère)",
+  "sent_fr": "Je me confie plus à ma <b>tante</b> qu'à ma mère."
+ },
+ {
+  "id": 1726956823053,
+  "def_fr": "cousin (従兄弟 : masculin; 従姉妹 : féminin)",
+  "sent_fr": "Aujourd'hui, mon <b>cousin</b> vient jouer."
+ },
+ {
+  "id": 1726956823054,
+  "def_fr": "neveu",
+  "sent_fr": "Un <b>neveu</b> est né et je suis devenue tante."
+ },
+ {
+  "id": 1726956823055,
+  "def_fr": "nièce",
+  "sent_fr": "Mon neveu comme ma <b>nièce</b> sont très mignons."
+ },
+ {
+  "id": 1726956823056,
+  "def_fr": "emmener; mener; être accompagné de",
+  "sent_fr": "J'<b>emmène</b> mon enfant au parc du quartier."
+ },
+ {
+  "id": 1726956823057,
+  "def_fr": "ressembler",
+  "sent_fr": "A : Vous <b>ressemblez</b> plutôt à votre père ou à votre mère ?<div>B : On dit que je ressemble à mon père.</div>"
+ },
+ {
+  "id": 1726956823058,
+  "def_fr": "tout à fait semblable; le portrait de",
+  "sent_fr": "Ma petite sœur est <b>le portrait</b> de notre père."
+ },
+ {
+  "id": 1726956823059,
+  "def_fr": "ami proche; meilleur ami",
+  "sent_fr": "J'ai trois <b>amis proches</b>."
+ },
+ {
+  "id": 1726956823060,
+  "def_fr": "camarade; compagnon; ami; membre d'un groupe",
+  "sent_fr": "Faisons entrer lui aussi dans notre <b>groupe</b> de football."
+ },
+ {
+  "id": 1726956823061,
+  "def_fr": "partenaire de tennis",
+  "sent_fr": "partenaire de tennis"
+ },
+ {
+  "id": 1726956823062,
+  "def_fr": "camarade de jeu",
+  "sent_fr": "camarade de jeu"
+ },
+ {
+  "id": 1726956823063,
+  "def_fr": "bons amis; ami intime",
+  "sent_fr": "Tous mes camarades de classe sont <b>très amis</b>."
+ },
+ {
+  "id": 1726956823064,
+  "def_fr": "ami d'enfance",
+  "sent_fr": "Quand je retourne à la campagne, je retrouve toujours mon <b>ami d'enfance</b>."
+ },
+ {
+  "id": 1726956823065,
+  "def_fr": "amitié",
+  "sent_fr": "Je veux chérir pour toujours mon <b>amitié</b> avec lui."
+ },
+ {
+  "id": 1726956823066,
+  "def_fr": "proche; intime",
+  "sent_fr": "J'ai été invité au mariage d'un <b>proche</b> ami."
+ },
+ {
+  "id": 1726956823067,
+  "def_fr": "connaissance; relation",
+  "sent_fr": "J'ai fait sa connaissance grâce à la présentation d'une <b>connaissance</b>."
+ },
+ {
+  "id": 1726956823068,
+  "def_fr": "faire connaissance; se connaître",
+  "sent_fr": "faire connaissance; se connaître"
+ },
+ {
+  "id": 1726956823069,
+  "def_fr": "membre",
+  "sent_fr": "A : Qui sont les <b>membres</b> de la fête de demain ?<div>B : Le professeur et nous.</div>"
+ },
+ {
+  "id": 1726956823070,
+  "def_fr": "relier; attacher; joindre",
+  "sent_fr": "Les enfants vont à l'école en se <b>tenant</b> par la main."
+ },
+ {
+  "id": 1726956823071,
+  "def_fr": "être relié; être connecté; aboutir",
+  "sent_fr": "Même la nuit, le téléphone ne <b>passe</b> pas."
+ },
+ {
+  "id": 1726956823072,
+  "def_fr": "à cette époque; alors",
+  "sent_fr": "Elle était ma camarade de classe, mais nous ne parlions pas beaucoup à <b>l'époque</b>."
+ },
+ {
+  "id": 1726956823073,
+  "def_fr": "fêter; célébrer",
+  "sent_fr": "Nous avons organisé une fête pour <b>célébrer</b> les fiançailles d'un ami."
+ },
+ {
+  "id": 1726956823074,
+  "def_fr": "fête; félicitations",
+  "sent_fr": "félicitations"
+ },
+ {
+  "id": 1726956823075,
+  "def_fr": "fêter; célébrer",
+  "sent_fr": "fêter"
+ },
+ {
+  "id": 1726956823076,
+  "def_fr": "retenue; réserve; refus poli",
+  "sent_fr": "Mangez, s'il vous plaît, sans <b>vous gêner</b>."
+ },
+ {
+  "id": 1726956823077,
+  "def_fr": "souvent; fréquemment; tout le temps",
+  "sent_fr": "Je déjeune <b>souvent</b> avec mon ami d'enfance."
+ },
+ {
+  "id": 1726956823078,
+  "def_fr": "maintes fois; à plusieurs reprises",
+  "sent_fr": "Pendant mon travail, un ami m'envoie des messages <b>à tout bout de champ</b>."
+ },
+ {
+  "id": 1726956823079,
+  "def_fr": "de temps en temps; parfois",
+  "sent_fr": "Je vais <b>parfois</b> boire un verre avec des amis de l'université."
+ },
+ {
+  "id": 1726956823080,
+  "def_fr": "par hasard; fortuitement; de temps en temps",
+  "sent_fr": "Hier, devant la gare, j'ai <b>par hasard</b> rencontré un ami du lycée."
+ },
+ {
+  "id": 1726956823081,
+  "def_fr": "rarement; presque jamais",
+  "sent_fr": "Depuis que je suis venu à Tokyo, je vois <b>rarement</b> mes amis d'enfance."
+ },
+ {
+  "id": 1726956823082,
+  "def_fr": "un moment; un certain temps",
+  "sent_fr": "Je n'ai pas vu mon ami d'enfance depuis <b>un certain temps</b>."
+ },
+ {
+  "id": 1726956823083,
+  "def_fr": "séparé; différent; chacun de son côté",
+  "sent_fr": "Mon ami proche et moi sommes entrés dans des universités <b>différentes</b>."
+ },
+ {
+  "id": 1726956823084,
+  "def_fr": "séparément; à part",
+  "sent_fr": "Mettez ceci <b>séparément</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823085,
+  "def_fr": "petite amie; elle",
+  "sent_fr": "Maintenant que j'ai une <b>petite amie</b>, chaque jour est agréable."
+ },
+ {
+  "id": 1726956823086,
+  "def_fr": "petit ami; il",
+  "sent_fr": "Mes parents ne semblent pas trop aimer mon <b>petit ami</b>."
+ },
+ {
+  "id": 1726956823087,
+  "def_fr": "petit ami",
+  "sent_fr": "petit ami"
+ },
+ {
+  "id": 1726956823088,
+  "def_fr": "amour; affection",
+  "sent_fr": "J'ai compris que c'était quelqu'un de gentil, et notre amitié s'est changée en <b>amour</b>."
+ },
+ {
+  "id": 1726956823089,
+  "def_fr": "rencontre",
+  "sent_fr": "Ce fut une <b>rencontre</b> digne d'un feuilleton télévisé."
+ },
+ {
+  "id": 1726956823090,
+  "def_fr": "rencontrer; tomber sur; croiser",
+  "sent_fr": "Je l'ai <b>rencontrée</b> quand j'ai voyagé en Amérique."
+ },
+ {
+  "id": 1726956823091,
+  "def_fr": "sortir avec; fréquenter",
+  "sent_fr": "Ces deux-là <b>sortent ensemble</b> depuis six mois."
+ },
+ {
+  "id": 1726956823092,
+  "def_fr": "accompagner; tenir compagnie à",
+  "sent_fr": "Je vais maintenant <b>accompagner</b> mon amie faire du shopping."
+ },
+ {
+  "id": 1726956823093,
+  "def_fr": "fréquentation; relations; vie sociale",
+  "sent_fr": "fréquentation"
+ },
+ {
+  "id": 1726956823094,
+  "def_fr": "relations; fréquentation; liaison",
+  "sent_fr": "Les parents de sa petite amie s'opposent à leur <b>relation</b>."
+ },
+ {
+  "id": 1726956823095,
+  "def_fr": "commémoration; souvenir",
+  "sent_fr": "Pour <b>marquer</b> son diplôme, nous avons pris une photo."
+ },
+ {
+  "id": 1726956823096,
+  "def_fr": "anniversaire (d'un événement); jour commémoratif",
+  "sent_fr": "Demain, c'est notre <b>anniversaire</b> de mariage."
+ },
+ {
+  "id": 1726956823097,
+  "def_fr": "dispute; bagarre; querelle",
+  "sent_fr": "Nous nous <b>disputons</b> souvent."
+ },
+ {
+  "id": 1726956823098,
+  "def_fr": "dispute verbale; querelle",
+  "sent_fr": "se quereller"
+ },
+ {
+  "id": 1726956823099,
+  "def_fr": "répliquer; répondre du tac au tac",
+  "sent_fr": "Dès qu'on lui fait une remarque, il <b>réplique</b> aussitôt."
+ },
+ {
+  "id": 1726956823100,
+  "def_fr": "s'excuser; présenter ses excuses",
+  "sent_fr": "Quand je me fâche, il <b>s'excuse</b> tout de suite."
+ },
+ {
+  "id": 1726956823101,
+  "def_fr": "réconciliation; se réconcilier",
+  "sent_fr": "Nous nous sommes disputés il y a trois jours et nous ne nous sommes pas encore <b>réconciliés</b>."
+ },
+ {
+  "id": 1726956823102,
+  "def_fr": "emmener (qqn)",
+  "sent_fr": "Je voudrais <b>emmener</b> ma petite amie chez mes parents."
+ },
+ {
+  "id": 1726956823103,
+  "def_fr": "amener (qqn); venir avec (qqn)",
+  "sent_fr": "Mon grand frère a <b>amené</b> sa petite amie à la maison."
+ },
+ {
+  "id": 1726956823104,
+  "def_fr": "secret; mystère",
+  "sent_fr": "Il a raconté mon <b>secret</b> à tout le monde."
+ },
+ {
+  "id": 1726956823105,
+  "def_fr": "secret; confidentiel",
+  "sent_fr": "Gardez cette histoire <b>secrète</b>, absolument."
+ },
+ {
+  "id": 1726956823106,
+  "def_fr": "être aimé; plaire",
+  "sent_fr": "C'est quelqu'un qui est <b>aimé</b> de tous."
+ },
+ {
+  "id": 1726956823107,
+  "def_fr": "avoir du succès; être populaire",
+  "sent_fr": "Je ne comprends pas pourquoi il a tant de <b>succès</b> auprès des femmes."
+ },
+ {
+  "id": 1726956823108,
+  "def_fr": "larguer; plaquer; repousser (qqn)",
+  "sent_fr": "Mon petit frère s'est fait <b>larguer</b> par sa petite amie et il n'a pas le moral."
+ },
+ {
+  "id": 1726956823109,
+  "def_fr": "entrevue en vue du mariage; rencontre arrangée; présentation matrimoniale",
+  "sent_fr": "Avant son <b>entrevue matrimoniale</b>, ma grande sœur est allée chez le coiffeur."
+ },
+ {
+  "id": 1726956823110,
+  "def_fr": "mariage arrangé<div>見合いによって結ばれる結婚。<br></div>",
+  "sent_fr": "mariage arrangé"
+ },
+ {
+  "id": 1726956823111,
+  "def_fr": "amour; sentiments amoureux",
+  "sent_fr": "Pour l'instant, je voudrais un bon ami plutôt que de l'<b>amour</b>."
+ },
+ {
+  "id": 1726956823112,
+  "def_fr": "mariage d'amour",
+  "sent_fr": "mariage d'amour"
+ },
+ {
+  "id": 1726956823113,
+  "def_fr": "existence; présence",
+  "sent_fr": "Pour moi, un(e) amoureux(se) est une <b>présence</b> très importante."
+ },
+ {
+  "id": 1726956823114,
+  "def_fr": "adversaire; partenaire; autre personne; l'autre",
+  "sent_fr": "Pensons non seulement à nous-mêmes, mais aussi à <b>l'autre</b>."
+ },
+ {
+  "id": 1726956823115,
+  "def_fr": "sauver; aider; secourir",
+  "sent_fr": "J'ai <b>aidé</b> une personne en difficulté à la gare."
+ },
+ {
+  "id": 1726956823116,
+  "def_fr": "être sauvé; être aidé; être soulagé",
+  "sent_fr": "Mon ami a relu mon rapport, ce qui m'a <b>bien aidé</b>."
+ },
+ {
+  "id": 1726956823117,
+  "def_fr": "soutenir; supporter",
+  "sent_fr": "Mes parents, restés au pays, me <b>soutiennent</b> toujours."
+ },
+ {
+  "id": 1726956823118,
+  "def_fr": "inviter",
+  "sent_fr": "Il y a un film que je veux voir, alors j'ai <b>invité</b> un ami."
+ },
+ {
+  "id": 1726956823119,
+  "def_fr": "invitation",
+  "sent_fr": "invitation"
+ },
+ {
+  "id": 1726956823120,
+  "def_fr": "se retrouver; se donner rendez-vous",
+  "sent_fr": "Je me suis <b>donné rendez-vous</b> avec un ami dans un café devant la gare."
+ },
+ {
+  "id": 1726956823121,
+  "def_fr": "rendez-vous; lieu de rencontre",
+  "sent_fr": "rendez-vous"
+ },
+ {
+  "id": 1726956823122,
+  "def_fr": "échange; échanger",
+  "sent_fr": "J'ai <b>échangé</b> mon adresse e-mail avec une personne avec qui je travaille."
+ },
+ {
+  "id": 1726956823123,
+  "def_fr": "échange; relations; contacts",
+  "sent_fr": "Je veux avoir des <b>échanges</b> avec des gens de différents pays."
+ },
+ {
+  "id": 1726956823124,
+  "def_fr": "refuser; décliner; rejeter",
+  "sent_fr": "L'ami de mon grand frère m'a invitée à un rendez-vous, mais j'ai <b>refusé</b>."
+ },
+ {
+  "id": 1726956823125,
+  "def_fr": "confier; déposer; mettre en garde",
+  "sent_fr": "Pendant mon voyage, j'ai <b>confié</b> mon animal de compagnie à un ami."
+ },
+ {
+  "id": 1726956823126,
+  "def_fr": "garder (qqch confié); prendre en dépôt; se charger de",
+  "sent_fr": "Pendant le voyage de mon amie, j'ai <b>gardé</b> son animal de compagnie."
+ },
+ {
+  "id": 1726956823127,
+  "def_fr": "chérir; choyer; montrer de l'affection",
+  "sent_fr": "Elle est <b>chérie</b> de tous."
+ },
+ {
+  "id": 1726956823128,
+  "def_fr": "gâter; dorloter",
+  "sent_fr": "Mes parents <b>gâtent</b> mon petit frère."
+ },
+ {
+  "id": 1726956823129,
+  "def_fr": "accompagner; suivre; venir avec",
+  "sent_fr": "Ma petite sœur <b>m'accompagne</b> toujours en promenade."
+ },
+ {
+  "id": 1726956823130,
+  "def_fr": "accompagner; suivre; suivre le rythme",
+  "sent_fr": "accompagner; suivre"
+ },
+ {
+  "id": 1726956823131,
+  "def_fr": "serrer dans ses bras; étreindre; tenir (dans ses bras)",
+  "sent_fr": "J'ai <b>pris dans mes bras</b> un adorable bébé."
+ },
+ {
+  "id": 1726956823132,
+  "def_fr": "adresser la parole à; engager la conversation",
+  "sent_fr": "Mon grand frère <b>a parlé</b> au bébé."
+ },
+ {
+  "id": 1726956823133,
+  "def_fr": "ignorer; indifférence",
+  "sent_fr": "J'ai adressé la parole à une connaissance, mais elle m'a <b>ignoré</b>."
+ },
+ {
+  "id": 1726956823134,
+  "def_fr": "se retourner",
+  "sent_fr": "Quelqu'un a appelé mon nom derrière moi et je me suis <b>retourné</b>."
+ },
+ {
+  "id": 1726956823135,
+  "def_fr": "recevoir (humble)",
+  "sent_fr": "J'ai <b>reçu</b> du saké japonais de mon chef de service."
+ },
+ {
+  "id": 1726956823136,
+  "def_fr": "donner (à moi, forme honorifique)",
+  "sent_fr": "L'épouse du président <b>m'a offert</b> des sucreries."
+ },
+ {
+  "id": 1726956823137,
+  "def_fr": "offrir; donner (forme humble)",
+  "sent_fr": "J'ai <b>offert</b> au professeur un souvenir de mon pays."
+ },
+ {
+  "id": 1726956823138,
+  "def_fr": "donner (familier)",
+  "sent_fr": "J'ai <b>donné</b> à ma petite sœur le sac que je venais d'acheter."
+ },
+ {
+  "id": 1726956823139,
+  "def_fr": "donner; accorder; procurer",
+  "sent_fr": "C'est une personne qui nous <b>donne</b> de l'énergie."
+ },
+ {
+  "id": 1726956823140,
+  "def_fr": "allié; partisan; ami",
+  "sent_fr": "Je serai toujours de <b>ton côté</b>."
+ },
+ {
+  "id": 1726956823141,
+  "def_fr": "médisance; propos injurieux",
+  "sent_fr": "Arrêtons de dire du <b>mal</b> des gens."
+ },
+ {
+  "id": 1726956823142,
+  "def_fr": "nous (expression très formelle, souvent employée dans les discours)",
+  "sent_fr": "Voici <b>notre</b> avis."
+ },
+ {
+  "id": 1726956823143,
+  "def_fr": "nous",
+  "sent_fr": "nous"
+ },
+ {
+  "id": 1726956823144,
+  "def_fr": "imitation; copie; mimique",
+  "sent_fr": "Ne copiez pas les autres (<b>imitation</b>), ayez vos propres idées."
+ },
+ {
+  "id": 1726956823145,
+  "def_fr": "nom de famille",
+  "sent_fr": "Son <b>nom de famille</b> est très rare."
+ }
+]

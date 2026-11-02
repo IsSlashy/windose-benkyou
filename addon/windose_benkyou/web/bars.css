@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* Windose Benkyou: the bar under the card is the Windose taskbar, and its
+   buttons are the game's BaseButton with the status icons from the game. */
+
+html:not(#wb-a):not(#wb-b),
+html:not(#wb-a):not(#wb-b) body,
+html:not(#wb-a):not(#wb-b) #outer {
+  background: var(--wb-face) !important;
+  color: var(--wb-ink) !important;
+  font-family: var(--wb-pixel) !important;
+}
+
+html:not(#wb-a):not(#wb-b) body {
+  border-top: 2px solid #fff !important;
+  box-shadow: none !important;
+}
+
+html:not(#wb-a):not(#wb-b) button {
+  font-family: var(--wb-pixel) !important;
+  font-size: 20px !important;
+  color: var(--wb-ink) !important;
+  border-style: solid !important;
+  border-width: 4px !important;
+  border-image: url("assets/btn.png") 4 fill / 4px round !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  backdrop-filter: none !important;
+  transition: none !important;
+  image-rendering: pixelated;
+}
+
+html:not(#wb-a):not(#wb-b) button * {
+  color: var(--wb-ink) !important;
+  font-family: var(--wb-pixel) !important;
+}
+
+html:not(#wb-a):not(#wb-b) button:hover {
+  border-image-source: url("assets/btn_hover.png") !important;
+}
+
+html:not(#wb-a):not(#wb-b) button:active {
+  border-image-source: url("assets/btn_down.png") !important;
+  transform: translate(1px, 1px) !important;
+}
+
+/* Game icons in front of the labels: the heart for Show answer, KAngel
+   stressed for Again, KAngel in love for Good. Onigiri swaps the label for
+   the interval on hover, so the icon sits on the label span. */
+html:not(#wb-a):not(#wb-b) #ansbut .onigiri-show-answer-label,
+html:not(#wb-a):not(#wb-b) #middle td:nth-child(1) .onigiri-answer-label,
+html:not(#wb-a):not(#wb-b) #defease .onigiri-answer-label {
+  padding-left: 30px !important;
+  background: url("assets/st_stress.png") 0 50% / 24px 20px no-repeat !important;
+}
+html:not(#wb-a):not(#wb-b) #ansbut .onigiri-show-answer-label {
+  background: url("assets/heart.png") 0 50% / 20px 20px no-repeat !important;
+}
+html:not(#wb-a):not(#wb-b) #defease .onigiri-answer-label {
+  background-image: url("assets/st_love.png") !important;
+}
+
+html:not(#wb-a):not(#wb-b) #ansbut .onigiri-show-answer-label {
+  font-size: 20px !important;
+}
+
+/* The grade proposed after an answer: the game's hovered button (dotted
+   focus line) bouncing gently. Enter validates it. */
+html:not(#wb-a):not(#wb-b) button.wb-suggest {
+  border-image-source: url("assets/btn_hover.png") !important;
+  animation: wb-nudge 0.8s steps(2, jump-none) infinite;
+}
+@keyframes wb-nudge {
+  from { transform: translateY(0); }
+  to { transform: translateY(-3px); }
+}
+html:not(#wb-a):not(#wb-b) #ansbut .onigiri-count-pill {
+  color: var(--wb-ink) !important;
+  background: var(--wb-paper) !important;
+  border: 2px solid var(--wb-ink) !important;
+  border-radius: 0 !important;
+}
+
+html:not(#wb-a):not(#wb-b) .stattxt,
+html:not(#wb-a):not(#wb-b) .onigiri-answer-hover-number {
+  color: var(--wb-shade) !important;
+}
+
+/* "To learn" (Again on a card still being learned): orange, not a failure. */
+html:not(#wb-a):not(#wb-b) button.wb-suggest.wb-learn,
+html:not(#wb-a):not(#wb-b) button.wb-suggest.wb-learn .onigiri-answer-label {
+  color: #e8730c !important;
+}
+html:not(#wb-a):not(#wb-b) button.wb-suggest.wb-learn {
+  box-shadow: 0 0 0 2px #e8730c !important;
+}

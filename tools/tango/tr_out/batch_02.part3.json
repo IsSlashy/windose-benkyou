@@ -1,0 +1,647 @@
+[
+{
+"id": 1723207972878,
+"def_fr": "rassembler, collectionner",
+"sent_fr": "Quand j'étais enfant, je <b>collectionnais</b> les timbres."
+},
+{
+"id": 1723207972879,
+"def_fr": "exercice, sport",
+"sent_fr": "Pour la santé, l'<b>exercice</b> est ce qu'il y a de mieux."
+},
+{
+"id": 1723207972880,
+"def_fr": "courir",
+"sent_fr": "Tous les matins, je <b>cours</b> trois kilomètres."
+},
+{
+"id": 1723207972881,
+"def_fr": "marcher",
+"sent_fr": "Tous les jours, je <b>marche</b> plus d'une heure."
+},
+{
+"id": 1723207972882,
+"def_fr": "jogging",
+"sent_fr": "Tous les matins, je fais 30 minutes de <b>jogging</b>."
+},
+{
+"id": 1723207972883,
+"def_fr": "étirer, allonger, tendre",
+"sent_fr": "<b>Étirons</b>-nous avant de commencer le jogging."
+},
+{
+"id": 1723207972884,
+"def_fr": "match, rencontre",
+"sent_fr": "Même s'il pleut, il y aura le <b>match</b>."
+},
+{
+"id": 1723207972885,
+"def_fr": "tournoi, grande compétition",
+"sent_fr": "Il y aura bientôt un <b>tournoi</b> de judo."
+},
+{
+"id": 1723207972886,
+"def_fr": "Coupe du monde",
+"sent_fr": "Je veux gagner la <b>Coupe du monde</b>."
+},
+{
+"id": 1723207972887,
+"def_fr": "tenir, organiser, exécuter",
+"sent_fr": "Les Jeux olympiques d'hiver <b>ont eu lieu</b> au Japon en 1998."
+},
+{
+"id": 1723207972888,
+"def_fr": "annulation, suspension",
+"sent_fr": "On dit que le match sera <b>annulé</b> en cas de typhon."
+},
+{
+"id": 1723207972889,
+"def_fr": "athlète, joueur",
+"sent_fr": "Plus tard, je voudrais devenir <b>athlète</b> olympique."
+},
+{
+"id": 1723207972890,
+"def_fr": "équipe",
+"sent_fr": "Mon <b>équipe</b> préférée a perdu."
+},
+{
+"id": 1723207972891,
+"def_fr": "gagner, vaincre",
+"sent_fr": "Le match d'hier, c'est le Japon qui l'a <b>gagné</b>."
+},
+{
+"id": 1723207972892,
+"def_fr": "victoire, remporter un championnat",
+"sent_fr": "J'ai <b>remporté</b> le tournoi de tennis."
+},
+{
+"id": 1723207972893,
+"def_fr": "perdre, être battu",
+"sent_fr": "Même si on <b>perd</b>, il y a toujours une prochaine fois."
+},
+{
+"id": 1723207972894,
+"def_fr": "encouragement, soutenir, supporter",
+"sent_fr": "Je <b>soutiens</b> mon équipe préférée."
+},
+{
+"id": 1723207972895,
+"def_fr": "parcours, trajet",
+"sent_fr": "Mon <b>parcours</b> de jogging fait cinq kilomètres."
+},
+{
+"id": 1723207972896,
+"def_fr": "lieu de la rencontre, salle, site",
+"sent_fr": "Le <b>site</b> du kendo est par ici."
+},
+{
+"id": 1723207972897,
+"def_fr": "départ, démarrage, partir",
+"sent_fr": "Les athlètes ont pris le <b>départ</b> ensemble."
+},
+{
+"id": 1723207972898,
+"def_fr": "échec, erreur",
+"sent_fr": "Même si on <b>échoue</b>, il suffit de réessayer."
+},
+{
+"id": 1723207972899,
+"def_fr": "judo",
+"sent_fr": "Le <b>judo</b> est un sport né au Japon."
+},
+{
+"id": 1723207972900,
+"def_fr": "natation",
+"sent_fr": "Quand j'étais enfant, je détestais la <b>natation</b>."
+},
+{
+"id": 1723207972901,
+"def_fr": "baseball",
+"sent_fr": "Le <b>baseball</b> est un sport populaire au Japon."
+},
+{
+"id": 1723207972902,
+"def_fr": "lancer",
+"sent_fr": "Les balles qu'il <b>lance</b> sont très rapides."
+},
+{
+"id": 1723207972903,
+"def_fr": "club de sport, salle de sport",
+"sent_fr": "La <b>salle de sport</b> près de chez moi est bon marché et pratique."
+},
+{
+"id": 1723207972904,
+"def_fr": "cheveux",
+"sent_fr": "M. Yamada a les <b>cheveux</b> longs."
+},
+{
+"id": 1723207972905,
+"def_fr": "front",
+"sent_fr": "Quand on a de la fièvre, on se rafraîchit le <b>front</b>."
+},
+{
+"id": 1723207972906,
+"def_fr": "menton, mâchoire",
+"sent_fr": "Il paraît que mâcher du chewing-gum est bon pour la <b>mâchoire</b>."
+},
+{
+"id": 1723207972907,
+"def_fr": "barbe, moustache, pilosité faciale",
+"sent_fr": "Mon père portait la <b>barbe</b> quand il était jeune."
+},
+{
+"id": 1723207972908,
+"def_fr": "lèvre",
+"sent_fr": "Ses <b>lèvres</b> sont très mignonnes."
+},
+{
+"id": 1723207972909,
+"def_fr": "cou",
+"sent_fr": "Quand je me suis réveillé, j'avais mal au <b>cou</b>."
+},
+{
+"id": 1723207972910,
+"def_fr": "gorge",
+"sent_fr": "Avez-vous un bon médicament pour la <b>gorge</b> ?"
+},
+{
+"id": 1723207972911,
+"def_fr": "épaule",
+"sent_fr": "J'ai mal à l'<b>épaule</b>."
+},
+{
+"id": 1723207972912,
+"def_fr": "bras",
+"sent_fr": "Faites tourner vos <b>bras</b>, s'il vous plaît."
+},
+{
+"id": 1723207972913,
+"def_fr": "coude",
+"sent_fr": "Mon <b>coude</b> droit est rouge."
+},
+{
+"id": 1723207972914,
+"def_fr": "dos",
+"sent_fr": "Redressez votre <b>dos</b>, s'il vous plaît."
+},
+{
+"id": 1723207972915,
+"def_fr": "estomac",
+"sent_fr": "J'ai trop mangé et j'ai mal à l'<b>estomac</b>."
+},
+{
+"id": 1723207972916,
+"def_fr": "taille, hanches, bas du dos",
+"sent_fr": "J'ai tellement mal au <b>dos</b> que je ne peux pas marcher."
+},
+{
+"id": 1723207972917,
+"def_fr": "genou",
+"sent_fr": "Après avoir couru, mes <b>genoux</b> ont commencé à me faire mal."
+},
+{
+"id": 1723207972918,
+"def_fr": "fesses, derrière",
+"sent_fr": "Je suis resté longtemps assis, alors j'ai mal aux <b>fesses</b>."
+},
+{
+"id": 1723207972919,
+"def_fr": "doigt",
+"sent_fr": "Je me suis cassé un os du <b>doigt</b> au volley-ball."
+},
+{
+"id": 1723207972920,
+"def_fr": "ongle",
+"sent_fr": "Tous les jours, je polis soigneusement mes <b>ongles</b>."
+},
+{
+"id": 1723207972921,
+"def_fr": "os",
+"sent_fr": "Il paraît que le calcium est bon pour les <b>os</b>."
+},
+{
+"id": 1723207972922,
+"def_fr": "sang",
+"sent_fr": "J'ai glissé et mon pied s'est mis à saigner, le <b>sang</b> coulait."
+},
+{
+"id": 1723207972923,
+"def_fr": "force, puissance",
+"sent_fr": "Ma petite sœur a plus de <b>force</b> que moi."
+},
+{
+"id": 1723207972924,
+"def_fr": "taille (hauteur du corps)",
+"sent_fr": "En un an, ma <b>taille</b> a augmenté de 10 centimètres."
+},
+{
+"id": 1723207972925,
+"def_fr": "poids (du corps)",
+"sent_fr": "Je vérifie mon <b>poids</b> tous les jours."
+},
+{
+"id": 1723207972926,
+"def_fr": "femme",
+"sent_fr": "Le médecin de l'hôpital où je vais est une <b>femme</b>."
+},
+{
+"id": 1723207972927,
+"def_fr": "homme",
+"sent_fr": "Les toilettes pour <b>hommes</b> sont au deuxième étage."
+},
+{
+"id": 1723207972928,
+"def_fr": "santé, en bonne santé<br>",
+"sent_fr": "Je mange des légumes pour ma <b>santé</b>.<br>"
+},
+{
+"id": 1723207972929,
+"def_fr": "santé, en bonne santé<br>",
+"sent_fr": "Construisons un corps en <b>bonne santé</b>.<br>"
+},
+{
+"id": 1723207972930,
+"def_fr": "solide, robuste, en bonne santé",
+"sent_fr": "Depuis que je fais de l'exercice, mon corps est devenu plus <b>robuste</b>."
+},
+{
+"id": 1723207972931,
+"def_fr": "vitamine",
+"sent_fr": "Ce repas ne contient pas assez de <b>vitamines</b>."
+},
+{
+"id": 1723207972932,
+"def_fr": "grossir, prendre du poids",
+"sent_fr": "J'ai mangé avant de dormir, alors j'ai <b>grossi</b>."
+},
+{
+"id": 1723207972933,
+"def_fr": "maigrir, perdre du poids",
+"sent_fr": "Même en faisant de l'exercice, je n'arrive pas à <b>maigrir</b>."
+},
+{
+"id": 1723207972934,
+"def_fr": "régime",
+"sent_fr": "Arrêtons les <b>régimes</b> déraisonnables."
+},
+{
+"id": 1723207972935,
+"def_fr": "arrêter, cesser",
+"sent_fr": "Mon père a <b>arrêté</b> de fumer le mois dernier."
+},
+{
+"id": 1723207972936,
+"def_fr": "faire attention, prendre garde",
+"sent_fr": "<b>Faisons attention</b> à notre santé."
+},
+{
+"id": 1723207972937,
+"def_fr": "avoir soif",
+"sent_fr": "J'<b>ai</b> très <b>soif</b>."
+},
+{
+"id": 1723207972938,
+"def_fr": "avoir faim",
+"sent_fr": "Quand on fait du sport, on <b>a faim</b>."
+},
+{
+"id": 1723207972939,
+"def_fr": "grippe",
+"sent_fr": "J'ai été absent de l'école cinq jours à cause de la <b>grippe</b>."
+},
+{
+"id": 1723207972940,
+"def_fr": "attraper un rhume",
+"sent_fr": "Quand j'étais enfant, j'<b>attrapais</b> souvent des <b>rhumes</b>."
+},
+{
+"id": 1723207972941,
+"def_fr": "fièvre",
+"sent_fr": "J'ai 39 de <b>fièvre</b>, je ne peux pas aller à l'école."
+},
+{
+"id": 1723207972942,
+"def_fr": "thermomètre (médical)",
+"sent_fr": "Je prends ma température avec un <b>thermomètre</b>."
+},
+{
+"id": 1723207972943,
+"def_fr": "brûlure",
+"sent_fr": "Je me suis <b>brûlé</b> avec l'eau chaude de la bouilloire."
+},
+{
+"id": 1723207972944,
+"def_fr": "blessure",
+"sent_fr": "Je me suis <b>blessé</b> au genou en jouant au football."
+},
+{
+"id": 1723207972945,
+"def_fr": "plaie, blessure, coupure",
+"sent_fr": "Cette <b>plaie</b> va guérir vite, j'en suis sûr."
+},
+{
+"id": 1723207972946,
+"def_fr": "état, forme, fonctionnement",
+"sent_fr": "Mon estomac <b>n'allait</b> pas bien, alors j'ai pris un médicament."
+},
+{
+"id": 1723207972947,
+"def_fr": "bizarre, étrange, drôle",
+"sent_fr": "Mon ventre <b>fait des siennes</b>, alors je ne vais pas à l'école."
+},
+{
+"id": 1723207972948,
+"def_fr": "état, condition, forme",
+"sent_fr": "Depuis hier, mon <b>état</b> physique n'est pas bon."
+},
+{
+"id": 1723207972949,
+"def_fr": "se sentir mal, avoir mal au cœur",
+"sent_fr": "J'ai trop bu et j'<b>ai mal au cœur</b>."
+},
+{
+"id": 1723207972950,
+"def_fr": "s'effondrer; tomber<br>",
+"sent_fr": "La maison s'est <b>effondrée</b> à cause du séisme.<br>"
+},
+{
+"id": 1723207972951,
+"def_fr": "s'effondrer; tomber<br>",
+"sent_fr": "Hier soir, ma grand-mère s'est <b>effondrée</b>.<br>"
+},
+{
+"id": 1723207972952,
+"def_fr": "examiner, ausculter",
+"sent_fr": "Je me fais toujours <b>examiner</b> par le médecin du quartier."
+},
+{
+"id": 1723207972953,
+"def_fr": "s'allonger, se coucher",
+"sent_fr": "Médecin : Alors, <b>allongez-vous</b> là-bas, s'il vous plaît."
+},
+{
+"id": 1723207972954,
+"def_fr": "appliquer, étaler, enduire",
+"sent_fr": "Trois fois par jour, <b>appliquez</b> ce médicament sur la plaie."
+},
+{
+"id": 1723207972955,
+"def_fr": "soigner, guérir (qqch)",
+"sent_fr": "Couchez-vous tôt pour <b>guérir</b> votre rhume."
+},
+{
+"id": 1723207972956,
+"def_fr": "guérir, se rétablir",
+"sent_fr": "J'ai pris un médicament et mon rhume a <b>guéri</b>."
+},
+{
+"id": 1723207972957,
+"def_fr": "hospitalisation",
+"sent_fr": "J'ai été <b>hospitalisé</b> à cause d'une blessure au pied."
+},
+{
+"id": 1723207972958,
+"def_fr": "sortie de l'hôpital",
+"sent_fr": "J'ai guéri, alors je <b>sors de l'hôpital</b> demain."
+},
+{
+"id": 1723207972959,
+"def_fr": "visite à un malade",
+"sent_fr": "Je suis allé <b>rendre visite</b> à mon ami à l'hôpital."
+},
+{
+"id": 1723207972960,
+"def_fr": "vivre",
+"sent_fr": "Je voudrais <b>vivre</b> jusqu'à 100 ans."
+},
+{
+"id": 1723207972961,
+"def_fr": "mourir, décéder",
+"sent_fr": "La vieille dame de la maison voisine est <b>décédée</b>."
+},
+{
+"id": 1723207972962,
+"def_fr": "ambulance",
+"sent_fr": "J'appelle le 119 pour faire venir une <b>ambulance</b>."
+},
+{
+"id": 1723207972963,
+"def_fr": "dentiste",
+"sent_fr": "L'enfant pleure chez le <b>dentiste</b>."
+},
+{
+"id": 1723207972964,
+"def_fr": "infirmier, infirmière",
+"sent_fr": "Ma grande sœur est <b>infirmière</b>."
+},
+{
+"id": 1723207972965,
+"def_fr": "costume, tailleur",
+"sent_fr": "Tous les jours, je vais au travail en <b>costume</b>."
+},
+{
+"id": 1723207972966,
+"def_fr": "kimono",
+"sent_fr": "À la cérémonie de la majorité, beaucoup de gens portent un <b>kimono</b>."
+},
+{
+"id": 1723207972967,
+"def_fr": "chaussette",
+"sent_fr": "En hiver, je dors avec des <b>chaussettes</b>."
+},
+{
+"id": 1723207972968,
+"def_fr": "sous-vêtements",
+"sent_fr": "J'ai mis des <b>sous-vêtements</b> dans mon sac de voyage."
+},
+{
+"id": 1723207972969,
+"def_fr": "gant",
+"sent_fr": "En hiver, je sors avec des <b>gants</b>."
+},
+{
+"id": 1723207972970,
+"def_fr": "bague",
+"sent_fr": "C'est une <b>bague</b> que m'a donnée ma mère."
+},
+{
+"id": 1723207972971,
+"def_fr": "sandales",
+"sent_fr": "Je cherche des <b>sandales</b> faciles pour marcher."
+},
+{
+"id": 1723207972972,
+"def_fr": "sac à dos",
+"sent_fr": "Il y a beaucoup de manuels dans ce <b>sac à dos</b>."
+},
+{
+"id": 1723207972973,
+"def_fr": "accessoire, bijou",
+"sent_fr": "Au travail, je ne porte pas d'<b>accessoires</b>."
+},
+{
+"id": 1723207972974,
+"def_fr": "poche",
+"sent_fr": "Ce sac a beaucoup de <b>poches</b>."
+},
+{
+"id": 1723207972975,
+"def_fr": "cordon, lacet, ficelle",
+"sent_fr": "Les <b>lacets</b> de ces chaussures sont jolis."
+},
+{
+"id": 1723207972976,
+"def_fr": "coiffure",
+"sent_fr": "Quelle <b>coiffure</b> aimez-vous ?"
+},
+{
+"id": 1723207972977,
+"def_fr": "salon de coiffure",
+"sent_fr": "Ce <b>salon de coiffure</b> est très cher."
+},
+{
+"id": 1723207972978,
+"def_fr": "coupe (de cheveux), couper",
+"sent_fr": "Je me fais toujours <b>couper</b> les cheveux dans ce salon."
+},
+{
+"id": 1723207972979,
+"def_fr": "miroir, glace",
+"sent_fr": "Avant de sortir, je me vérifie dans le <b>miroir</b>."
+},
+{
+"id": 1723207972980,
+"def_fr": "cool, beau, stylé",
+"sent_fr": "Je voudrais une coiffure <b>stylée</b>."
+},
+{
+"id": 1723207972981,
+"def_fr": "mignon, adorable",
+"sent_fr": "Ma petite sœur adore les vêtements <b>mignons</b>."
+},
+{
+"id": 1723207972982,
+"def_fr": "juste comme il faut, tout à fait bien",
+"sent_fr": "Ce sac est exactement à la <b>bonne</b> taille."
+},
+{
+"id": 1723207972983,
+"def_fr": "apparence, aspect, état des choses",
+"sent_fr": "Il fait sombre et je ne vois pas bien l'<b>état des choses</b> dehors."
+},
+{
+"id": 1723207972984,
+"def_fr": "forme",
+"sent_fr": "Ce biscuit a la <b>forme</b> d'une étoile."
+},
+{
+"id": 1723207972985,
+"def_fr": "fois (multiplicatif), double",
+"sent_fr": "Ça coûte <b>deux fois</b> le prix de ce gâteau."
+},
+{
+"id": 1723207972986,
+"def_fr": "~ ou plus, plus de ~",
+"sent_fr": "En été, il y a plusieurs jours à 30 degrés <b>ou plus</b>."
+},
+{
+"id": 1723207972987,
+"def_fr": "~ ou moins, au plus",
+"sent_fr": "À mes tests de kanji, j'ai toujours 50 points <b>ou moins</b>."
+},
+{
+"id": 1723207972988,
+"def_fr": "dans la limite de, moins de, au plus",
+"sent_fr": "Je voudrais acheter une montre à <b>moins de</b> 20 000 yens."
+},
+{
+"id": 1723207972989,
+"def_fr": "excepté, en dehors de, sauf",
+"sent_fr": "Le voyage de la semaine prochaine, tout le monde peut y aller <b>sauf</b> mon grand frère."
+},
+{
+"id": 1723207972990,
+"def_fr": "les deux, tous les deux",
+"sent_fr": "J'ai acheté <b>les deux</b> chemises, la rouge et la bleue."
+},
+{
+"id": 1723207972991,
+"def_fr": "temps libre, loisir/libre, disponible<br>",
+"sent_fr": "Je suis tellement occupé que je n'ai pas le <b>temps</b> de m'amuser.<br>"
+},
+{
+"id": 1723207972992,
+"def_fr": "temps libre, loisir/libre, disponible<br>",
+"sent_fr": "Quand je suis <b>libre</b>, je lis des livres.<br>"
+},
+{
+"id": 1723207972993,
+"def_fr": "normalité, ordinaire/normal, ordinaire, moyen<br>",
+"sent_fr": "J'aime les journées <b>ordinaires</b>.<br>"
+},
+{
+"id": 1723207972994,
+"def_fr": "normalité, ordinaire/normal, ordinaire, moyen<br>",
+"sent_fr": "Dans ce restaurant, la cuisine et le service sont <b>moyens</b>.<br>"
+},
+{
+"id": 1723207972995,
+"def_fr": "liberté/libre<br>",
+"sent_fr": "Quand je serai adulte, je voudrai de la <b>liberté</b>.<br>"
+},
+{
+"id": 1723207972996,
+"def_fr": "liberté/libre<br>",
+"sent_fr": "La vie au Japon est très <b>libre</b>.<br>"
+},
+{
+"id": 1723207972997,
+"def_fr": "poli, courtois, soigné",
+"sent_fr": "J'ai reçu un e-mail <b>courtois</b> de mon professeur."
+},
+{
+"id": 1723207972998,
+"def_fr": "grand, gros",
+"sent_fr": "Il y a un <b>grand</b> arbre devant la maison."
+},
+{
+"id": 1723207972999,
+"def_fr": "petit",
+"sent_fr": "De <b>petites</b> fleurs sont écloses dans le jardin."
+},
+{
+"id": 1723207973000,
+"def_fr": "bizarre, étrange",
+"sent_fr": "Ma petite sœur aime la mode <b>bizarre</b>."
+},
+{
+"id": 1723207973001,
+"def_fr": "suffisant, satisfaisant",
+"sent_fr": "Si j'y arrive, mes révisions du N4 seront <b>suffisantes</b>."
+},
+{
+"id": 1723207973002,
+"def_fr": "beau, magnifique",
+"sent_fr": "Je n'ai jamais vu un paysage aussi <b>beau</b>."
+},
+{
+"id": 1723207973003,
+"def_fr": "sale, en désordre",
+"sent_fr": "La chambre de mon grand frère est très <b>sale</b>."
+},
+{
+"id": 1723207973004,
+"def_fr": "habile, doué",
+"sent_fr": "Il est très <b>doué</b> au football comme au baseball."
+},
+{
+"id": 1723207973005,
+"def_fr": "mou, souple, moelleux",
+"sent_fr": "Le nouveau canapé est très <b>moelleux</b>."
+},
+{
+"id": 1723207973006,
+"def_fr": "dur, rigide",
+"sent_fr": "Ce pain est <b>dur</b>, mais délicieux."
+}
+]

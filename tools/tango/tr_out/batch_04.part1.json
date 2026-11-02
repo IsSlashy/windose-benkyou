@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1726956823271,
+  "def_fr": "aliments instantanés; plats instantanés",
+  "sent_fr": "aliments instantanés"
+ },
+ {
+  "id": 1726956823272,
+  "def_fr": "denrées alimentaires; produits alimentaires; même sens que 食品",
+  "sent_fr": "denrées alimentaires"
+ },
+ {
+  "id": 1726956823273,
+  "def_fr": "épuiser (son stock); être à court de",
+  "sent_fr": "Je n'avais plus de sauce soja (<b>à court de</b>), alors je suis allé en acheter à la supérette."
+ },
+ {
+  "id": 1726956823274,
+  "def_fr": "être épuisé; être à court de",
+  "sent_fr": "être à court de (qqch)"
+ },
+ {
+  "id": 1726956823275,
+  "def_fr": "pourrir; se gâter; tourner",
+  "sent_fr": "Le lait qui était dans le frigo avait <b>tourné</b>."
+ },
+ {
+  "id": 1726956823276,
+  "def_fr": "papier d'aluminium",
+  "sent_fr": "Enveloppez le poisson dans du <b>papier d'aluminium</b> et faites-le griller."
+ },
+ {
+  "id": 1726956823277,
+  "def_fr": "film alimentaire; film plastique",
+  "sent_fr": "Couvrez les restes de <b>film alimentaire</b> et mettez-les au réfrigérateur."
+ },
+ {
+  "id": 1726956823278,
+  "def_fr": "serviette chaude; serviette humide pour les mains",
+  "sent_fr": "Pour manger du crabe, il faut une <b>serviette humide</b>."
+ },
+ {
+  "id": 1726956823279,
+  "def_fr": "vaisselle; couverts",
+  "sent_fr": "Je vais choisir de la <b>vaisselle</b> qui va avec le repas de Noël."
+ },
+ {
+  "id": 1726956823280,
+  "def_fr": "bol; bol à riz; tasse à thé",
+  "sent_fr": "J'ai acheté un nouveau <b>bol à riz</b>, car je vais vivre seul."
+ },
+ {
+  "id": 1726956823281,
+  "def_fr": "tasse à thé; tasse japonaise",
+  "sent_fr": "tasse à thé"
+ },
+ {
+  "id": 1726956823282,
+  "def_fr": "verre",
+  "sent_fr": "Quel <b>verre</b> convient pour boire de la bière ?"
+ },
+ {
+  "id": 1726956823283,
+  "def_fr": "hacher; couper finement",
+  "sent_fr": "<b>Hachez</b> finement les légumes."
+ },
+ {
+  "id": 1726956823284,
+  "def_fr": "casser; fendre; casser (un œuf)",
+  "sent_fr": "<b>Cassez</b> trois œufs, s'il vous plaît."
+ },
+ {
+  "id": 1726956823285,
+  "def_fr": "éplucher; peler",
+  "sent_fr": "Après avoir <b>épluché</b> les pommes de terre, coupez-les en petits morceaux."
+ },
+ {
+  "id": 1726956823286,
+  "def_fr": "ajouter",
+  "sent_fr": "<b>Ajoutez</b> 200 millilitres d'eau dans la casserole."
+ },
+ {
+  "id": 1726956823287,
+  "def_fr": "un peu; quelque peu",
+  "sent_fr": "Ajoutez <b>un peu</b> de sel et de poivre."
+ },
+ {
+  "id": 1726956823288,
+  "def_fr": "frire",
+  "sent_fr": "Faites <b>frire</b> bien à fond dans de l'huile à 180 degrés."
+ },
+ {
+  "id": 1726956823289,
+  "def_fr": "faire cuire (à l'eau); mijoter; cuire en sauce",
+  "sent_fr": "Couvrez la casserole et laissez <b>mijoter</b> 30 minutes."
+ },
+ {
+  "id": 1726956823290,
+  "def_fr": "faire bouillir; cuire à l'eau",
+  "sent_fr": "Ajoutez du sel à l'eau chaude et <b>faites bouillir</b>."
+ },
+ {
+  "id": 1726956823291,
+  "def_fr": "cuire à la vapeur",
+  "sent_fr": "Faites <b>cuire</b> les légumes <b>à la vapeur</b> au micro-ondes."
+ },
+ {
+  "id": 1726956823292,
+  "def_fr": "envelopper; emballer",
+  "sent_fr": "<b>Enveloppez</b> les ingrédients dans des feuilles de cerisier."
+ },
+ {
+  "id": 1726956823293,
+  "def_fr": "envelopper; emballer",
+  "sent_fr": "envelopper"
+ },
+ {
+  "id": 1726956823294,
+  "def_fr": "serrer dans la main; saisir; empoigner",
+  "sent_fr": "Mettez une prune salée dans le riz et <b>façonnez-le</b> avec les mains."
+ },
+ {
+  "id": 1726956823295,
+  "def_fr": "boule de riz<br>",
+  "sent_fr": "boule de riz"
+ },
+ {
+  "id": 1726956823296,
+  "def_fr": "boule de riz",
+  "sent_fr": "boule de riz"
+ },
+ {
+  "id": 1726956823297,
+  "def_fr": "chauffer",
+  "sent_fr": "<b>Chauffez</b> à la poêle pendant environ cinq minutes."
+ },
+ {
+  "id": 1726956823298,
+  "def_fr": "chauffer; faire chauffer<div>熱を加えること。「殺菌のため－する」</div>",
+  "sent_fr": "chauffer"
+ },
+ {
+  "id": 1726956823299,
+  "def_fr": "brûler; roussir; attacher",
+  "sent_fr": "J'ai trop grillé le poisson et il a <b>brûlé</b>."
+ },
+ {
+  "id": 1726956823300,
+  "def_fr": "sortir; retirer",
+  "sent_fr": "<b>Sortez</b> du micro-ondes les légumes réchauffés."
+ },
+ {
+  "id": 1726956823301,
+  "def_fr": "étaler; enduire; tartiner",
+  "sent_fr": "<b>Tartinez</b> du beurre sur le pain."
+ },
+ {
+  "id": 1726956823302,
+  "def_fr": "réchauffer; chauffer",
+  "sent_fr": "C'est délicieux tel quel ou <b>réchauffé</b>."
+ },
+ {
+  "id": 1726956823303,
+  "def_fr": "refroidir; rafraîchir; mettre au frais",
+  "sent_fr": "Ce plat est délicieux aussi <b>froid</b>."
+ },
+ {
+  "id": 1726956823304,
+  "def_fr": "tiède",
+  "sent_fr": "Le café <b>tiède</b> n'est pas bon."
+ },
+ {
+  "id": 1726956823305,
+  "def_fr": "humidité; teneur en eau; liquide",
+  "sent_fr": "Ces légumes contiennent beaucoup d'<b>eau</b>, n'est-ce pas ?"
+ },
+ {
+  "id": 1726956823306,
+  "def_fr": "faire bouillir (de l'eau); chauffer",
+  "sent_fr": "Faites <b>bouillir</b> de l'eau dans la bouilloire, là-bas, s'il vous plaît."
+ },
+ {
+  "id": 1726956823307,
+  "def_fr": "bouillir",
+  "sent_fr": "bouillir (qqch)"
+ },
+ {
+  "id": 1726956823308,
+  "def_fr": "verser",
+  "sent_fr": "<b>Versez</b> l'eau chaude dans la tasse et attendez trois minutes."
+ },
+ {
+  "id": 1726956823309,
+  "def_fr": "goûter (pour vérifier l'assaisonnement); dégustation",
+  "sent_fr": "<b>Goûtons</b> un peu en cours de route."
+ },
+ {
+  "id": 1726956823310,
+  "def_fr": "peine; tracas; travail; temps nécessaire",
+  "sent_fr": "Ce plat ne demande pas beaucoup de <b>travail</b>."
+ },
+ {
+  "id": 1726956823311,
+  "def_fr": "facile; simple; pratique",
+  "sent_fr": "On peut préparer facilement des plats de restaurant, même chez soi (<b>sans façon</b>)."
+ },
+ {
+  "id": 1726956823312,
+  "def_fr": "achèvement; résultat final; fini",
+  "sent_fr": "Et voilà, le plat est <b>terminé</b>."
+ },
+ {
+  "id": 1726956823313,
+  "def_fr": "être terminé; être prêt",
+  "sent_fr": "être terminé; être prêt"
+ },
+ {
+  "id": 1726956823314,
+  "def_fr": "partager; diviser; séparer",
+  "sent_fr": "<b>Partageons</b> ce plat à deux."
+ },
+ {
+  "id": 1726956823315,
+  "def_fr": "pincer; saisir (du bout des doigts ou des baguettes)",
+  "sent_fr": "Mangez cela en le <b>saisissant</b> avec des baguettes."
+ },
+ {
+  "id": 1726956823316,
+  "def_fr": "salé",
+  "sent_fr": "C'est un peu <b>salé</b>, n'est-ce pas ?"
+ },
+ {
+  "id": 1726956823317,
+  "def_fr": "salé<div>塩気が強い。<br></div>",
+  "sent_fr": "salé"
+ },
+ {
+  "id": 1726956823318,
+  "def_fr": "acide; aigre",
+  "sent_fr": "J'aime les pommes <b>acides</b>."
+ },
+ {
+  "id": 1726956823319,
+  "def_fr": "congélation; surgélation",
+  "sent_fr": "S'il reste du plat, <b>congelons</b>-le."
+ },
+ {
+  "id": 1726956823320,
+  "def_fr": "aliments surgelés<div>冷凍庫に冷凍保存し、食べるときに出して調理できるように加工した食品類。</div>",
+  "sent_fr": "aliments surgelés"
+ },
+ {
+  "id": 1726956823321,
+  "def_fr": "être éparpillé; être en désordre",
+  "sent_fr": "Des jouets <b>traînent</b> partout dans la chambre de mon petit frère."
+ },
+ {
+  "id": 1726956823322,
+  "def_fr": "éparpiller; mettre en désordre<div>物をきちんと整理 整頓[セイトン]しないで、広げたままにしておく。</div>",
+  "sent_fr": "Ne <b>mettez</b> pas la chambre <b>en désordre</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823323,
+  "def_fr": "ranger; mettre en ordre",
+  "sent_fr": "Mère : <b>Range</b> ta chambre tout de suite.<br><div>Enfant : Je le ferai quand j'aurai fini mon jeu.</div>"
+ },
+ {
+  "id": 1726956823324,
+  "def_fr": "rangement; fin (d'une tâche)",
+  "sent_fr": "rangement"
+ },
+ {
+  "id": 1726956823325,
+  "def_fr": "être rangé; être en ordre<div>（散らかっていた）物が置かれるべき所にきちんと置かれる。<br></div>",
+  "sent_fr": "être rangé"
+ },
+ {
+  "id": 1726956823326,
+  "def_fr": "propre",
+  "sent_fr": "Je veux toujours garder l'intérieur de la maison <b>propre</b>."
+ },
+ {
+  "id": 1726956823327,
+  "def_fr": "sale; malpropre; insalubre<br><div>きたないこと。<br></div>",
+  "sent_fr": "sale"
+ },
+ {
+  "id": 1726956823328,
+  "def_fr": "balayer",
+  "sent_fr": "Je <b>balaie</b> devant chez moi tous les jours."
+ },
+ {
+  "id": 1726956823329,
+  "def_fr": "balai",
+  "sent_fr": "Je balaie l'entrée avec un <b>balai</b>."
+ },
+ {
+  "id": 1726956823330,
+  "def_fr": "pelle à poussière",
+  "sent_fr": "Rassemblez les ordures balayées dans la <b>pelle à poussière</b>."
+ },
+ {
+  "id": 1726956823331,
+  "def_fr": "aspirateur",
+  "sent_fr": "Notre <b>aspirateur</b> est très silencieux."
+ },
+ {
+  "id": 1726956823332,
+  "def_fr": "essuyer",
+  "sent_fr": "Avant chaque repas, j'<b>essuie</b> bien la table."
+ },
+ {
+  "id": 1726956823333,
+  "def_fr": "chiffon; serpillière",
+  "sent_fr": "J'ai fait des <b>chiffons</b> avec une vieille serviette."
+ },
+ {
+  "id": 1726956823334,
+  "def_fr": "seau",
+  "sent_fr": "Vous n'auriez pas un <b>seau</b> un peu plus grand ?"
+ },
+ {
+  "id": 1726956823335,
+  "def_fr": "tordre; essorer; presser",
+  "sent_fr": "<b>Essorez</b> bien le chiffon, s'il vous plaît."
+ },
+ {
+  "id": 1726956823336,
+  "def_fr": "renverser; répandre",
+  "sent_fr": "J'ai <b>renversé</b> l'eau du seau."
+ },
+ {
+  "id": 1726956823337,
+  "def_fr": "<div>se renverser; déborder<br></div>液体が容器から出て外へ落ちる。<br>",
+  "sent_fr": "se renverser"
+ },
+ {
+  "id": 1726956823338,
+  "def_fr": "détergent; produit lessiviel",
+  "sent_fr": "Quel <b>détergent</b> est bien pour nettoyer la salle de bains ?"
+ },
+ {
+  "id": 1726956823339,
+  "def_fr": "moisissure",
+  "sent_fr": "J'enlève la <b>moisissure</b> de la salle de bains."
+ },
+ {
+  "id": 1726956823340,
+  "def_fr": "poussière",
+  "sent_fr": "Quand on ouvre la fenêtre, de la <b>poussière</b> entre dans la pièce."
+ },
+ {
+  "id": 1726956823341,
+  "def_fr": "polir; astiquer; frotter",
+  "sent_fr": "Je <b>fais briller</b> soigneusement le miroir."
+ },
+ {
+  "id": 1726956823342,
+  "def_fr": "brosse",
+  "sent_fr": "Je lave la baignoire avec une <b>brosse</b>."
+ },
+ {
+  "id": 1726956823343,
+  "def_fr": "bulle; mousse",
+  "sent_fr": "Ce savon fait beaucoup de <b>mousse</b>."
+ },
+ {
+  "id": 1726956823344,
+  "def_fr": "sentir (mauvais); dégager une odeur",
+  "sent_fr": "Les déchets de cuisine dans le seau <b>sentent mauvais</b>."
+ },
+ {
+  "id": 1726956823345,
+  "def_fr": "<div>sentir; dégager une odeur<br></div>あるにおいがあたりにただよう。<br>",
+  "sent_fr": "sentir bon"
+ },
+ {
+  "id": 1726956823346,
+  "def_fr": "parfum; odeur agréable",
+  "sent_fr": "parfum"
+ },
+ {
+  "id": 1726956823347,
+  "def_fr": "mauvaise odeur; puanteur",
+  "sent_fr": "mauvaise odeur"
+ },
+ {
+  "id": 1726956823348,
+  "def_fr": "linge à laver; lessive",
+  "sent_fr": "Chaque jour, j'ai beaucoup de <b>linge</b>."
+ },
+ {
+  "id": 1726956823349,
+  "def_fr": "saleté; crasse",
+  "sent_fr": "Ce détergent enlève bien la <b>saleté</b>."
+ },
+ {
+  "id": 1726956823350,
+  "def_fr": "se salir",
+  "sent_fr": "se salir"
+ },
+ {
+  "id": 1726956823351,
+  "def_fr": "étendre; faire sécher",
+  "sent_fr": "Il fait beau, alors <b>étendons</b> le linge dehors."
+ },
+ {
+  "id": 1726956823352,
+  "def_fr": "séchage; sécher",
+  "sent_fr": "Les grosses serviettes de bain, je les fais <b>sécher</b> au sèche-linge."
+ },
+ {
+  "id": 1726956823353,
+  "def_fr": "sèche-linge",
+  "sent_fr": "sèche-linge"
+ },
+ {
+  "id": 1726956823354,
+  "def_fr": "plier",
+  "sent_fr": "Mon fils <b>plie</b> son linge lui-même."
+ },
+ {
+  "id": 1726956823355,
+  "def_fr": "fer à repasser",
+  "sent_fr": "Ma fille est douée pour le <b>repassage</b>."
+ },
+ {
+  "id": 1726956823356,
+  "def_fr": "étendre; déployer; poser (à terre)",
+  "sent_fr": "Je dors sur un futon <b>étendu</b> dans une pièce à tatamis."
+ },
+ {
+  "id": 1726956823357,
+  "def_fr": "soins aux enfants; éducation des enfants; élever un enfant",
+  "sent_fr": "C'est difficile d'<b>élever un enfant</b> tout en travaillant."
+ },
+ {
+  "id": 1726956823358,
+  "def_fr": "éducation des enfants; élever un enfant",
+  "sent_fr": "éducation des enfants"
+ },
+ {
+  "id": 1726956823359,
+  "def_fr": "réveiller (qqn); faire lever",
+  "sent_fr": "Je <b>réveille</b> mon enfant tous les matins à 6 heures."
+ },
+ {
+  "id": 1726956823360,
+  "def_fr": "fil",
+  "sent_fr": "J'ai cousu le bouton avec du <b>fil</b> noir."
+ },
+ {
+  "id": 1726956823361,
+  "def_fr": "aiguille",
+  "sent_fr": "Enfiler un fil dans une <b>aiguille</b> est très difficile."
+ },
+ {
+  "id": 1726956823362,
+  "def_fr": "déchets organiques; ordures ménagères",
+  "sent_fr": "En été, les <b>déchets organiques</b> se mettent vite à sentir."
+ },
+ {
+  "id": 1726956823363,
+  "def_fr": "déchets non combustibles; ordures non incinérables",
+  "sent_fr": "déchets non combustibles"
+ },
+ {
+  "id": 1726956823364,
+  "def_fr": "déchets combustibles; ordures incinérables",
+  "sent_fr": "déchets combustibles"
+ },
+ {
+  "id": 1726956823365,
+  "def_fr": "canette vide; boîte de conserve vide",
+  "sent_fr": "Le mercredi est le jour de ramassage des <b>canettes vides</b>."
+ },
+ {
+  "id": 1726956823366,
+  "def_fr": "<div>bouteille vide<br></div>中に何も入っていないびん。<br>",
+  "sent_fr": "bouteille vide"
+ },
+ {
+  "id": 1726956823367,
+  "def_fr": "sortir (les poubelles); mettre dehors",
+  "sent_fr": "Je <b>sors</b> les poubelles les jours prévus."
+ },
+ {
+  "id": 1726956823368,
+  "def_fr": "logement; résidence; habitation",
+  "sent_fr": "Je cherche un nouveau <b>logement</b> sur Internet."
+ },
+ {
+  "id": 1726956823369,
+  "def_fr": "salon (à l'occidentale); séjour",
+  "sent_fr": "Le <b>séjour</b> est spacieux, alors j'ai choisi cet appartement."
+ },
+ {
+  "id": 1726956823370,
+  "def_fr": "salon; séjour",
+  "sent_fr": "Toute la famille regarde la télévision dans le <b>salon</b>."
+ },
+ {
+  "id": 1726956823371,
+  "def_fr": "appareil électroménager",
+  "sent_fr": "J'ai acheté de nouveaux <b>appareils électroménagers</b> quand j'ai déménagé."
+ },
+ {
+  "id": 1726956823372,
+  "def_fr": "climatiseur",
+  "sent_fr": "Ce <b>climatiseur</b> consomme peu d'électricité, donc il est économique."
+ },
+ {
+  "id": 1726956823373,
+  "def_fr": "appareil de chauffage; radiateur",
+  "sent_fr": "appareil de chauffage"
+ },
+ {
+  "id": 1726956823374,
+  "def_fr": "<div>chauffage (de l'intérieur)<br></div>屋内を暖めること。",
+  "sent_fr": "chauffage"
+ },
+ {
+  "id": 1726956823375,
+  "def_fr": "climatiseur; appareil de refroidissement",
+  "sent_fr": "Mon pays est chaud, donc nous n'avons que des <b>climatiseurs</b>."
+ },
+ {
+  "id": 1726956823376,
+  "def_fr": "<div>refroidissement; climatisation<br></div>屋内を涼しくすること。",
+  "sent_fr": "climatisation"
+ },
+ {
+  "id": 1726956823377,
+  "def_fr": "réchauffer; chauffer",
+  "sent_fr": "Il faisait froid, alors je me suis <b>réchauffé</b> près du radiateur."
+ },
+ {
+  "id": 1726956823378,
+  "def_fr": "plafond",
+  "sent_fr": "Cet immeuble a de hauts <b>plafonds</b>."
+ },
+ {
+  "id": 1726956823379,
+  "def_fr": "sol; plancher",
+  "sent_fr": "Il n'y a rien sur le <b>sol</b> du salon."
+ },
+ {
+  "id": 1726956823380,
+  "def_fr": "tapis; moquette",
+  "sent_fr": "J'ai posé un <b>tapis</b> sur les tatamis."
+ },
+ {
+  "id": 1726956823381,
+  "def_fr": "tapis; moquette",
+  "sent_fr": "tapis"
+ },
+ {
+  "id": 1726956823382,
+  "def_fr": "zabuton; coussin pour s'asseoir par terre",
+  "sent_fr": "Je vais acheter des <b>zabuton</b> pour les invités."
+ },
+ {
+  "id": 1726956823383,
+  "def_fr": "canapé",
+  "sent_fr": "Quand je regarde la télévision, je m'assois sur le <b>canapé</b>."
+ },
+ {
+  "id": 1726956823384,
+  "def_fr": "coussin",
+  "sent_fr": "J'ai acheté des <b>coussins</b> assortis au canapé."
+ },
+ {
+  "id": 1726956823385,
+  "def_fr": "déplacer; écarter (pour dégager)",
+  "sent_fr": "Veuillez <b>déplacer</b> cette voiture, s'il vous plaît."
+ },
+ {
+  "id": 1726956823386,
+  "def_fr": "s'écarter; se retirer<div>その場所からわきへ移る。<br></div>",
+  "sent_fr": "s'écarter"
+ },
+ {
+  "id": 1726956823387,
+  "def_fr": "prise électrique; prise de courant",
+  "sent_fr": "Cette pièce a beaucoup de <b>prises</b>, c'est pratique."
+ },
+ {
+  "id": 1726956823388,
+  "def_fr": "interrupteur",
+  "sent_fr": "Il fait sombre et je ne vois pas où est l'<b>interrupteur</b>."
+ },
+ {
+  "id": 1726956823389,
+  "def_fr": "sèche-cheveux",
+  "sent_fr": "Mieux vaut avoir un <b>sèche-cheveux</b> petit."
+ },
+ {
+  "id": 1726956823390,
+  "def_fr": "robinet",
+  "sent_fr": "Il y a deux <b>robinets</b> dans la salle de bains."
+ },
+ {
+  "id": 1726956823391,
+  "def_fr": "tourner; tordre",
+  "sent_fr": "Quand on tourne le <b>robinet</b> de droite, l'eau chaude coule."
+ },
+ {
+  "id": 1726956823392,
+  "def_fr": "maison familiale; chez ses parents",
+  "sent_fr": "Le week-end, je rentre chez mes <b>parents</b>."
+ },
+ {
+  "id": 1726956823393,
+  "def_fr": "loyer",
+  "sent_fr": "Le <b>loyer</b> de mon appartement est cher."
+ },
+ {
+  "id": 1726956823394,
+  "def_fr": "débarras; remise; local de rangement",
+  "sent_fr": "Je range mon matériel de ski dans le <b>débarras</b>."
+ },
+ {
+  "id": 1726956823395,
+  "def_fr": "ensoleillement; exposition au soleil",
+  "sent_fr": "Je voudrais habiter dans une pièce spacieuse et bien <b>ensoleillée</b>."
+ },
+ {
+  "id": 1726956823396,
+  "def_fr": "intérieur; côté intérieur",
+  "sent_fr": "Cette maison est ancienne, mais l'<b>intérieur</b> est propre."
+ },
+ {
+  "id": 1726956823397,
+  "def_fr": "intérieur; l'intérieur de",
+  "sent_fr": "intérieur"
+ },
+ {
+  "id": 1726956823398,
+  "def_fr": "extérieur; côté extérieur<div>仕切りの外の部分。<br></div>",
+  "sent_fr": "extérieur"
+ },
+ {
+  "id": 1726956823399,
+  "def_fr": "billet (de banque)",
+  "sent_fr": "Au Japon, les <b>billets</b> vont de 1 000 à 10 000 yens."
+ },
+ {
+  "id": 1726956823400,
+  "def_fr": "紙製の通貨。<br><div>billet de banque<br></div>",
+  "sent_fr": "billet de banque"
+ }
+]

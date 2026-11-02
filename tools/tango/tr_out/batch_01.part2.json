@@ -1,0 +1,642 @@
+[
+{
+"id": 1723207972365,
+"def_fr": "linge (à laver), lessive",
+"sent_fr": "Je sors après avoir rangé le <b>linge</b>."
+},
+{
+"id": 1723207972366,
+"def_fr": "pressing, nettoyage à sec",
+"sent_fr": "Je donne mon costume au <b>pressing</b>."
+},
+{
+"id": 1723207972367,
+"def_fr": "serviette (de toilette)",
+"sent_fr": "Aux toilettes, j'utilise la <b>serviette</b> rose."
+},
+{
+"id": 1723207972368,
+"def_fr": "sécher, faire sécher",
+"sent_fr": "Je fais <b>sécher</b> mon parapluie dans l'entrée."
+},
+{
+"id": 1723207972369,
+"def_fr": "sécher, devenir sec (serviette, etc.)",
+"sent_fr": "Il fait beau, alors la serviette a déjà <b>séché</b>."
+},
+{
+"id": 1723207972370,
+"def_fr": "nourriture (pour animaux), pâtée",
+"sent_fr": "Tous les jours, mon petit frère donne <b>à manger</b> au chien."
+},
+{
+"id": 1723207972371,
+"def_fr": "soin, prendre soin de",
+"sent_fr": "S'<b>occuper</b> d'un chien est vraiment agréable."
+},
+{
+"id": 1723207972372,
+"def_fr": "absence (de chez soi)",
+"sent_fr": "En semaine, dans la journée, je suis souvent <b>absent</b>."
+},
+{
+"id": 1723207972373,
+"def_fr": "livraison à domicile (colis express)",
+"sent_fr": "Il semble qu'un <b>colis</b> soit arrivé pendant mon absence."
+},
+{
+"id": 1723207972374,
+"def_fr": "être livré; arriver; parvenir; atteindre",
+"sent_fr": "Une lettre de mon pays m'est <b>parvenue</b>."
+},
+{
+"id": 1723207972375,
+"def_fr": "livrer, faire parvenir",
+"sent_fr": "J'ai fait <b>livrer</b> mes bagages."
+},
+{
+"id": 1723207972376,
+"def_fr": "journal intime",
+"sent_fr": "Je tiens un <b>journal</b> depuis l'école primaire."
+},
+{
+"id": 1723207972377,
+"def_fr": "dormir",
+"sent_fr": "Si on fait beaucoup de sport, on <b>dort</b> bien."
+},
+{
+"id": 1723207972378,
+"def_fr": "vie, mode de vie",
+"sent_fr": "La <b>vie</b> au Japon est dure, mais très amusante."
+},
+{
+"id": 1723207972379,
+"def_fr": "vivre, habiter",
+"sent_fr": "J'aimerais <b>vivre</b> au Japon toute ma vie."
+},
+{
+"id": 1723207972380,
+"def_fr": "habitude",
+"sent_fr": "J'ai l'<b>habitude</b> de boire du jus de pomme tous les matins."
+},
+{
+"id": 1723207972381,
+"def_fr": "école primaire",
+"sent_fr": "L'<b>école primaire</b> japonaise va de la première à la sixième année."
+},
+{
+"id": 1723207972382,
+"def_fr": "collège",
+"sent_fr": "M. Yamashita a étudié le français au <b>collège</b>."
+},
+{
+"id": 1723207972383,
+"def_fr": "lycée",
+"sent_fr": "Aujourd'hui encore, je vois mes amis du <b>lycée</b>."
+},
+{
+"id": 1723207972384,
+"def_fr": "école maternelle",
+"sent_fr": "J'entends des voix d'enfants venant de l'<b>école maternelle</b>."
+},
+{
+"id": 1723207972385,
+"def_fr": "école spécialisée, formation professionnelle post-secondaire",
+"sent_fr": "Je vais m'inscrire dans une <b>école spécialisée</b> de musique."
+},
+{
+"id": 1723207972386,
+"def_fr": "inscription, entrée à l'école",
+"sent_fr": "Ma petite sœur <b>entre</b> au collège."
+},
+{
+"id": 1723207972387,
+"def_fr": "diplôme, fin d'études",
+"sent_fr": "Mon père a <b>obtenu son diplôme</b> de ce lycée il y a 30 ans."
+},
+{
+"id": 1723207972388,
+"def_fr": "éducation, formation",
+"sent_fr": "L'<b>éducation</b> des enfants est très importante."
+},
+{
+"id": 1723207972389,
+"def_fr": "élève",
+"sent_fr": "Combien d'<b>élèves</b> y a-t-il dans cette école ?"
+},
+{
+"id": 1723207972390,
+"def_fr": "cours, leçon",
+"sent_fr": "Aujourd'hui, j'ai <b>cours</b> jusqu'à 16 h."
+},
+{
+"id": 1723207972391,
+"def_fr": "commencer, débuter",
+"sent_fr": "L'école <b>commence</b> en avril."
+},
+{
+"id": 1723207972392,
+"def_fr": "commencer (qqch), débuter",
+"sent_fr": "<b>Commençons</b> l'étude d'aujourd'hui."
+},
+{
+"id": 1723207972393,
+"def_fr": "question, poser une question",
+"sent_fr": "Lisez bien les <b>questions</b>, s'il vous plaît."
+},
+{
+"id": 1723207972394,
+"def_fr": "répondre",
+"sent_fr": "Je <b>réponds</b> aux questions du professeur."
+},
+{
+"id": 1723207972395,
+"def_fr": "mathématiques, maths",
+"sent_fr": "J'aime l'anglais, mais je déteste les <b>maths</b>."
+},
+{
+"id": 1723207972396,
+"def_fr": "géographie",
+"sent_fr": "Depuis tout petit, j'adore la <b>géographie</b>."
+},
+{
+"id": 1723207972397,
+"def_fr": "manuel, livre de cours",
+"sent_fr": "Je vais utiliser ce <b>manuel</b> demain."
+},
+{
+"id": 1723207972398,
+"def_fr": "ouvrir",
+"sent_fr": "<b>Ouvrez</b> votre manuel à la page 60, s'il vous plaît."
+},
+{
+"id": 1723207972399,
+"def_fr": "document distribué, photocopie, polycopié",
+"sent_fr": "Voici le <b>polycopié</b> du cours d'aujourd'hui."
+},
+{
+"id": 1723207972400,
+"def_fr": "recto, face avant, endroit",
+"sent_fr": "Regardez le <b>recto</b> du polycopié, s'il vous plaît."
+},
+{
+"id": 1723207972401,
+"def_fr": "test, examen",
+"sent_fr": "Le <b>test</b> d'aujourd'hui était vraiment difficile."
+},
+{
+"id": 1723207972402,
+"def_fr": "aller régulièrement (à l'école, au travail), faire la navette",
+"sent_fr": "Je <b>vais</b> à l'école en bus tous les jours."
+},
+{
+"id": 1723207972403,
+"def_fr": "notes, résultats scolaires",
+"sent_fr": "Mes <b>notes</b> étaient mauvaises, alors ma mère m'a grondé."
+},
+{
+"id": 1723207972404,
+"def_fr": "point, note",
+"sent_fr": "Ma <b>note</b> au test d'hier n'était pas bonne."
+},
+{
+"id": 1723207972405,
+"def_fr": "rond, cercle, signe de bonne réponse",
+"sent_fr": "J'ai eu beaucoup de <b>bonnes réponses</b> à mon test."
+},
+{
+"id": 1723207972406,
+"def_fr": "rédaction, composition",
+"sent_fr": "Écrivons une <b>rédaction</b> sur notre pays."
+},
+{
+"id": 1723207972407,
+"def_fr": "être bon (en classe), savoir faire",
+"sent_fr": "Mon petit frère est très <b>bon</b> en classe."
+},
+{
+"id": 1723207972408,
+"def_fr": "facile",
+"sent_fr": "Le test d'hier était très <b>facile</b>."
+},
+{
+"id": 1723207972409,
+"def_fr": "simple, facile",
+"sent_fr": "Ce test est très <b>simple</b>."
+},
+{
+"id": 1723207972410,
+"def_fr": "se tromper, faire une erreur",
+"sent_fr": "Je me suis <b>trompé</b> sur une question facile."
+},
+{
+"id": 1723207972411,
+"def_fr": "vérification, contrôle",
+"sent_fr": "J'ai fait <b>vérifier</b> ma rédaction par un ami japonais."
+},
+{
+"id": 1723207972412,
+"def_fr": "passionné, zélé, enthousiaste, assidu",
+"sent_fr": "Mme Tanaka est très <b>passionnée</b>."
+},
+{
+"id": 1723207972413,
+"def_fr": "gentil, doux",
+"sent_fr": "Mme Yamada est très <b>gentille</b>."
+},
+{
+"id": 1723207972414,
+"def_fr": "strict, sévère",
+"sent_fr": "M. Kimura est parfois <b>sévère</b>."
+},
+{
+"id": 1723207972415,
+"def_fr": "sérieux, consciencieux",
+"sent_fr": "C'est un étudiant très <b>sérieux</b>."
+},
+{
+"id": 1723207972416,
+"def_fr": "éminent, important, respectable",
+"sent_fr": "Une personne <b>éminente</b> du pays A vient au Japon."
+},
+{
+"id": 1723207972417,
+"def_fr": "équipement, installations",
+"sent_fr": "Les <b>équipements</b> de cette école sont neufs."
+},
+{
+"id": 1723207972418,
+"def_fr": "sonnerie, cloche",
+"sent_fr": "La <b>sonnerie</b> retentit à 12 h 30."
+},
+{
+"id": 1723207972419,
+"def_fr": "étudiant (à l'université)",
+"sent_fr": "Je voudrais vite devenir <b>étudiant</b>."
+},
+{
+"id": 1723207972420,
+"def_fr": "passer (un examen), se présenter à",
+"sent_fr": "Je voudrais <b>passer le concours d'entrée</b> d'une université japonaise."
+},
+{
+"id": 1723207972421,
+"def_fr": "être reçu, réussir (un concours)",
+"sent_fr": "J'ai été <b>reçu</b> à l'université où je voulais aller."
+},
+{
+"id": 1723207972422,
+"def_fr": "études à l'étranger",
+"sent_fr": "Je suis <b>parti étudier à l'étranger</b> pour apprendre le design."
+},
+{
+"id": 1723207972423,
+"def_fr": "but, objectif",
+"sent_fr": "Quel est le <b>but</b> de vos études à l'étranger ?"
+},
+{
+"id": 1723207972424,
+"def_fr": "rêve",
+"sent_fr": "Mon <b>rêve</b> est de faire le tour du monde.<br>"
+},
+{
+"id": 1723207972425,
+"def_fr": "rêve (pendant le sommeil)",
+"sent_fr": "J'ai rencontré ma star préférée dans un <b>rêve</b>.<br>"
+},
+{
+"id": 1723207972426,
+"def_fr": "faculté, département (universitaire)",
+"sent_fr": "Je ne sais pas encore dans quelle <b>faculté</b> aller."
+},
+{
+"id": 1723207972427,
+"def_fr": "spécialité, domaine d'étude",
+"sent_fr": "Ma <b>spécialité</b> est les sciences de l'éducation."
+},
+{
+"id": 1723207972428,
+"def_fr": "science, sciences",
+"sent_fr": "J'aime les <b>sciences</b> depuis l'enfance."
+},
+{
+"id": 1723207972429,
+"def_fr": "médecine (domaine)",
+"sent_fr": "Je suis entré en faculté de <b>médecine</b> pour devenir médecin."
+},
+{
+"id": 1723207972430,
+"def_fr": "littérature (domaine)",
+"sent_fr": "J'étudie la <b>littérature</b> française."
+},
+{
+"id": 1723207972431,
+"def_fr": "droit, loi",
+"sent_fr": "J'étudie le <b>droit</b> à l'université."
+},
+{
+"id": 1723207972432,
+"def_fr": "cours magistral, conférence",
+"sent_fr": "Les <b>cours</b> de M. Yamashita sont faciles à comprendre."
+},
+{
+"id": 1723207972433,
+"def_fr": "présence, assister à",
+"sent_fr": "J'<b>assiste</b> tous les jours aux cours de l'université."
+},
+{
+"id": 1723207972434,
+"def_fr": "absence",
+"sent_fr": "J'ai été <b>absent</b> du cours à cause d'un rhume."
+},
+{
+"id": 1723207972435,
+"def_fr": "rapport, exposé écrit",
+"sent_fr": "Je dois écrire un <b>rapport</b> en anglais."
+},
+{
+"id": 1723207972436,
+"def_fr": "mémoire, thèse, article scientifique",
+"sent_fr": "Rendez votre <b>mémoire</b> d'ici la semaine prochaine."
+},
+{
+"id": 1723207972437,
+"def_fr": "date limite, délai",
+"sent_fr": "La <b>date limite</b> du rapport est demain."
+},
+{
+"id": 1723207972438,
+"def_fr": "recherche, étudier",
+"sent_fr": "Je voudrais <b>étudier</b> les mathématiques en master."
+},
+{
+"id": 1723207972439,
+"def_fr": "expérience (scientifique)",
+"sent_fr": "Les <b>expériences</b> sont difficiles, mais intéressantes."
+},
+{
+"id": 1723207972440,
+"def_fr": "résumer, rassembler, mettre en forme",
+"sent_fr": "Je <b>mettrai en forme</b> mes recherches d'ici la fin de la semaine."
+},
+{
+"id": 1723207972441,
+"def_fr": "bénévole, volontaire, bénévolat",
+"sent_fr": "Je fais du <b>bénévolat</b> pendant mes jours de congé."
+},
+{
+"id": 1723207972442,
+"def_fr": "compliqué, complexe",
+"sent_fr": "Cette phrase est <b>compliquée</b>, je ne la comprends pas bien."
+},
+{
+"id": 1723207972443,
+"def_fr": "nécessité, nécessaire<br>",
+"sent_fr": "À l'école, il <b>faut</b> faire une carte d'étudiant.<br>"
+},
+{
+"id": 1723207972444,
+"def_fr": "nécessité, nécessaire<br>",
+"sent_fr": "C'est un livre <b>nécessaire</b> pour le cours.<br>"
+},
+{
+"id": 1723207972445,
+"def_fr": "réfléchir, penser",
+"sent_fr": "Même si c'est difficile, si on <b>réfléchit</b> bien, on comprend."
+},
+{
+"id": 1723207972446,
+"def_fr": "dictionnaire, encyclopédie",
+"sent_fr": "Je voudrais acheter un <b>dictionnaire</b> de mots en katakana."
+},
+{
+"id": 1723207972447,
+"def_fr": "chercher (dans un dictionnaire), consulter, vérifier",
+"sent_fr": "Les mots que vous ne connaissez pas, <b>cherchez</b>-les vous-même."
+},
+{
+"id": 1723207972448,
+"def_fr": "vérifier, s'assurer de",
+"sent_fr": "Quand vous aurez écrit votre rapport, <b>vérifiez</b>-le, s'il vous plaît."
+},
+{
+"id": 1723207972449,
+"def_fr": "préparation (d'un cours), étudier à l'avance",
+"sent_fr": "Venez en ayant <b>préparé</b> les kanji tous les jours."
+},
+{
+"id": 1723207972450,
+"def_fr": "révision",
+"sent_fr": "Si on ne <b>révise</b> pas, on ne peut pas retenir les mots."
+},
+{
+"id": 1723207972451,
+"def_fr": "se rappeler, se souvenir",
+"sent_fr": "J'ai révisé hier, mais je n'arrive pas à me <b>souvenir</b> du kanji."
+},
+{
+"id": 1723207972452,
+"def_fr": "cours du soir, école de soutien (juku)",
+"sent_fr": "Quand l'école est finie, je vais au <b>cours de soutien</b>."
+},
+{
+"id": 1723207972453,
+"def_fr": "faire",
+"sent_fr": "Dès que je rentre à la maison, je <b>fais</b> mes devoirs."
+},
+{
+"id": 1723207972454,
+"def_fr": "faire de son mieux, s'accrocher",
+"sent_fr": "Je <b>me donne à fond</b> dans les études comme dans le sport."
+},
+{
+"id": 1723207972455,
+"def_fr": "caractère, écriture",
+"sent_fr": "L'<b>écriture</b> de M. Lee est très belle."
+},
+{
+"id": 1723207972456,
+"def_fr": "furigana (kana écrits au-dessus ou à côté d'un kanji pour en indiquer la lecture)",
+"sent_fr": "Sans <b>furigana</b>, je ne peux pas lire les kanji."
+},
+{
+"id": 1723207972457,
+"def_fr": "note, mémo",
+"sent_fr": "Je <b>note</b> les choses importantes."
+},
+{
+"id": 1723207972458,
+"def_fr": "grammaire",
+"sent_fr": "Apprenons la <b>grammaire</b> du N4."
+},
+{
+"id": 1723207972459,
+"def_fr": "explication",
+"sent_fr": "Je ne comprends pas bien l'<b>explication</b> de cette grammaire."
+},
+{
+"id": 1723207972460,
+"def_fr": "prononciation",
+"sent_fr": "La <b>prononciation</b> de Maria est très claire."
+},
+{
+"id": 1723207972461,
+"def_fr": "conversation",
+"sent_fr": "<b>Parlons</b> uniquement en japonais."
+},
+{
+"id": 1723207972462,
+"def_fr": "ajouter, additionner",
+"sent_fr": "Si on <b>ajoute</b> 47 à 25, on obtient 72."
+},
+{
+"id": 1723207972463,
+"def_fr": "être utile",
+"sent_fr": "Ce livre est très <b>utile</b>."
+},
+{
+"id": 1723207972464,
+"def_fr": "en train d'étudier",
+"sent_fr": "Je suis en ce moment <b>en train de réviser</b> pour un test."
+},
+{
+"id": 1723207972465,
+"def_fr": "travailler (dans une entreprise), être employé",
+"sent_fr": "Je <b>travaille</b> dans une entreprise informatique."
+},
+{
+"id": 1723207972466,
+"def_fr": "salaire",
+"sent_fr": "Aujourd'hui, j'ai reçu mon premier <b>salaire</b>."
+},
+{
+"id": 1723207972467,
+"def_fr": "prime, bonus",
+"sent_fr": "Il y a des <b>primes</b> en été et en hiver."
+},
+{
+"id": 1723207972468,
+"def_fr": "économies, épargne",
+"sent_fr": "Je fais des <b>économies</b> pour un voyage."
+},
+{
+"id": 1723207972469,
+"def_fr": "accueil, réception",
+"sent_fr": "L'<b>accueil</b> est au troisième étage."
+},
+{
+"id": 1723207972470,
+"def_fr": "carte de visite",
+"sent_fr": "Le nom sur la <b>carte de visite</b> était faux."
+},
+{
+"id": 1723207972471,
+"def_fr": "ventes, commercial",
+"sent_fr": "Le travail <b>commercial</b> est amusant."
+},
+{
+"id": 1723207972472,
+"def_fr": "salutation, saluer",
+"sent_fr": "Je <b>salue</b> toujours les gens avec entrain."
+},
+{
+"id": 1723207972473,
+"def_fr": "réunion",
+"sent_fr": "La <b>réunion</b> d'aujourd'hui commence à 15 h."
+},
+{
+"id": 1723207972474,
+"def_fr": "réunion",
+"sent_fr": "Faisons une <b>réunion</b> en mangeant le déjeuner."
+},
+{
+"id": 1723207972475,
+"def_fr": "opinion, avis",
+"sent_fr": "Écoutons bien l'<b>avis</b> des autres."
+},
+{
+"id": 1723207972476,
+"def_fr": "idée",
+"sent_fr": "L'<b>idée</b> du directeur est intéressante."
+},
+{
+"id": 1723207972477,
+"def_fr": "emploi du temps, planning",
+"sent_fr": "Connaissez-vous l'<b>emploi du temps</b> du président ?"
+},
+{
+"id": 1723207972478,
+"def_fr": "voyage d'affaires, déplacement professionnel",
+"sent_fr": "Mon père part souvent en <b>déplacement professionnel</b> aux États-Unis."
+},
+{
+"id": 1723207972479,
+"def_fr": "revenir, retourner",
+"sent_fr": "A : « À quelle heure M. Tanaka <b>revient</b>-il ? »<br><br>B : « Vers 15 h, je pense. »"
+},
+{
+"id": 1723207972480,
+"def_fr": "remettre, rendre, ramener",
+"sent_fr": "Quand vous aurez lu les journaux, <b>remettez</b>-les ici, s'il vous plaît."
+},
+{
+"id": 1723207972481,
+"def_fr": "siège social",
+"sent_fr": "À partir du printemps, je vais au <b>siège</b> à Tokyo."
+},
+{
+"id": 1723207972482,
+"def_fr": "président (d'entreprise)",
+"sent_fr": "Le <b>président</b> de mon entreprise est jeune, n'est-ce pas ?"
+},
+{
+"id": 1723207972483,
+"def_fr": "règle",
+"sent_fr": "Lisez bien les <b>règles</b> de l'entreprise, s'il vous plaît."
+},
+{
+"id": 1723207972484,
+"def_fr": "règlement, règle",
+"sent_fr": "Connaissez-vous le <b>règlement</b> de cette entreprise ?"
+},
+{
+"id": 1723207972485,
+"def_fr": "être décidé, être fixé",
+"sent_fr": "Mon nouveau petit boulot <b>est trouvé</b>."
+},
+{
+"id": 1723207972486,
+"def_fr": "décider, fixer",
+"sent_fr": "<b>Fixons</b> l'heure de la réunion."
+},
+{
+"id": 1723207972487,
+"def_fr": "permission, autorisation",
+"sent_fr": "Quand vous voulez vous absenter, demandez une <b>autorisation</b>."
+},
+{
+"id": 1723207972488,
+"def_fr": "apposer un sceau (hanko)",
+"sent_fr": "<b>Apposez</b> votre sceau ici, s'il vous plaît."
+},
+{
+"id": 1723207972489,
+"def_fr": "retard, être en retard",
+"sent_fr": "Il ne faut pas être <b>en retard</b>, même d'une minute."
+},
+{
+"id": 1723207972490,
+"def_fr": "technique, technologie",
+"sent_fr": "Quelle <b>technologie</b> cette entreprise possède-t-elle ?"
+},
+{
+"id": 1723207972491,
+"def_fr": "ordinateur",
+"sent_fr": "À force de regarder l'<b>ordinateur</b>, j'ai les yeux fatigués."
+},
+{
+"id": 1723207972492,
+"def_fr": "logiciel",
+"sent_fr": "Je voudrais un travail où je crée des <b>logiciels</b>."
+}
+]

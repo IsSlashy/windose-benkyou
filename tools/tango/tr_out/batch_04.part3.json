@@ -1,0 +1,627 @@
+[
+ {
+  "id": 1726956823531,
+  "def_fr": "aquarium",
+  "sent_fr": "L'<b>aquarium</b> est toujours plein d'enfants."
+ },
+ {
+  "id": 1726956823532,
+  "def_fr": "musée",
+  "sent_fr": "Le week-end, le <b>musée</b> est très fréquenté."
+ },
+ {
+  "id": 1726956823533,
+  "def_fr": "entrée et sortie; porte d'entrée",
+  "sent_fr": "Une affiche est collée à <b>l'entrée</b> du musée."
+ },
+ {
+  "id": 1726956823534,
+  "def_fr": "porte automatique",
+  "sent_fr": "Il y a une grande <b>porte automatique</b> à l'entrée."
+ },
+ {
+  "id": 1726956823535,
+  "def_fr": "droit d'entrée; prix d'entrée",
+  "sent_fr": "Le <b>prix d'entrée</b> est de 400 yens."
+ },
+ {
+  "id": 1726956823536,
+  "def_fr": "affluence; encombrement; foule",
+  "sent_fr": "Le week-end, il y a de l'<b>affluence</b> partout."
+ },
+ {
+  "id": 1726956823537,
+  "def_fr": "file d'attente; queue",
+  "sent_fr": "Il y a une longue <b>file d'attente</b> devant le magasin à la mode."
+ },
+ {
+  "id": 1726956823538,
+  "def_fr": "jour de fermeture (musée, etc.)",
+  "sent_fr": "Le <b>jour de fermeture</b> de ce musée est le lundi."
+ },
+ {
+  "id": 1726956823539,
+  "def_fr": "salle; hall",
+  "sent_fr": "Des concerts sont souvent donnés dans la <b>salle</b> municipale."
+ },
+ {
+  "id": 1726956823540,
+  "def_fr": "frais d'utilisation; tarif de location",
+  "sent_fr": "La <b>location</b> de cette salle coûte 10 000 yens pour trois heures."
+ },
+ {
+  "id": 1726956823541,
+  "def_fr": "gratuit",
+  "sent_fr": "J'ai reçu des cosmétiques <b>gratuits</b> devant la gare."
+ },
+ {
+  "id": 1726956823542,
+  "def_fr": "料金が必要なこと。<div>payant</div>",
+  "sent_fr": "payant"
+ },
+ {
+  "id": 1726956823543,
+  "def_fr": "maison de retraite",
+  "sent_fr": "Il paraît qu'on va construire une <b>maison de retraite</b> près du parc."
+ },
+ {
+  "id": 1726956823544,
+  "def_fr": "repère; point de repère; signe distinctif",
+  "sent_fr": "A : Y a-t-il un <b>point de repère</b> près de chez vous ?<div>B : Voyons, il y a un pont rouge.</div>"
+ },
+ {
+  "id": 1726956823545,
+  "def_fr": "passerelle piétonne",
+  "sent_fr": "Quand on monte sur la <b>passerelle piétonne</b>, on voit bien la ville."
+ },
+ {
+  "id": 1726956823546,
+  "def_fr": "tour",
+  "sent_fr": "La Skytree est la plus haute <b>tour</b> du Japon."
+ },
+ {
+  "id": 1726956823547,
+  "def_fr": "tour de radiodiffusion de Tokyo (Tokyo Skytree)",
+  "sent_fr": "Tokyo Skytree"
+ },
+ {
+  "id": 1726956823548,
+  "def_fr": "tour de Tokyo (Tokyo Tower)",
+  "sent_fr": "Tokyo Tower"
+ },
+ {
+  "id": 1726956823549,
+  "def_fr": "lumière; éclairage",
+  "sent_fr": "Cette tour allume ses <b>lumières</b> à 19 heures."
+ },
+ {
+  "id": 1726956823550,
+  "def_fr": "illumination (de ponts, bâtiments, arbres, etc. la nuit)<div>照明で明るく照らし出すこと。<br></div>",
+  "sent_fr": "illumination"
+ },
+ {
+  "id": 1726956823551,
+  "def_fr": "izakaya; bar japonais; pub à la japonaise",
+  "sent_fr": "Il y a beaucoup d'<b>izakayas</b> dans cette ville."
+ },
+ {
+  "id": 1726956823552,
+  "def_fr": "marchand de légumes; épicerie (fruits et légumes)",
+  "sent_fr": "J'achète mes fruits et légumes chez le <b>marchand de légumes</b>."
+ },
+ {
+  "id": 1726956823553,
+  "def_fr": "devant; en face; façade",
+  "sent_fr": "Juste <b>en face</b> de la boulangerie, il y a une petite librairie."
+ },
+ {
+  "id": 1726956823554,
+  "def_fr": "à côté; près",
+  "sent_fr": "<b>À côté</b> de la librairie, il y a un restaurant délicieux."
+ },
+ {
+  "id": 1726956823555,
+  "def_fr": "béton",
+  "sent_fr": "Cet immeuble est en <b>béton</b>."
+ },
+ {
+  "id": 1726956823556,
+  "def_fr": "région; campagne; province",
+  "sent_fr": "Cette <b>région</b> est riche en nature."
+ },
+ {
+  "id": 1726956823557,
+  "def_fr": "zone; région; secteur",
+  "sent_fr": "Dans cette <b>zone</b>, j'ai beaucoup de connaissances."
+ },
+ {
+  "id": 1726956823558,
+  "def_fr": "banlieue; périphérie",
+  "sent_fr": "Un jour, je voudrais construire dans la <b>banlieue</b> une maison avec un jardin."
+ },
+ {
+  "id": 1726956823559,
+  "def_fr": "centre; milieu",
+  "sent_fr": "Au <b>centre</b> de la place, de belles fleurs sont écloses."
+ },
+ {
+  "id": 1726956823560,
+  "def_fr": "まんなかの位置。<br><div>centre (de)<br></div>",
+  "sent_fr": "centre"
+ },
+ {
+  "id": 1726956823561,
+  "def_fr": "déménagement; transfert",
+  "sent_fr": "Il paraît que la mairie va <b>déménager</b>."
+ },
+ {
+  "id": 1726956823562,
+  "def_fr": "travaux; chantier",
+  "sent_fr": "Il y a des <b>travaux</b> dans la gare depuis trois ans environ."
+ },
+ {
+  "id": 1726956823563,
+  "def_fr": "terrain vague; terrain vide",
+  "sent_fr": "Le <b>terrain vague</b> près de chez moi est devenu un parking."
+ },
+ {
+  "id": 1726956823564,
+  "def_fr": "foule",
+  "sent_fr": "Marcher dans la <b>foule</b> est un peu fatigant."
+ },
+ {
+  "id": 1726956823565,
+  "def_fr": "ville; milieu urbain",
+  "sent_fr": "Il y a peu de nature en <b>ville</b>."
+ },
+ {
+  "id": 1726956823566,
+  "def_fr": "flâner; se promener sans but",
+  "sent_fr": "Les jours de congé, je <b>flâne</b> seul dans la ville."
+ },
+ {
+  "id": 1726956823567,
+  "def_fr": "rôder; errer sans but; traîner",
+  "sent_fr": "Ces derniers temps, des inconnus <b>rôdent</b> devant chez moi."
+ },
+ {
+  "id": 1726956823568,
+  "def_fr": "passer par hasard; passer devant",
+  "sent_fr": "Je suis entré un instant dans un magasin devant lequel je <b>passais</b>."
+ },
+ {
+  "id": 1726956823569,
+  "def_fr": "passer devant; dépasser",
+  "sent_fr": "Je regardais mon smartphone et j'ai <b>dépassé</b> l'école sans m'en rendre compte."
+ },
+ {
+  "id": 1726956823570,
+  "def_fr": "à pied; marche",
+  "sent_fr": "De chez moi à la gare, il faut environ quinze minutes <b>à pied</b>."
+ },
+ {
+  "id": 1726956823571,
+  "def_fr": "direction; orientation",
+  "sent_fr": "Dans une ville inconnue, je ne m'oriente pas : je perds la <b>direction</b>."
+ },
+ {
+  "id": 1726956823572,
+  "def_fr": "détour; faire un détour; prendre le chemin le plus long",
+  "sent_fr": "Nous avons du temps, alors faisons un petit <b>détour</b>."
+ },
+ {
+  "id": 1726956823573,
+  "def_fr": "raccourci",
+  "sent_fr": "Pour aller à la gare, j'ai pris un <b>raccourci</b> en traversant le parc."
+ },
+ {
+  "id": 1726956823574,
+  "def_fr": "<div>détour; déviation<br></div>",
+  "sent_fr": "détour (faire un)"
+ },
+ {
+  "id": 1726956823575,
+  "def_fr": "distance",
+  "sent_fr": "Il y a une certaine <b>distance</b> entre chez moi et l'école."
+ },
+ {
+  "id": 1726956823576,
+  "def_fr": "poursuivre; courir après",
+  "sent_fr": "Une petite fille <b>court après</b> un chien."
+ },
+ {
+  "id": 1726956823577,
+  "def_fr": "rattraper; rejoindre",
+  "sent_fr": "Après avoir couru un peu, je l'ai <b>rattrapé</b> aussitôt."
+ },
+ {
+  "id": 1726956823578,
+  "def_fr": "dépasser; doubler",
+  "sent_fr": "La personne devant moi marchait lentement, alors je l'ai <b>dépassée</b>."
+ },
+ {
+  "id": 1726956823579,
+  "def_fr": "bout (d'une rue); fond (d'une impasse)",
+  "sent_fr": "Il y a un hôpital au <b>bout</b> de cette rue."
+ },
+ {
+  "id": 1726956823580,
+  "def_fr": "s'arrêter; rester immobile",
+  "sent_fr": "Ne vous <b>arrêtez</b> pas, avancez, s'il vous plaît."
+ },
+ {
+  "id": 1726956823581,
+  "def_fr": "traverser",
+  "sent_fr": "Un chat noir a <b>traversé</b> la route."
+ },
+ {
+  "id": 1726956823582,
+  "def_fr": "apercevoir; croiser (du regard)",
+  "sent_fr": "J'ai <b>aperçu</b> une connaissance à la gare."
+ },
+ {
+  "id": 1726956823583,
+  "def_fr": "destination",
+  "sent_fr": "J'étais pressé et je me suis trompé de <b>destination</b>."
+ },
+ {
+  "id": 1726956823584,
+  "def_fr": "aller-retour",
+  "sent_fr": "Il faut quatre heures d'<b>aller-retour</b> pour aller à mon bureau."
+ },
+ {
+  "id": 1726956823585,
+  "def_fr": "billet aller-retour",
+  "sent_fr": "billet aller-retour"
+ },
+ {
+  "id": 1726956823586,
+  "def_fr": "aller simple; trajet simple",
+  "sent_fr": "Un <b>aller simple</b> en Shinkansen jusqu'à Tokyo coûte 10 000 yens."
+ },
+ {
+  "id": 1726956823587,
+  "def_fr": "omnibus (train qui s'arrête à toutes les gares)<br>",
+  "sent_fr": "omnibus (s'arrête à toutes les gares)"
+ },
+ {
+  "id": 1726956823588,
+  "def_fr": "express",
+  "sent_fr": "Les passagers pressés d'aller à la gare A sont priés de prendre le prochain train <b>express</b>."
+ },
+ {
+  "id": 1726956823589,
+  "def_fr": "train rapide<br><div>快速電車<br></div>",
+  "sent_fr": "train rapide"
+ },
+ {
+  "id": 1726956823590,
+  "def_fr": "premier train (de la journée)",
+  "sent_fr": "Le <b>premier train</b> de cette gare part vers 5 h 30."
+ },
+ {
+  "id": 1726956823591,
+  "def_fr": "gare de départ; gare terminus (d'origine)",
+  "sent_fr": "Voici la <b>gare de départ</b> de la ligne Chuo."
+ },
+ {
+  "id": 1726956823592,
+  "def_fr": "dernier train",
+  "sent_fr": "Je n'arriverai pas à temps pour le <b>dernier train</b> de 0 h 30."
+ },
+ {
+  "id": 1726956823593,
+  "def_fr": "terminus; dernier arrêt",
+  "sent_fr": "Je me suis endormi dans le dernier train et je suis allé jusqu'au <b>terminus</b>."
+ },
+ {
+  "id": 1726956823594,
+  "def_fr": "montée; sens montant; vers la capitale",
+  "sent_fr": "Le train <b>en direction de Tokyo</b> va bientôt arriver."
+ },
+ {
+  "id": 1726956823595,
+  "def_fr": "monter; gravir",
+  "sent_fr": "monter"
+ },
+ {
+  "id": 1726956823596,
+  "def_fr": "descente; sens descendant; en s'éloignant de la capitale",
+  "sent_fr": "Je prends le train <b>qui s'éloigne de Tokyo</b> pour aller à la montagne."
+ },
+ {
+  "id": 1726956823597,
+  "def_fr": "descendre",
+  "sent_fr": "descendre"
+ },
+ {
+  "id": 1726956823598,
+  "def_fr": "JR (Japan Railways)",
+  "sent_fr": "J'utilise souvent les lignes de la <b>JR</b>."
+ },
+ {
+  "id": 1726956823599,
+  "def_fr": "chemin de fer privé; compagnie ferroviaire privée",
+  "sent_fr": "Il n'y a pas de gare de <b>compagnie privée</b> près d'ici."
+ },
+ {
+  "id": 1726956823600,
+  "def_fr": "via; en passant par",
+  "sent_fr": "Aujourd'hui, je rentre chez moi <b>en passant par</b> la gare de Tokyo."
+ },
+ {
+  "id": 1726956823601,
+  "def_fr": "abonnement; carte d'abonnement",
+  "sent_fr": "L'<b>abonnement</b> bénéficie de réductions, donc c'est avantageux."
+ },
+ {
+  "id": 1726956823602,
+  "def_fr": "date de validité; date d'expiration",
+  "sent_fr": "La <b>date de validité</b> de ma carte est le mois prochain."
+ },
+ {
+  "id": 1726956823603,
+  "def_fr": "guichet",
+  "sent_fr": "On peut réserver son voyage au <b>guichet</b> de la gare."
+ },
+ {
+  "id": 1726956823604,
+  "def_fr": "vente",
+  "sent_fr": "On <b>vend</b> des billets commémoratifs au guichet."
+ },
+ {
+  "id": 1726956823605,
+  "def_fr": "distributeur automatique",
+  "sent_fr": "distributeur automatique"
+ },
+ {
+  "id": 1726956823606,
+  "def_fr": "manier; traiter; s'occuper de; gérer<br>",
+  "sent_fr": "traiter"
+ },
+ {
+  "id": 1726956823607,
+  "def_fr": "côté couloir",
+  "sent_fr": "Dans le Shinkansen, je m'assois <b>côté couloir</b>."
+ },
+ {
+  "id": 1726956823608,
+  "def_fr": "côté fenêtre",
+  "sent_fr": "côté fenêtre"
+ },
+ {
+  "id": 1726956823609,
+  "def_fr": "passage; couloir<div>歩行者の通る道。<br></div>",
+  "sent_fr": "couloir"
+ },
+ {
+  "id": 1726956823610,
+  "def_fr": "portillon; contrôle des billets",
+  "sent_fr": "Nous nous sommes retrouvés juste à la sortie du <b>portillon</b>."
+ },
+ {
+  "id": 1726956823611,
+  "def_fr": "portillon automatique<br>",
+  "sent_fr": "portillon automatique"
+ },
+ {
+  "id": 1726956823612,
+  "def_fr": "portillon; barrière de contrôle",
+  "sent_fr": "portillon"
+ },
+ {
+  "id": 1726956823613,
+  "def_fr": "place réservée",
+  "sent_fr": "Avant mon voyage, j'ai réservé une <b>place réservée</b>."
+ },
+ {
+  "id": 1726956823614,
+  "def_fr": "place non réservée<br><div>（劇場や列車などで）だれがすわってもよい席。<br></div>",
+  "sent_fr": "place non réservée"
+ },
+ {
+  "id": 1726956823615,
+  "def_fr": "いくつかの物の中からこれと決め定めること。<br><div>désignation; choix<br></div>",
+  "sent_fr": "désigner"
+ },
+ {
+  "id": 1726956823616,
+  "def_fr": "annonce à bord",
+  "sent_fr": "L'<b>annonce à bord</b> explique les règles concernant les téléphones portables."
+ },
+ {
+  "id": 1726956823617,
+  "def_fr": "contrôleur (de train); chef de train",
+  "sent_fr": "L'uniforme des <b>contrôleurs</b> du Shinkansen est stylé."
+ },
+ {
+  "id": 1726956823618,
+  "def_fr": "quai",
+  "sent_fr": "Beaucoup de gens font la queue sur le <b>quai</b>."
+ },
+ {
+  "id": 1726956823619,
+  "def_fr": "quai",
+  "sent_fr": "quai"
+ },
+ {
+  "id": 1726956823620,
+  "def_fr": "voies ferrées; rails",
+  "sent_fr": "Ne descendez jamais sur les <b>voies</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823621,
+  "def_fr": "passage à niveau",
+  "sent_fr": "Ce <b>passage à niveau</b> reste parfois fermé dix minutes environ."
+ },
+ {
+  "id": 1726956823622,
+  "def_fr": "rater (un train ou un bus)",
+  "sent_fr": "La route était embouteillée et j'ai <b>raté</b> le Shinkansen."
+ },
+ {
+  "id": 1726956823623,
+  "def_fr": "changer (de train, de ligne); correspondre",
+  "sent_fr": "Je <b>change</b> pour le métro à la prochaine gare."
+ },
+ {
+  "id": 1726956823624,
+  "def_fr": "dépasser sa station; aller trop loin",
+  "sent_fr": "Si vous <b>dépassez votre station</b>, payez au portillon."
+ },
+ {
+  "id": 1726956823625,
+  "def_fr": "supplément (pour trajet excédentaire)",
+  "sent_fr": "supplément pour trajet excédentaire"
+ },
+ {
+  "id": 1726956823626,
+  "def_fr": "dépasser son arrêt; rater son arrêt",
+  "sent_fr": "Je me suis endormi dans le train et j'ai <b>raté mon arrêt</b>."
+ },
+ {
+  "id": 1726956823627,
+  "def_fr": "marcher sur; piétiner",
+  "sent_fr": "Dans le train, j'ai <b>marché</b> sans le vouloir <b>sur</b> le pied de mon voisin."
+ },
+ {
+  "id": 1726956823628,
+  "def_fr": "arrêt de bus",
+  "sent_fr": "Il y a un <b>arrêt de bus</b> près de mon immeuble."
+ },
+ {
+  "id": 1726956823629,
+  "def_fr": "arrêt de bus; point d'embarquement",
+  "sent_fr": "arrêt de bus"
+ },
+ {
+  "id": 1726956823630,
+  "def_fr": "arrêt (de bus, de tramway)<br><div>バス・路面電車などが止まり、客を乗り降りさせる場所。<br></div>",
+  "sent_fr": "arrêt"
+ },
+ {
+  "id": 1726956823631,
+  "def_fr": "porte d'entrée (du bus); porte de montée",
+  "sent_fr": "Payez le prix du bus à la <b>porte d'entrée</b>, s'il vous plaît."
+ },
+ {
+  "id": 1726956823632,
+  "def_fr": "porte de sortie; sortie<br><div>電車やバスなどの，降車する客の専用の出口。<br></div>",
+  "sent_fr": "porte de sortie"
+ },
+ {
+  "id": 1726956823633,
+  "def_fr": "passager",
+  "sent_fr": "Pendant la journée, les <b>passagers</b> sont souvent des personnes âgées."
+ },
+ {
+  "id": 1726956823634,
+  "def_fr": "monter (dans un véhicule); embarquer",
+  "sent_fr": "Avec ce billet, on peut <b>monter</b> autant de fois qu'on veut dans la journée."
+ },
+ {
+  "id": 1726956823635,
+  "def_fr": "départ (d'un véhicule); partir",
+  "sent_fr": "Ce bus <b>part</b> à 10 heures."
+ },
+ {
+  "id": 1726956823636,
+  "def_fr": "passage; traversée; passer par",
+  "sent_fr": "Nous allons bientôt <b>passer</b> devant la mairie."
+ },
+ {
+  "id": 1726956823637,
+  "def_fr": "arrêt; s'arrêter",
+  "sent_fr": "Quand nous nous sommes <b>arrêtés</b> devant la gare, beaucoup de gens sont montés."
+ },
+ {
+  "id": 1726956823638,
+  "def_fr": "descente (d'un véhicule); descendre",
+  "sent_fr": "Beaucoup de gens sont <b>descendus</b> en cours de route."
+ },
+ {
+  "id": 1726956823639,
+  "def_fr": "<div>arrêt en cours de route; descendre avant la destination<br></div>目的地までの切符を持つ乗客が、その手前の駅や停留所で降りること。",
+  "sent_fr": "descendre en cours de route"
+ },
+ {
+  "id": 1726956823640,
+  "def_fr": "descendre (d'un véhicule); descendre; quitter",
+  "sent_fr": "descendre (d'un véhicule)"
+ },
+ {
+  "id": 1726956823641,
+  "def_fr": "frais de transport",
+  "sent_fr": "Les <b>frais de transport</b> sont très élevés au Japon."
+ },
+ {
+  "id": 1726956823642,
+  "def_fr": "prix du bus; tarif du bus",
+  "sent_fr": "Cette année, le <b>tarif du bus</b> a augmenté."
+ },
+ {
+  "id": 1726956823643,
+  "def_fr": "rembourser; restituer",
+  "sent_fr": "Le prix du bus, une fois payé, n'est pas <b>remboursable</b>."
+ },
+ {
+  "id": 1726956823644,
+  "def_fr": "remboursement<br><div>金銭を払い戻すこと。<br></div>",
+  "sent_fr": "remboursement"
+ },
+ {
+  "id": 1726956823645,
+  "def_fr": "capacité; nombre de places",
+  "sent_fr": "La <b>capacité</b> de ce bus est de 45 personnes."
+ },
+ {
+  "id": 1726956823646,
+  "def_fr": "serrer; se serrer; se rapprocher",
+  "sent_fr": "Quand il y a du monde, <b>serrez-vous</b> pour vous asseoir, s'il vous plaît."
+ },
+ {
+  "id": 1726956823647,
+  "def_fr": "vide; désert",
+  "sent_fr": "À cette heure-ci, le bus est <b>vide</b>."
+ },
+ {
+  "id": 1726956823648,
+  "def_fr": "se vider; devenir libre",
+  "sent_fr": "Des gens sont descendus devant la gare, alors le bus s'est <b>vidé</b>."
+ },
+ {
+  "id": 1726956823649,
+  "def_fr": "complet; bondé; plein à craquer",
+  "sent_fr": "Le matin, les jours de pluie, c'est souvent <b>bondé</b>."
+ },
+ {
+  "id": 1726956823650,
+  "def_fr": "complet (toutes les places occupées)<br><div>乗り物・劇場・飲食店などで座席が全部客でふさが（ってい）ること。<br></div>",
+  "sent_fr": "complet"
+ },
+ {
+  "id": 1726956823651,
+  "def_fr": "bondé; serré; plein à craquer",
+  "sent_fr": "Le bus est <b>bondé</b> de monde."
+ },
+ {
+  "id": 1726956823652,
+  "def_fr": "物が 沢山[たくさん]詰まって，すき間なく並んでいるさま。<br><div>serré (rempli, aligné, etc.)<br></div>",
+  "sent_fr": "serré"
+ },
+ {
+  "id": 1726956823653,
+  "def_fr": "heure; horaire",
+  "sent_fr": "Au Japon, les bus roulent <b>à l'heure</b>."
+ },
+ {
+  "id": 1726956823654,
+  "def_fr": "horaire; tableau des horaires",
+  "sent_fr": "horaire"
+ },
+ {
+  "id": 1726956823655,
+  "def_fr": "place prioritaire",
+  "sent_fr": "Un jeune homme est assis sur la <b>place prioritaire</b>."
+ }
+]

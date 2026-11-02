@@ -1,0 +1,627 @@
+[
+{
+"id": 1726956825071,
+"def_fr": "Europe du Sud",
+"sent_fr": "Europe du Sud"
+},
+{
+"id": 1726956825072,
+"def_fr": "Europe et Amérique; Occident",
+"sent_fr": "Occident"
+},
+{
+"id": 1726956825073,
+"def_fr": "deuxième fille",
+"sent_fr": "deuxième fille"
+},
+{
+"id": 1726956825074,
+"def_fr": "deuxième fils",
+"sent_fr": "deuxième fils"
+},
+{
+"id": 1723207522121,
+"def_fr": "famille; toute la famille",
+"sent_fr": "Mon grand frère soutient toute <b>notre famille</b>."
+},
+{
+"id": 1723207522122,
+"def_fr": "reconnaissant; précieux; qui mérite gratitude",
+"sent_fr": "Ma famille est vraiment un <b>précieux</b> soutien."
+},
+{
+"id": 1723207522123,
+"def_fr": "faire face à; être face à face",
+"sent_fr": "Toute la famille <b>fait face</b> au problème ensemble."
+},
+{
+"id": 1723207522124,
+"def_fr": "profondément; intensément",
+"sent_fr": "Ces derniers temps, je <b>mesure profondément</b> la chance d'avoir une famille."
+},
+{
+"id": 1723207522125,
+"def_fr": "entretenir; faire vivre; subvenir aux besoins de",
+"sent_fr": "Mon père travaille dur pour <b>faire vivre</b> sa famille."
+},
+{
+"id": 1723207522126,
+"def_fr": "rôle; devoir; fonction",
+"sent_fr": "Élever ses enfants est le <b>rôle</b> des parents."
+},
+{
+"id": 1723207522127,
+"def_fr": "se comporter en enfant gâté; faire le câlin; s'appuyer sur la gentillesse de qqn",
+"sent_fr": "Ma petite sœur <b>se laisse gâter</b> par notre mère depuis qu'elle est enfant."
+},
+{
+"id": 1723207522128,
+"def_fr": "ignorant du monde; sans expérience de la vie",
+"sent_fr": "Mon père m'a dit : « Tu <b>ne connais rien à la vie</b>. »"
+},
+{
+"id": 1723207522129,
+"def_fr": "éducation; discipline; apprentissage des bonnes manières",
+"sent_fr": "L'<b>éducation</b> des enfants est le devoir des parents."
+},
+{
+"id": 1723207522130,
+"def_fr": "rapporter; cafarder; dénoncer",
+"sent_fr": "Mon grand frère <b>a rapporté</b> à sa mère la bêtise de sa petite sœur."
+},
+{
+"id": 1723207522131,
+"def_fr": "indépendance; autonomie",
+"sent_fr": "Mon grand frère est devenu <b>indépendant</b> et vit seul."
+},
+{
+"id": 1723207522132,
+"def_fr": "se mettre à dire; proposer; être le premier à dire",
+"sent_fr": "Ma petite sœur <b>a lancé</b> qu'elle voulait partir étudier la langue aux États-Unis."
+},
+{
+"id": 1723207522133,
+"def_fr": "intention; volonté; avis",
+"sent_fr": "Il est difficile de faire part de sa <b>volonté</b> à ses parents."
+},
+{
+"id": 1723207522134,
+"def_fr": "respect; fait de respecter",
+"sent_fr": "Mes parents <b>respectent</b> toujours mon opinion."
+},
+{
+"id": 1723207522135,
+"def_fr": "persuasion; fait de convaincre",
+"sent_fr": "Mon père était contre mes études à l'étranger, mais ma mère l'<b>a convaincu</b>."
+},
+{
+"id": 1723207522136,
+"def_fr": "accord; conviction; fait d'être convaincu",
+"sent_fr": "Mon père a enfin <b>accepté</b> mes études à l'étranger."
+},
+{
+"id": 1723207522137,
+"def_fr": "s'opposer à; désobéir; aller à l'encontre de",
+"sent_fr": "Quand j'étais jeune, je <b>désobéissais</b> souvent à mes parents."
+},
+{
+"id": 1723207522138,
+"def_fr": "aller à l'encontre de; aller contre",
+"sent_fr": "Je marche <b>contre</b> le vent fort."
+},
+{
+"id": 1723207522139,
+"def_fr": "réflexion sur soi; remords; réexamen",
+"sent_fr": "Je <b>regrette</b> maintenant d'avoir désobéi à mes parents autrefois."
+},
+{
+"id": 1723207522140,
+"def_fr": "laisser tranquille; laisser tel quel; ignorer; négliger",
+"sent_fr": "Mon père est tatillon sur tout. Je voudrais qu'il me <b>laisse tranquille</b>."
+},
+{
+"id": 1723207522141,
+"def_fr": "soins infirmiers; soins à domicile (aux personnes dépendantes)",
+"sent_fr": "Toute la famille <b>s'occupe</b> de ma grand-mère."
+},
+{
+"id": 1723207522142,
+"def_fr": "aide à domicile; auxiliaire de vie",
+"sent_fr": "Une <b>aide à domicile</b> vient chez nous trois fois par semaine."
+},
+{
+"id": 1723207522143,
+"def_fr": "génération",
+"sent_fr": "Quand on n'est pas de la même <b>génération</b>, on a parfois du mal à se comprendre."
+},
+{
+"id": 1723207522144,
+"def_fr": "succéder à; hériter de; reprendre",
+"sent_fr": "L'année prochaine, je vais <b>reprendre</b> l'entreprise de mon père."
+},
+{
+"id": 1723207522145,
+"def_fr": "grossesse",
+"sent_fr": "Ma petite sœur est <b>enceinte</b> de trois mois."
+},
+{
+"id": 1723207522146,
+"def_fr": "accouchement; naissance",
+"sent_fr": "J'ai décidé d'<b>accoucher</b> dans un hôpital près de chez mes parents."
+},
+{
+"id": 1723207522147,
+"def_fr": "accoucher de; donner naissance à",
+"sent_fr": "Ma grande sœur <b>a donné naissance</b> à son fils aîné à vingt ans."
+},
+{
+"id": 1723207522148,
+"def_fr": "ami",
+"sent_fr": "Un <b>ami</b> de mon pays est venu me rendre visite."
+},
+{
+"id": 1723207522149,
+"def_fr": "relation; entente",
+"sent_fr": "Les élèves de cette classe ont de très bonnes <b>relations</b>."
+},
+{
+"id": 1723207522150,
+"def_fr": "destin; lien du destin; affinité",
+"sent_fr": "Par un heureux <b>hasard</b>, je suis devenu le meilleur ami d'elle."
+},
+{
+"id": 1723207522151,
+"def_fr": "surnom",
+"sent_fr": "Lui et moi nous appelons par nos <b>surnoms</b>."
+},
+{
+"id": 1723207522152,
+"def_fr": "la plus grande partie de; la majorité de",
+"sent_fr": "Je passe la <b>plus grande partie</b> de la journée avec mes amis."
+},
+{
+"id": 1723207522153,
+"def_fr": "être comblé de; avoir la chance de",
+"sent_fr": "J'<b>ai toujours la chance</b> d'avoir de bons amis."
+},
+{
+"id": 1723207522154,
+"def_fr": "compter sur; dépendre de",
+"sent_fr": "Nous sommes meilleurs amis, alors j'aimerais que tu <b>comptes sur</b> moi quand tu as des difficultés."
+},
+{
+"id": 1723207522155,
+"def_fr": "fiable; sur qui on peut compter",
+"sent_fr": "Elle est une amie <b>fiable</b> à qui je peux tout confier."
+},
+{
+"id": 1723207522156,
+"def_fr": "prendre exemple sur; imiter",
+"sent_fr": "J'ai quelques amis dont je devrais <b>prendre exemple</b>."
+},
+{
+"id": 1723207522157,
+"def_fr": "confier; avouer; se confier",
+"sent_fr": "Je n'ai <b>confié</b> mon secret qu'à mon meilleur ami."
+},
+{
+"id": 1723207522158,
+"def_fr": "encourager; réconforter",
+"sent_fr": "Quand j'ai raté l'examen, mon ami m'<b>a encouragé</b>."
+},
+{
+"id": 1723207522159,
+"def_fr": "oser; délibérément; exprès",
+"sent_fr": "Comme c'est un ami précieux, j'<b>ose</b> lui faire de sévères remarques."
+},
+{
+"id": 1723207522160,
+"def_fr": "consoler; réconforter",
+"sent_fr": "Quand ma petite amie m'a quitté, mon ami m'<b>a consolé</b>."
+},
+{
+"id": 1723207522161,
+"def_fr": "deviner; pressentir; comprendre",
+"sent_fr": "J'<b>ai deviné</b> ce qu'elle ressentait et je n'ai rien dit."
+},
+{
+"id": 1723207522162,
+"def_fr": "attention aux autres; prévenance; compassion; gentillesse",
+"sent_fr": "Je veux accorder de la <b>prévenance</b> aux personnes autour de moi."
+},
+{
+"id": 1723207522163,
+"def_fr": "anodin; sans façon; indifférent",
+"sent_fr": "Les conversations <b>anodines</b> avec des amis sont agréables."
+},
+{
+"id": 1723207522164,
+"def_fr": "taquiner; se moquer de",
+"sent_fr": "Quand j'ai eu une petite amie, mes amis m'<b>ont taquiné</b>."
+},
+{
+"id": 1723207522165,
+"def_fr": "organisateur; responsable de l'organisation",
+"sent_fr": "Quand on sort boire entre amis, c'est toujours moi l'<b>organisateur</b>."
+},
+{
+"id": 1723207522166,
+"def_fr": "appeler; convoquer; faire venir",
+"sent_fr": "Tard dans la nuit, mon meilleur ami m'<b>a appelé</b> en disant : « Allons boire un verre. »"
+},
+{
+"id": 1723207522167,
+"def_fr": "s'animer; être de bonne humeur; monter en ambiance",
+"sent_fr": "La fête <b>s'est animée</b> et a continué jusqu'au milieu de la nuit."
+},
+{
+"id": 1723207522168,
+"def_fr": "se soulever; se gonfler; s'amonceler",
+"sent_fr": "La route <b>s'est soulevée</b> à cause du séisme."
+},
+{
+"id": 1723207522169,
+"def_fr": "être stupéfait; être consterné; être sidéré",
+"sent_fr": "Il est toujours en retard, alors je suis <b>consterné</b>."
+},
+{
+"id": 1723207522170,
+"def_fr": "plaisanter; faire l'idiot; chahuter",
+"sent_fr": "Je me suis cassé la jambe en tombant alors que je <b>chahutais</b> avec un ami."
+},
+{
+"id": 1723207522171,
+"def_fr": "long (temps); depuis longtemps",
+"sent_fr": "Je n'ai pas revu mes camarades de lycée <b>depuis longtemps</b>."
+},
+{
+"id": 1723207522172,
+"def_fr": "première rencontre",
+"sent_fr": "C'était ma <b>première rencontre</b> avec M. Yamada, alors je l'ai salué."
+},
+{
+"id": 1723207522173,
+"def_fr": "présentation de soi",
+"sent_fr": "Nous nous sommes <b>présentés</b> l'un à l'autre à la soirée de rencontre."
+},
+{
+"id": 1723207522174,
+"def_fr": "salut (inclinaison); révérence",
+"sent_fr": "J'ai croisé le propriétaire le matin et je l'ai salué d'une <b>inclination</b>."
+},
+{
+"id": 1723207522175,
+"def_fr": "relations de voisinage",
+"sent_fr": "Je tiens autant que possible aux <b>relations de voisinage</b>."
+},
+{
+"id": 1723207522176,
+"def_fr": "propriétaire (d'un logement)",
+"sent_fr": "Le <b>propriétaire</b> de mon appartement est quelqu'un de très gentil."
+},
+{
+"id": 1723207522177,
+"def_fr": "propriétaire (d'un animal)",
+"sent_fr": "Les <b>propriétaires</b> de chiens bavardent au parc."
+},
+{
+"id": 1723207522178,
+"def_fr": "échanger",
+"sent_fr": "Quand on croise des voisins, on <b>échange</b> des salutations avec un sourire."
+},
+{
+"id": 1723207522179,
+"def_fr": "interpeller; appeler pour arrêter",
+"sent_fr": "Le gardien de l'immeuble m'<b>a interpellé</b> devant l'appartement."
+},
+{
+"id": 1723207522180,
+"def_fr": "se retourner",
+"sent_fr": "Quelqu'un a appelé mon nom derrière moi et je <b>me suis retourné</b>."
+},
+{
+"id": 1723207522181,
+"def_fr": "se retourner sur; repenser à",
+"sent_fr": "En <b>repensant</b> à mes années d'études, je ressens de la nostalgie."
+},
+{
+"id": 1723207522182,
+"def_fr": "retrouvailles",
+"sent_fr": "J'ai <b>retrouvé</b> une personne qui m'avait beaucoup aidé autrefois."
+},
+{
+"id": 1723207522183,
+"def_fr": "souvenir; mémoire",
+"sent_fr": "Je n'<b>ai aucun souvenir</b> d'avoir rencontré M. Tanaka."
+},
+{
+"id": 1723207522184,
+"def_fr": "idée; piste; ce qui vient à l'esprit",
+"sent_fr": "J'ai reçu un appel d'un numéro que je <b>ne connais pas du tout</b>."
+},
+{
+"id": 1723207522185,
+"def_fr": "se relier; être associé",
+"sent_fr": "Je n'arrive pas à <b>associer</b> le nom et le visage de M. Kawada."
+},
+{
+"id": 1723207522186,
+"def_fr": "sur le coup; dans l'instant; à l'improviste",
+"sent_fr": "Quand j'ai croisé mon voisin, son nom ne m'est pas venu <b>sur le coup</b>."
+},
+{
+"id": 1723207522187,
+"def_fr": "sûrement; certainement; sans aucun doute",
+"sent_fr": "<b>Je pensais vraiment</b> que c'étaient des frères."
+},
+{
+"id": 1723207522188,
+"def_fr": "être persuadé; se mettre en tête",
+"sent_fr": "<b>J'étais persuadé</b> que M. Kimura était célibataire."
+},
+{
+"id": 1723207522189,
+"def_fr": "direct; directement",
+"sent_fr": "Je ne suis pas un ami <b>direct</b> de lui."
+},
+{
+"id": 1723207522190,
+"def_fr": "être en contact avec; côtoyer; traiter avec",
+"sent_fr": "Je ne maîtrise pas bien le keigo, alors j'ai du mal à <b>m'adresser</b> à mes supérieurs."
+},
+{
+"id": 1723207522191,
+"def_fr": "être contigu; toucher; être adjacent",
+"sent_fr": "Mon appartement <b>jouxte</b> l'immeuble voisin."
+},
+{
+"id": 1723207522192,
+"def_fr": "inviter",
+"sent_fr": "L'autre jour, j'<b>ai été invité</b> chez mon chef de service."
+},
+{
+"id": 1723207522193,
+"def_fr": "provoquer; entraîner; causer",
+"sent_fr": "Ses paroles <b>ont provoqué</b> une grande confusion."
+},
+{
+"id": 1723207522194,
+"def_fr": "prévenance; attentions; égards",
+"sent_fr": "Je voudrais prendre exemple sur les <b>attentions</b> de mon aîné à mon petit boulot."
+},
+{
+"id": 1723207522195,
+"def_fr": "mettre dans; mettre (de la gratitude); inclure",
+"sent_fr": "J'ai choisi un cadeau pour mon professeur <b>avec</b> toute ma gratitude."
+},
+{
+"id": 1723207522196,
+"def_fr": "camarade de promotion; même promotion",
+"sent_fr": "Il s'entend très bien avec ses <b>collègues de la même promotion</b> à l'entreprise."
+},
+{
+"id": 1723207522197,
+"def_fr": "plainte; récrimination; ronchonnement",
+"sent_fr": "Chaque soir, je <b>me plains</b> avec mon collègue de promotion dans un izakaya."
+},
+{
+"id": 1723207522198,
+"def_fr": "beaucoup; grandement; à fond",
+"sent_fr": "Aujourd'hui, buvons et amusons-nous <b>à fond</b>."
+},
+{
+"id": 1723207522199,
+"def_fr": "couple",
+"sent_fr": "Ils forment un joli <b>couple</b>."
+},
+{
+"id": 1723207522200,
+"def_fr": "amour",
+"sent_fr": "J'envoie un message à ma petite amie <b>avec tout mon amour</b>."
+},
+{
+"id": 1723207522201,
+"def_fr": "entre; les uns les autres (suffixe)",
+"sent_fr": "Les <b>amoureux</b> se regardent dans les yeux."
+},
+{
+"id": 1723207522202,
+"def_fr": "l'un l'autre; mutuellement",
+"sent_fr": "Ils ont aimé le caractère <b>l'un de l'autre</b>."
+},
+{
+"id": 1723207522203,
+"def_fr": "mutuellement; réciproquement",
+"sent_fr": "Nous nous aimions <b>l'un l'autre</b> dès notre rencontre."
+},
+{
+"id": 1723207522204,
+"def_fr": "être bien assorti; aller bien ensemble",
+"sent_fr": "Je me demande si je suis <b>à la hauteur</b> d'elle."
+},
+{
+"id": 1723207522205,
+"def_fr": "plutôt; plus exactement",
+"sent_fr": "Je préfère quelqu'un qui a des défauts <b>plutôt</b> que quelqu'un de parfait."
+},
+{
+"id": 1723207522206,
+"def_fr": "pour ainsi dire; en quelque sorte",
+"sent_fr": "Pour moi, elle est <b>en quelque sorte</b> comme le soleil."
+},
+{
+"id": 1723207522207,
+"def_fr": "regard; ligne de mire",
+"sent_fr": "Pendant un moment, les deux ont évité de croiser leurs <b>regards</b>."
+},
+{
+"id": 1723207522208,
+"def_fr": "fixer du regard; regarder fixement",
+"sent_fr": "Il la <b>regardait fixement</b>."
+},
+{
+"id": 1723207522209,
+"def_fr": "détourner (le regard)",
+"sent_fr": "Elle m'a remarqué, et j'<b>ai détourné</b> les yeux."
+},
+{
+"id": 1723207522210,
+"def_fr": "en un coup d'œil; furtivement",
+"sent_fr": "La personne que j'aime s'est assise à côté de moi, alors j'<b>ai jeté un coup d'œil</b>."
+},
+{
+"id": 1723207522211,
+"def_fr": "peut-être; éventuellement; si jamais",
+"sent_fr": "<b>Peut-être</b> qu'il m'aime."
+},
+{
+"id": 1723207522212,
+"def_fr": "sonder; fouiller; chercher à savoir",
+"sent_fr": "J'ai demandé à un ami de <b>sonder</b> ce qu'elle ressentait."
+},
+{
+"id": 1723207522213,
+"def_fr": "fouiller; chercher à tâtons",
+"sent_fr": "J'<b>ai fouillé</b> ma poche et j'ai trouvé une pièce de 500 yens."
+},
+{
+"id": 1723207522214,
+"def_fr": "montrer; indiquer",
+"sent_fr": "Il n'arrive pas à <b>montrer</b> ses sentiments à elle."
+},
+{
+"id": 1723207522215,
+"def_fr": "montrer; indiquer",
+"sent_fr": "J'explique la grammaire en <b>donnant</b> un exemple."
+},
+{
+"id": 1723207522216,
+"def_fr": "prétexte",
+"sent_fr": "J'ai pris les révisions d'examen comme <b>prétexte</b> pour la voir à la bibliothèque."
+},
+{
+"id": 1723207522217,
+"def_fr": "baisser la tête; regarder vers le bas",
+"sent_fr": "Elle a <b>baissé les yeux</b> avec timidité."
+},
+{
+"id": 1723207522218,
+"def_fr": "en cachette; sournoisement",
+"sent_fr": "Je n'aime pas sortir ensemble <b>en cachette</b> en le cachant à mes parents."
+},
+{
+"id": 1723207522219,
+"def_fr": "chuchoter; murmurer",
+"sent_fr": "Il m'a <b>murmuré</b> « Je t'aime » d'une voix douce."
+},
+{
+"id": 1723207522220,
+"def_fr": "tabou; à éviter absolument",
+"sent_fr": "Entre nous, les mensonges sont <b>interdits</b>."
+},
+{
+"id": 1723207522221,
+"def_fr": "pardonner",
+"sent_fr": "Je me suis excusé auprès de lui d'avoir menti et il m'a <b>pardonné</b>."
+},
+{
+"id": 1723207522222,
+"def_fr": "soirée de rencontre (entre étudiants de plusieurs universités); soirée mixte",
+"sent_fr": "Il paraît qu'ils se sont rencontrés à une <b>soirée de rencontre</b>."
+},
+{
+"id": 1723207522223,
+"def_fr": "approche; avance",
+"sent_fr": "C'est lui qui a fait la première <b>approche</b>."
+},
+{
+"id": 1723207522224,
+"def_fr": "destin; fatalité",
+"sent_fr": "C'est elle, la personne de mon <b>destin</b>."
+},
+{
+"id": 1723207522225,
+"def_fr": "détermination; résolution",
+"sent_fr": "J'ai fini par me <b>décider</b> à l'épouser."
+},
+{
+"id": 1723207522226,
+"def_fr": "demande en mariage",
+"sent_fr": "Je lui ai offert une bague et je l'ai <b>demandée en mariage</b>."
+},
+{
+"id": 1723207522227,
+"def_fr": "jurer; promettre solennellement",
+"sent_fr": "Nous nous <b>sommes juré</b> notre amour devant tout le monde."
+},
+{
+"id": 1723207522228,
+"def_fr": "mariée",
+"sent_fr": "Elle sera sûrement belle en <b>mariée</b>."
+},
+{
+"id": 1723207522229,
+"def_fr": "insignifiant; anodin; menu",
+"sent_fr": "Je me suis disputé avec elle pour une chose <b>insignifiante</b>."
+},
+{
+"id": 1723207522230,
+"def_fr": "éviter",
+"sent_fr": "Je suis mal à l'aise avec les gens comme lui et j'ai tendance à les <b>éviter</b>."
+},
+{
+"id": 1723207522231,
+"def_fr": "malentendu",
+"sent_fr": "Une petite chose a provoqué un <b>malentendu</b> de sa part."
+},
+{
+"id": 1723207522232,
+"def_fr": "méprise; malentendu; confusion",
+"sent_fr": "À cause d'une <b>méprise</b> de ma part, je me suis disputé avec mon meilleur ami."
+},
+{
+"id": 1723207522233,
+"def_fr": "excuse; prétexte; justification",
+"sent_fr": "Elle donne beaucoup d'<b>excuses</b>."
+},
+{
+"id": 1723207522234,
+"def_fr": "catégoriquement; nettement; fermement",
+"sent_fr": "Il m'a invitée à dîner, mais j'ai refusé <b>catégoriquement</b>."
+},
+{
+"id": 1723207522235,
+"def_fr": "se moquer de; prendre pour un imbécile",
+"sent_fr": "Cette personne <b>se moque</b> toujours de moi."
+},
+{
+"id": 1723207522236,
+"def_fr": "remarque désagréable; sarcasme; propos acerbe",
+"sent_fr": "Sa façon de parler me semble <b>sarcastique</b>."
+},
+{
+"id": 1723207522237,
+"def_fr": "accuser; reprocher; blâmer",
+"sent_fr": "Ce n'est pas bien d'<b>accuser</b> quelqu'un de façon unilatérale."
+},
+{
+"id": 1723207522238,
+"def_fr": "dénigrer; dire du mal de",
+"sent_fr": "Il ne complimente jamais personne et <b>dénigre</b> toujours les gens."
+},
+{
+"id": 1723207522239,
+"def_fr": "se taire; rester silencieux",
+"sent_fr": "Quand elle est en colère, on ne peut que <b>se taire</b>."
+},
+{
+"id": 1723207522240,
+"def_fr": "lancer un regard noir; fusiller du regard",
+"sent_fr": "Elle l'<b>a fusillé du regard</b> avec un visage effrayant."
+},
+{
+"id": 1723207522241,
+"def_fr": "trahir",
+"sent_fr": "J'<b>ai été trahi</b> par quelqu'un en qui j'avais confiance."
+}
+]

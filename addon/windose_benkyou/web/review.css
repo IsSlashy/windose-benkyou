@@ -1,0 +1,751 @@
+@charset "UTF-8";
+/* Windose Benkyou: the review screen. The card is a Windose window; beside it,
+   KAngel's stream window and its comments (built by stream.js). */
+
+html:not(#wb-a):not(#wb-b) {
+  background: var(--wb-desk) url("assets/wall_windose.png") repeat !important;
+  background-attachment: fixed !important;
+  min-height: 100%;
+}
+
+/* Onigiri paints body.card dark with a later !important rule; body is only as
+   tall as the card, so it must stay transparent or it shows as a band. */
+html:not(#wb-a):not(#wb-b) body {
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  color: var(--wb-text) !important;
+  font-family: var(--wb-round) !important;
+}
+
+/* ── the card window ──────────────────────────────────────────────────── */
+
+html:not(#wb-a):not(#wb-b) #qa {
+  max-width: 780px;
+  margin: 58px auto 18px;
+  padding: 16px 24px 22px 16px;
+}
+
+html:not(#wb-a):not(#wb-b) #qa::before {
+  content: "にほんご配信.exe" !important;
+}
+
+#qa,
+#qa div,
+#qa span:not([style*="color"]) {
+  color: var(--wb-text);
+}
+
+#qa b,
+#qa strong {
+  color: var(--wb-pink) !important;
+}
+
+#qa ruby rt {
+  color: var(--wb-shade);
+}
+
+/* Separator drawn like the window's own purple / cyan / purple band. */
+#qa hr,
+#qa hr#answer {
+  height: 4px;
+  margin: 18px 4%;
+  border: 0;
+  border-top: 2px solid var(--wb-ink);
+  border-bottom: 2px solid var(--wb-ink);
+  background: var(--wb-cyan);
+}
+
+/* Pictures get the game's flat window shadow (outline colour at 50 %). */
+#qa img {
+  margin-top: 8px;
+  border: 2px solid var(--wb-ink);
+  box-shadow: 4px 4px 0 rgba(77, 35, 207, 0.5);
+  background: #fff;
+}
+
+#qa details summary {
+  color: var(--wb-shade);
+  font-family: var(--wb-pixel);
+  font-size: 20px;
+}
+
+/* Audio buttons: the game's BaseButton with a purple play arrow. */
+html:not(#wb-a):not(#wb-b) .replay-button {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 48px;
+  height: 36px;
+  margin: 4px 6px;
+  padding: 0;
+  vertical-align: middle;
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn.png") 4 fill / 4px round;
+  background: transparent;
+  image-rendering: pixelated;
+}
+html:not(#wb-a):not(#wb-b) .replay-button:hover {
+  border-image-source: url("assets/btn_hover.png");
+}
+html:not(#wb-a):not(#wb-b) .replay-button:active {
+  border-image-source: url("assets/btn_down.png");
+}
+html:not(#wb-a):not(#wb-b) .replay-button svg {
+  display: none !important;
+}
+html:not(#wb-a):not(#wb-b) .replay-button::before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  margin: 6px auto 0;
+  border-style: solid;
+  border-width: 8px 0 8px 12px;
+  border-color: transparent transparent transparent var(--wb-ink);
+}
+
+/* ── answer window (built by quiz.js): under the question, then the result
+   window above the answer. ─────────────────────────────────────────────── */
+
+html:not(#wb-a):not(#wb-b) #wb-quiz {
+  max-width: 780px;
+  margin: 0 auto 24px;
+  padding: 10px 24px 14px 16px;
+  font: 20px/1.3 var(--wb-pixel);
+  color: var(--wb-ink);
+}
+html:not(#wb-a):not(#wb-b) #wb-quiz.wb-q-done {
+  margin: 58px auto 0;
+}
+#wb-quiz.wb-q-done .wb-q-ask,
+#wb-quiz.wb-q-asking .wb-q-result {
+  display: none;
+}
+
+.wb-q-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 10px;
+}
+.wb-q-row .wb-q-name {
+  flex: none;
+  width: 150px;
+  font-weight: 700;
+}
+.wb-q-name small {
+  display: block;
+  color: var(--wb-shade);
+  font-weight: 400;
+  font-size: 10px;
+}
+
+/* Text fields: sunken like the game's pressed button. */
+html:not(#wb-a):not(#wb-b) .wb-q-input {
+  flex: 1;
+  min-width: 0;
+  height: 40px;
+  box-sizing: border-box;
+  padding: 0 10px;
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn_down.png") 4 fill / 4px round;
+  border-radius: 0;
+  background: transparent;
+  outline: none;
+  color: var(--wb-text);
+  font: 20px/32px var(--wb-pixel);
+  cursor: text;
+}
+html:not(#wb-a):not(#wb-b) .wb-q-input:focus {
+  border-image-source: url("assets/btn_hover.png");
+}
+.wb-q-input::placeholder {
+  color: #b9a3e8;
+}
+#wb-q-reading {
+  font-family: var(--wb-round), var(--wb-pixel);
+}
+
+.wb-q-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+html:not(#wb-a):not(#wb-b) .wb-q-skip {
+  padding: 4px 14px;
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn.png") 4 fill / 4px round;
+  border-radius: 0;
+  background: transparent;
+  color: var(--wb-ink);
+  font: 20px/1.2 var(--wb-pixel);
+}
+html:not(#wb-a):not(#wb-b) .wb-q-skip:hover {
+  border-image-source: url("assets/btn_hover.png");
+}
+html:not(#wb-a):not(#wb-b) .wb-q-skip:active {
+  border-image-source: url("assets/btn_down.png");
+}
+.wb-q-hint {
+  margin-left: auto;
+  color: var(--wb-shade);
+}
+
+/* Result: ○ for right, ✕ for wrong, as on Japanese answer sheets. */
+.wb-q-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+  font-size: 30px;
+  font-weight: 700;
+}
+.wb-q-line {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  margin: 0 0 6px;
+}
+.wb-q-line .wb-q-name {
+  width: 90px;
+  font-weight: 700;
+}
+.wb-q-typed {
+  font-family: var(--wb-round), var(--wb-pixel);
+  color: var(--wb-text);
+}
+.wb-q-note {
+  color: var(--wb-shade);
+}
+.wb-q-mark {
+  display: inline-block;
+  width: 28px;
+  text-align: center;
+  font-weight: 700;
+}
+.wb-q-mark.wb-ok {
+  color: #1e9e8a;
+}
+.wb-q-mark.wb-ko {
+  color: var(--wb-pink);
+}
+.wb-q-mark.wb-learn {
+  color: var(--wb-orange);
+}
+.wb-q-head .wb-q-mark {
+  width: 40px;
+  height: 40px;
+  line-height: 36px;
+  border: 2px solid currentColor;
+  background: var(--wb-paper);
+}
+.wb-q-wrong .wb-q-line .wb-q-note {
+  color: var(--wb-text);
+}
+.wb-q-next {
+  margin: 10px 0 0;
+  padding-top: 8px;
+  border-top: 2px solid var(--wb-title);
+  color: var(--wb-shade);
+}
+.wb-q-next b {
+  color: var(--wb-ink);
+}
+
+/* ── stream window, comments and the compact HUD (built by stream.js) ───── */
+
+#wb-stream,
+#wb-chat,
+#wb-hud {
+  position: fixed;
+  z-index: 50;
+  pointer-events: none;
+  user-select: none;
+}
+
+#wb-stream {
+  right: 12px;
+  top: 12px;
+  width: 370px;
+}
+
+#wb-stream .wb-screen {
+  position: relative;
+  width: 348px;
+  height: 227px;
+  overflow: hidden;
+  background: url("assets/stream_bg.png") 0 0 / 100% 100% no-repeat;
+}
+
+#wb-stream .wb-kangel {
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+/* Head pats (Ame): her head in the 348x227 webcam frame, measured on her
+   animations (x 115-232, top 23-37). The hearts are the game's own. */
+#wb-stream .wb-pat {
+  display: none;
+  position: absolute;
+  left: 110px;
+  top: 14px;
+  width: 128px;
+  height: 84px;
+  pointer-events: auto;
+  cursor: url("assets/cursor_hand.png") 12 0, pointer;
+  touch-action: none;
+}
+body.wb-char-ame #wb-stream .wb-pat {
+  display: block;
+}
+#wb-stream .wb-hearts {
+  position: absolute;
+  top: 8px;
+  width: 29px;
+  height: 84px;
+  background: url("assets/a_pat_hearts.png") 0 0 / 800% 100% no-repeat;
+  background-position: 100% 0; /* the last frame is empty */
+  image-rendering: pixelated;
+  pointer-events: none;
+}
+#wb-stream .wb-hearts-r {
+  left: 228px;
+}
+#wb-stream .wb-hearts-l {
+  left: 92px;
+  transform: scaleX(-1);
+}
+
+/* The stream and chat windows move by their title bar. base.css makes every
+   title bar ignore the mouse (!important), so this needs !important too. */
+html:not(#wb-a):not(#wb-b) #wb-stream > .wb-title.wb-drag,
+html:not(#wb-a):not(#wb-b) #wb-chat > .wb-title.wb-drag {
+  pointer-events: auto !important;
+  cursor: url("assets/cursor_hand.png") 12 0, move !important;
+  touch-action: none;
+}
+body.wb-dragging,
+body.wb-dragging * {
+  cursor: url("assets/cursor_hand.png") 12 0, move !important;
+  user-select: none !important;
+}
+
+@keyframes wb-strip {
+  from { background-position: 0 0; }
+  to { background-position: 100% 0; }
+}
+
+#wb-stream .wb-status {
+  display: flex;
+  justify-content: space-between;
+  height: 44px;
+  padding: 0 6px;
+  border-top: 2px solid var(--wb-ink);
+  background: var(--wb-paper);
+}
+
+#wb-stream .wb-stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--wb-ink);
+  font: 20px/1 var(--wb-pixel);
+  white-space: nowrap;
+}
+
+#wb-stream .wb-stat img {
+  width: 48px;
+  height: 40px;
+  image-rendering: pixelated;
+}
+
+#wb-stream .wb-stat small {
+  display: block;
+  margin-top: 2px;
+  color: var(--wb-shade);
+  font: 10px/1 var(--wb-pixel);
+}
+
+#wb-chat {
+  right: 12px;
+  top: 353px;
+  width: 370px;
+}
+
+/* A live chat: newest line at the bottom, older ones scroll up. The list
+   grows until the window reaches the bottom of the screen, then scrolls;
+   the wheel or the scrollbar goes back through the history. */
+#wb-chat ul {
+  display: block;
+  box-sizing: border-box; /* the max height includes the padding */
+  list-style: none;
+  margin: 0;
+  padding: 8px 10px 6px 2px;
+  max-height: calc(100vh - 353px - 64px - 12px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  pointer-events: auto;
+  background: var(--wb-paper);
+  font: 20px/1.25 var(--wb-pixel);
+  color: var(--wb-text);
+}
+
+#wb-chat .wb-chat-new {
+  position: absolute;
+  left: 50%;
+  bottom: 30px;
+  transform: translateX(-50%);
+  padding: 2px 12px 4px;
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn_hover.png") 4 fill / 4px round;
+  background: transparent;
+  color: var(--wb-ink);
+  font: 20px/1 var(--wb-pixel);
+  pointer-events: auto;
+  cursor: url("assets/cursor_hand.png") 12 0, pointer;
+}
+#wb-chat .wb-chat-new[hidden] {
+  display: none;
+}
+
+#wb-chat li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin: 0 0 6px;
+  animation: wb-pop 0.2s steps(3, jump-none);
+}
+
+#wb-chat .wb-avatar {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+  border: 2px solid var(--wb-ink);
+  background: #fff;
+  image-rendering: pixelated;
+  object-fit: cover;
+}
+
+#wb-chat .wb-bubble {
+  flex: 1;
+  min-width: 0;
+  padding: 3px 8px 5px;
+  border: 2px solid var(--wb-ink);
+  background: #fff;
+}
+#wb-chat .who {
+  display: block;
+  color: var(--wb-shade);
+  font-size: 10px;
+  line-height: 14px;
+}
+#wb-chat .jp {
+  display: block;
+}
+#wb-chat .fr {
+  display: block;
+  color: var(--wb-pink);
+}
+
+/* Ame talks through JINE, the game's messenger: its sky background and
+   bubbles on the left, as in the game. */
+body.wb-char-ame #wb-chat ul {
+  background: url("assets/jine_bg.png") center / cover no-repeat;
+}
+body.wb-char-ame #wb-chat .wb-bubble {
+  border-color: #fff;
+  box-shadow: 0 0 0 2px var(--wb-shade);
+}
+
+/* ⇄ in the stream window's title bar switches between KAngel and Ame. */
+html:not(#wb-a):not(#wb-b) #wb-stream > .wb-title {
+  right: 150px;
+}
+html:not(#wb-a):not(#wb-b) .wb-switch {
+  position: absolute;
+  top: -32px;
+  right: 72px;
+  height: 22px;
+  margin: 0;
+  padding: 0 6px;
+  border-style: solid;
+  border-width: 2px;
+  border-image: url("assets/btn.png") 2 fill / 2px stretch;
+  border-radius: 0;
+  background: transparent;
+  color: var(--wb-ink);
+  font: 20px/18px var(--wb-pixel);
+  white-space: nowrap;
+  pointer-events: auto;
+  z-index: 4;
+}
+html:not(#wb-a):not(#wb-b) .wb-switch:hover {
+  border-image-source: url("assets/btn_hover.png");
+}
+html:not(#wb-a):not(#wb-b) .wb-switch:active {
+  border-image-source: url("assets/btn_down.png");
+}
+
+@keyframes wb-pop {
+  from { transform: translateY(8px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+
+#wb-hud {
+  display: none;
+  left: 10px;
+  top: 10px;
+  align-items: center;
+  gap: 10px;
+  height: 32px;
+  padding: 2px 12px 2px 6px;
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn.png") 4 fill / 4px round;
+  color: var(--wb-ink);
+  font: 20px/1 var(--wb-pixel);
+  image-rendering: pixelated;
+}
+
+#wb-hud img {
+  width: 24px;
+  height: 20px;
+}
+
+/* Wide window: the card sits left of the stream column. */
+@media (min-width: 1100px) {
+  html:not(#wb-a):not(#wb-b) body {
+    padding-right: 394px !important;
+    padding-left: 12px !important;
+  }
+}
+
+/* Narrow window: no room for the stream column, keep a one-line HUD. */
+@media (max-width: 1099px) {
+  #wb-stream,
+  #wb-chat {
+    display: none;
+  }
+  #wb-hud {
+    display: flex;
+  }
+}
+
+@media (max-height: 560px) {
+  #wb-chat {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  #wb-hud {
+    display: none;
+  }
+  html:not(#wb-a):not(#wb-b) #qa {
+    margin: 54px 6px 20px;
+    padding: 12px 14px 18px 10px;
+  }
+  html:not(#wb-a):not(#wb-b) #wb-quiz {
+    margin: 0 6px 20px;
+    padding: 10px 14px 14px 10px;
+  }
+  .wb-q-row {
+    flex-wrap: wrap;
+  }
+  .wb-q-hint {
+    display: none;
+  }
+}
+
+/* ── "to learn": orange, and KAngel or Ame explains the card ─────────────── */
+
+#wb-quiz {
+  --wb-orange: #e8730c;
+}
+.wb-q-learn .wb-q-head {
+  color: var(--wb-orange);
+}
+.wb-q-learn .wb-q-line .wb-q-note {
+  color: var(--wb-text);
+}
+
+.wb-lesson {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 10px 0 2px;
+}
+.wb-lesson .wb-avatar {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+  border: 2px solid var(--wb-ink);
+  background: #fff;
+  image-rendering: pixelated;
+  object-fit: cover;
+}
+.wb-lesson .wb-bubble {
+  flex: 1;
+  min-width: 0;
+  padding: 4px 12px 8px;
+  border: 2px solid var(--wb-orange);
+  box-shadow: 4px 4px 0 rgba(232, 115, 12, 0.35);
+  background: #fff;
+}
+.wb-lesson .who {
+  display: block;
+  color: var(--wb-shade);
+  font-size: 10px;
+  line-height: 14px;
+}
+.wb-lesson .jp {
+  display: block;
+  color: var(--wb-ink);
+}
+.wb-lesson .fr {
+  display: block;
+  color: var(--wb-pink);
+}
+.wb-l-line {
+  margin: 8px 0 0;
+  color: var(--wb-text);
+}
+.wb-l-ex {
+  margin: 10px 0 0;
+  padding: 6px 10px 8px;
+  border: 2px solid var(--wb-title);
+  background: var(--wb-light);
+}
+.wb-l-tag {
+  display: block;
+  color: var(--wb-shade);
+  font-size: 10px;
+  line-height: 14px;
+}
+.wb-l-jp {
+  display: block;
+  font: 26px/1.9 var(--wb-round);
+  color: var(--wb-text);
+}
+.wb-l-jp b {
+  color: var(--wb-pink);
+}
+.wb-l-jp rt {
+  font-size: 12px;
+  color: var(--wb-shade);
+}
+.wb-l-fr {
+  display: block;
+  color: var(--wb-text);
+}
+.wb-l-tip {
+  margin: 8px 0 0;
+  color: var(--wb-shade);
+}
+.wb-l-outro {
+  margin-top: 10px;
+}
+
+/* ── JLPT Tango cards (Ankidrone "Japanese sentences") ────────────────────
+   That note type paints its own page: beige side bars and an 800px column.
+   Inside the Windose window those go, and its colours follow the game's. */
+html:not(#wb-a):not(#wb-b) body.card {
+  display: block !important;
+  --color-side-bars: transparent;
+  --color-background: transparent;
+  --color-background-wrap: transparent;
+  --color-border-wrap: transparent;
+  --color-text: var(--wb-text);
+  --color-furigana: var(--wb-shade);
+  --color-headword: var(--wb-pink);
+  --color-hr: var(--wb-ink);
+  --color-link: var(--wb-ink);
+  --color-link-hover: var(--wb-pink);
+  --color-text-tags: #fff;
+  --color-background-tags: var(--wb-shade);
+  --color-text-summary: var(--wb-shade);
+  --color-text-hint: var(--wb-shade);
+  --color-play-symbol: #fff;
+  --color-play-circle: var(--wb-ink);
+  --color-play-circle-hover: var(--wb-pink);
+}
+html:not(#wb-a):not(#wb-b) #qa .wrap {
+  width: auto !important;
+  min-height: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+}
+/* The note's tags (単語N4, vocab-card...) say nothing to a learner here. */
+html:not(#wb-a):not(#wb-b) #qa .wrap > header {
+  display: none !important;
+}
+html:not(#wb-a):not(#wb-b) #qa .jpsentence {
+  font-size: 30px;
+  line-height: 1.7;
+  text-align: center;
+}
+html:not(#wb-a):not(#wb-b) #qa .jpsentence ruby rt {
+  font-size: 13px;
+}
+html:not(#wb-a):not(#wb-b) #qa .ensentence {
+  margin: 4px 0 2px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+html:not(#wb-a):not(#wb-b) #qa .headword_section {
+  margin-top: 16px;
+  padding-top: 10px;
+  border-top: 2px dashed var(--wb-shade);
+}
+html:not(#wb-a):not(#wb-b) #qa .vocab {
+  gap: 8px;
+}
+html:not(#wb-a):not(#wb-b) #qa .vocab .reading {
+  font-size: 22px;
+}
+html:not(#wb-a):not(#wb-b) #qa .vocab .target_word {
+  font-size: 26px;
+  color: var(--wb-pink);
+}
+html:not(#wb-a):not(#wb-b) #qa .definitions {
+  margin-top: 6px;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+html:not(#wb-a):not(#wb-b) #qa details.wb-en,
+html:not(#wb-a):not(#wb-b) #qa details.notes,
+html:not(#wb-a):not(#wb-b) #qa details.images-details {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+html:not(#wb-a):not(#wb-b) #qa details.wb-en summary,
+html:not(#wb-a):not(#wb-b) #qa details.notes summary,
+html:not(#wb-a):not(#wb-b) #qa details.images-details summary {
+  font-size: 16px;
+  cursor: url("assets/cursor_hand.png") 12 0, pointer;
+}
+html:not(#wb-a):not(#wb-b) #qa .wb-en-sent {
+  margin-top: 4px;
+  color: var(--wb-shade);
+}
+html:not(#wb-a):not(#wb-b) #qa footer {
+  margin-top: 4px;
+  font-size: 13px;
+}
+html:not(#wb-a):not(#wb-b) #qa footer > a:not(:last-child)::after {
+  color: var(--wb-shade);
+}

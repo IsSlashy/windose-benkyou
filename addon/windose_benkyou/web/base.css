@@ -1,0 +1,199 @@
+@charset "UTF-8";
+/* Windose Benkyou: fonts, palette, cursors, windows and buttons shared by every screen.
+   Images in assets/ and the pixel fonts come from NEEDY GIRL OVERDOSE (personal use only).
+   Selectors carry two :not(#id) clauses to outrank Onigiri's late !important rules. */
+
+@font-face {
+  font-family: "WB Pixel";
+  src: url("fonts/PixelMplus10-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "WB Pixel";
+  src: url("fonts/PixelMplus10-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "WB Round";
+  src: url("fonts/MPLUSRounded1c-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "WB Round";
+  src: url("fonts/MPLUSRounded1c-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+/* Colours measured on the game's own textures. */
+:root,
+:root .night-mode,
+:root .nightMode {
+  --wb-ink: #4d23cf;        /* window outline and UI text */
+  --wb-shade: #815cdd;      /* button shadow */
+  --wb-cyan: #90f4e4;       /* window frame */
+  --wb-title: #f0d1f1;      /* title bar */
+  --wb-face: #f7e1fb;       /* buttons, taskbar */
+  --wb-light: #fdf2fe;      /* button highlight */
+  --wb-paper: #fff8ff;      /* window body */
+  --wb-desk: #f9e3ff;       /* desktop */
+  --wb-text: #2d1872;       /* long text on the paper */
+  --wb-pink: #e8459f;
+  --wb-pixel: "WB Pixel", "MS Gothic", monospace;
+  --wb-round: "WB Round", "M PLUS Rounded 1c", "Noto Sans JP", "Meiryo", sans-serif;
+
+  /* Onigiri reads these for its own accents. */
+  --accent-color: #4d23cf !important;
+  --fg-subtle: #815cdd !important;
+  --icon-color: #815cdd !important;
+}
+
+html:not(#wb-a):not(#wb-b) {
+  cursor: url("assets/cursor.png") 7 0, auto;
+}
+html:not(#wb-a):not(#wb-b) a,
+html:not(#wb-a):not(#wb-b) button,
+html:not(#wb-a):not(#wb-b) summary,
+html:not(#wb-a):not(#wb-b) [onclick],
+html:not(#wb-a):not(#wb-b) [role="button"],
+html:not(#wb-a):not(#wb-b) .deck,
+html:not(#wb-a):not(#wb-b) .replay-button {
+  cursor: url("assets/cursor_hand.png") 12 0, pointer !important;
+}
+
+::selection {
+  background: var(--wb-ink);
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+::-webkit-scrollbar-track {
+  background: var(--wb-title);
+  border-left: 2px solid var(--wb-ink);
+}
+::-webkit-scrollbar-thumb {
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn.png") 4 fill / 4px round;
+}
+
+/* ── the Windose window: windowbase_active.png as a 9-slice frame ──────────
+   The left slice is 70 px so the bottom-left decoration stays whole, but the
+   left border is only 8 px wide: the rest of the slice is plain window paper
+   that the content may sit on. */
+
+html:not(#wb-a):not(#wb-b) .wb-win,
+html:not(#wb-a):not(#wb-b) .shima-island,
+html:not(#wb-a):not(#wb-b) .stats-container,
+html:not(#wb-a):not(#wb-b) #qa {
+  box-sizing: border-box !important;
+  border-style: solid !important;
+  border-color: transparent !important;
+  border-width: 42px 14px 22px 8px !important;
+  border-image: url("assets/window.png") 42 14 22 70 fill / 42px 14px 22px 70px stretch !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  outline: none !important;
+  color: var(--wb-text) !important;
+  image-rendering: pixelated;
+}
+
+/* Onigiri's panels and the card stay in the flow; our own windows (.wb-win)
+   are placed by each page, so they get no !important position here. */
+html:not(#wb-a):not(#wb-b) .shima-island,
+html:not(#wb-a):not(#wb-b) .stats-container,
+html:not(#wb-a):not(#wb-b) #qa {
+  position: relative !important;
+}
+.wb-win {
+  position: relative;
+}
+
+/* Title text with the game's window icon, then minimise / maximise / close.
+   Each page sets the title text in its own stylesheet. */
+html:not(#wb-a):not(#wb-b) .wb-win > .wb-title,
+html:not(#wb-a):not(#wb-b) .shima-island::before,
+html:not(#wb-a):not(#wb-b) .stats-container::before,
+html:not(#wb-a):not(#wb-b) #qa::before {
+  position: absolute !important;
+  top: -34px !important;
+  left: 0 !important;
+  right: 72px !important;
+  width: auto !important;
+  height: 26px !important;
+  margin: 0 !important;
+  padding: 0 0 0 28px !important;
+  background: url("assets/win_icon.png") 4px 3px no-repeat !important;
+  border: 0 !important;
+  color: var(--wb-ink) !important;
+  font: 20px/26px var(--wb-pixel) !important;
+  text-align: left !important;
+  text-shadow: none !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  letter-spacing: 0 !important;
+  opacity: 1 !important;
+  filter: none !important;
+  transform: none !important;
+  z-index: 3 !important;
+  pointer-events: none !important;
+}
+html:not(#wb-a):not(#wb-b) .wb-win > .wb-buttons,
+html:not(#wb-a):not(#wb-b) .shima-island::after,
+html:not(#wb-a):not(#wb-b) .stats-container::after,
+html:not(#wb-a):not(#wb-b) #qa::after {
+  content: "" !important;
+  position: absolute !important;
+  top: -31px !important;
+  right: 3px !important;
+  left: auto !important;
+  bottom: auto !important;
+  width: 64px !important;
+  height: 20px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background:
+    url("assets/b_min.png") 0 0 no-repeat,
+    url("assets/b_max.png") 22px 0 no-repeat,
+    url("assets/b_close.png") 44px 0 no-repeat !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+  transform: none !important;
+  z-index: 3 !important;
+  pointer-events: none !important;
+}
+
+/* ── the game's BaseButton, normal / hovered / pressed ─────────────────── */
+
+html:not(#wb-a):not(#wb-b) .wb-btn {
+  border-style: solid;
+  border-width: 4px;
+  border-image: url("assets/btn.png") 4 fill / 4px round;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  color: var(--wb-ink);
+  font: 20px/1.2 var(--wb-pixel);
+  text-shadow: none;
+}
+html:not(#wb-a):not(#wb-b) .wb-btn:hover {
+  border-image-source: url("assets/btn_hover.png");
+}
+html:not(#wb-a):not(#wb-b) .wb-btn:active {
+  border-image-source: url("assets/btn_down.png");
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01s !important;
+    animation-iteration-count: 1 !important;
+    transition: none !important;
+  }
+}

@@ -1,0 +1,652 @@
+[
+{
+"id": 1726956824941,
+"def_fr": "beauté; belle personne; beau",
+"sent_fr": "Je n'ai jamais vu une telle <b>beauté</b> jusqu'à présent."
+},
+{
+"id": 1726956824942,
+"def_fr": "belle femme",
+"sent_fr": "belle femme"
+},
+{
+"id": 1726956824943,
+"def_fr": "beau (garçon) (ne s'emploie pas pour une femme)",
+"sent_fr": "La fille dit à son père : « Papa, tu es <b>beau</b>. »"
+},
+{
+"id": 1726956824944,
+"def_fr": "étrange; mystérieux; merveilleux",
+"sent_fr": "Elle a un charme <b>mystérieux</b>."
+},
+{
+"id": 1726956824945,
+"def_fr": "normal; ordinaire",
+"sent_fr": "Il avait des résultats <b>moyens</b> à l'école, mais il est maintenant devenu professeur."
+},
+{
+"id": 1726956824946,
+"def_fr": "normal; ordinaire",
+"sent_fr": "Les ramen de ce restaurant sont <b>ordinaires</b>."
+},
+{
+"id": 1726956824947,
+"def_fr": "frais; rafraîchissant; net",
+"sent_fr": "J'adore son sourire <b>frais</b> et chaleureux."
+},
+{
+"id": 1726956824948,
+"def_fr": "rafraîchi; soulagé; sentiment de légèreté",
+"sent_fr": "Le matin, après une douche, je me suis senti <b>revigoré</b>."
+},
+{
+"id": 1726956824949,
+"def_fr": "franc; ouvert; simple; léger",
+"sent_fr": "Ma grande sœur a un caractère <b>franc</b>."
+},
+{
+"id": 1726956824950,
+"def_fr": "sourire; avec un sourire",
+"sent_fr": "Quand on se croise, mon professeur me <b>sourit chaleureusement</b>."
+},
+{
+"id": 1726956824951,
+"def_fr": "en souriant; radieux",
+"sent_fr": "Elle est toujours <b>souriante</b>."
+},
+{
+"id": 1726956824952,
+"def_fr": "sourire en coin; ricaner",
+"sent_fr": "Il a toujours un <b>sourire en coin</b>, c'est dérangeant."
+},
+{
+"id": 1726956824953,
+"def_fr": "plein de vie; vif",
+"sent_fr": "Cette personne est toujours <b>pleine de vie</b>."
+},
+{
+"id": 1726956824954,
+"def_fr": "couramment",
+"sent_fr": "Elle parle cinq langues <b>couramment</b>."
+},
+{
+"id": 1726956824955,
+"def_fr": "surface",
+"sent_fr": "La <b>surface</b> de ce fruit est dure, mais l'intérieur est tendre."
+},
+{
+"id": 1726956824956,
+"def_fr": "magnifique; splendide; imposant; digne",
+"sent_fr": "Il y a une <b>magnifique</b> table dans le salon."
+},
+{
+"id": 1726956824957,
+"def_fr": "digne d'éloges; remarquable; respectable",
+"sent_fr": "Il est devenu un <b>éminent</b> universitaire."
+},
+{
+"id": 1726956824958,
+"def_fr": "se remarquer; se faire remarquer",
+"sent_fr": "Ses vêtements sont voyants, donc elle <b>se fait remarquer</b>."
+},
+{
+"id": 1726956824959,
+"def_fr": "étincelant; scintillant",
+"sent_fr": "Ce diamant est petit, mais il <b>scintille</b>."
+},
+{
+"id": 1726956824960,
+"def_fr": "brillant; étincelant",
+"sent_fr": "Le sapin de Noël <b>brille</b> de mille feux."
+},
+{
+"id": 1726956824961,
+"def_fr": "différer; être différent",
+"sent_fr": "A et B se ressemblent, mais ils <b>diffèrent</b> subtilement."
+},
+{
+"id": 1726956824962,
+"def_fr": "vaguement; faiblement; de façon floue",
+"sent_fr": "On voit <b>vaguement</b> une montagne au loin."
+},
+{
+"id": 1726956824963,
+"def_fr": "de grande taille; gros modèle",
+"sent_fr": "Demain, un <b>gros</b> typhon pourrait arriver."
+},
+{
+"id": 1726956824964,
+"def_fr": "longue période de congés (surtout la Golden Week, fin avril et début mai)",
+"sent_fr": "longue période de congés"
+},
+{
+"id": 1726956824965,
+"def_fr": "autocar; grand bus",
+"sent_fr": "grand bus"
+},
+{
+"id": 1726956824966,
+"def_fr": "de petite taille; petit modèle",
+"sent_fr": "petit modèle"
+},
+{
+"id": 1726956824967,
+"def_fr": "en assez grande quantité; un peu plus",
+"sent_fr": "J'aime le café avec <b>pas mal</b> de lait."
+},
+{
+"id": 1726956824968,
+"def_fr": "en assez grande quantité; un peu plus",
+"sent_fr": "Les hamburgers de ce restaurant ont <b>pas mal</b> de légumes."
+},
+{
+"id": 1726956824969,
+"def_fr": "en plus petite quantité; un peu moins",
+"sent_fr": "en petite quantité"
+},
+{
+"id": 1726956824970,
+"def_fr": "un peu grand; plutôt grand",
+"sent_fr": "J'achète à l'enfant des vêtements un peu <b>grands</b>."
+},
+{
+"id": 1726956824971,
+"def_fr": "un peu grand; plutôt grand",
+"sent_fr": "Les vestes <b>plus amples</b> sont plus faciles à porter."
+},
+{
+"id": 1726956824972,
+"def_fr": "un peu petit; plutôt petit",
+"sent_fr": "un peu petit"
+},
+{
+"id": 1726956824973,
+"def_fr": "plus épais; assez large",
+"sent_fr": "Cet été, je voudrais un pantalon assez <b>large</b>."
+},
+{
+"id": 1726956824974,
+"def_fr": "<div>un peu rond; assez gros<br></div>",
+"sent_fr": "Les ramen d'ici sont plutôt <b>épais</b>."
+},
+{
+"id": 1726956824975,
+"def_fr": "plus fin; assez mince",
+"sent_fr": "assez fin"
+},
+{
+"id": 1726956824976,
+"def_fr": "parfait",
+"sent_fr": "Ce petit-déjeuner a un équilibre nutritionnel <b>parfait</b>."
+},
+{
+"id": 1726956824977,
+"def_fr": "abondamment; plein",
+"sent_fr": "Je mets <b>beaucoup</b> de lait et de sucre dans mon thé."
+},
+{
+"id": 1726956824978,
+"def_fr": "un peu; plus ou moins",
+"sent_fr": "Ce produit est <b>légèrement</b> différent de l'échantillon."
+},
+{
+"id": 1726956824979,
+"def_fr": "(pas) à ce point",
+"sent_fr": "Tout le monde dit qu'il est bizarre, mais ce n'est <b>pas à ce point</b>."
+},
+{
+"id": 1726956824980,
+"def_fr": "tellement; si; comme ça",
+"sent_fr": "pas tant que ça"
+},
+{
+"id": 1726956824981,
+"def_fr": "rétrécir",
+"sent_fr": "Ce T-shirt <b>rétrécit</b> chaque fois que je le lave à la machine."
+},
+{
+"id": 1726956824982,
+"def_fr": "époque moderne; ère actuelle",
+"sent_fr": "La société <b>actuelle</b> a de nombreux problèmes."
+},
+{
+"id": 1726956824983,
+"def_fr": "moderne; contemporain<div>現代の生活に関係あるさま。<br></div>",
+"sent_fr": "moderne"
+},
+{
+"id": 1726956824984,
+"def_fr": "homme moderne; gens d'aujourd'hui",
+"sent_fr": "gens d'aujourd'hui"
+},
+{
+"id": 1726956824985,
+"def_fr": "réalité",
+"sent_fr": "La <b>réalité</b> est dure, mais continuons d'avancer."
+},
+{
+"id": 1726956824986,
+"def_fr": "<div>réaliste; pragmatique<br></div>考え方などが現実に即しているさま。",
+"sent_fr": "réaliste"
+},
+{
+"id": 1726956824987,
+"def_fr": "idéal",
+"sent_fr": "Je suis parfois tiraillé entre mes <b>idéaux</b> et la réalité."
+},
+{
+"id": 1726956824988,
+"def_fr": "idéal<div>理想にあてはまっているさま。<br></div>",
+"sent_fr": "idéal"
+},
+{
+"id": 1726956824989,
+"def_fr": "grand; admirable; remarquable",
+"sent_fr": "La société a besoin d'un <b>grand</b> dirigeant."
+},
+{
+"id": 1726956824990,
+"def_fr": "bien sûr; naturellement",
+"sent_fr": "Il est <b>tout naturel</b> que les enfants respectent leurs parents."
+},
+{
+"id": 1726956824991,
+"def_fr": "bien sûr; naturellement",
+"sent_fr": "Le résultat du match d'aujourd'hui est <b>logique</b>."
+},
+{
+"id": 1726956824992,
+"def_fr": "évident; normal; qui va de soi",
+"sent_fr": "Aider quelqu'un en difficulté est <b>tout à fait normal</b>."
+},
+{
+"id": 1726956824993,
+"def_fr": "riche; fortuné",
+"sent_fr": "Quand j'étais enfant, je voulais devenir <b>riche</b>."
+},
+{
+"id": 1726956824994,
+"def_fr": "pauvre; qui manque d'argent ou de choses",
+"sent_fr": "Il était <b>pauvre</b>, mais il a travaillé dur et est devenu président d'une entreprise."
+},
+{
+"id": 1726956824995,
+"def_fr": "pauvre; sans valeur (contenu)",
+"sent_fr": "Ses idées sont <b>pauvres</b>."
+},
+{
+"id": 1726956824996,
+"def_fr": "pauvreté; personne pauvre",
+"sent_fr": "Il paraît que mon grand-père était <b>pauvre</b> quand il était enfant."
+},
+{
+"id": 1726956824997,
+"def_fr": "développement; essor",
+"sent_fr": "Je veux être utile au <b>développement</b> de la société."
+},
+{
+"id": 1726956824998,
+"def_fr": "progrès",
+"sent_fr": "La technologie <b>progresse</b> sans cesse."
+},
+{
+"id": 1726956824999,
+"def_fr": "fort; puissant",
+"sent_fr": "Pour l'avenir, on pousse <b>fortement</b> le développement."
+},
+{
+"id": 1726956825000,
+"def_fr": "puissance; énergie",
+"sent_fr": "La <b>force</b> des jeunes construira la société de demain."
+},
+{
+"id": 1726956825001,
+"def_fr": "déborder; être plein de",
+"sent_fr": "La rivière <b>a débordé</b> à cause de la forte pluie."
+},
+{
+"id": 1726956825002,
+"def_fr": "déborder; regorger de",
+"sent_fr": "Aux heures de pointe, les gens <b>débordent</b> sur le quai."
+},
+{
+"id": 1726956825003,
+"def_fr": "s'effondrer; s'écrouler; s'affaisser",
+"sent_fr": "La montagne <b>s'est effondrée</b> à cause de la forte pluie."
+},
+{
+"id": 1726956825004,
+"def_fr": "s'effondrer; se désagréger",
+"sent_fr": "Les règles de la société <b>sont en train de s'effondrer</b>."
+},
+{
+"id": 1726956825005,
+"def_fr": "démolir; détruire; briser",
+"sent_fr": "(～を) démolir"
+},
+{
+"id": 1726956825006,
+"def_fr": "s'écouler (temps); passer",
+"sent_fr": "Quel que soit le nombre d'années qui <b>s'écoulent</b>, il ne faut pas oublier cet accident."
+},
+{
+"id": 1726956825007,
+"def_fr": "environ; avant et après",
+"sent_fr": "Nous avons fait un sondage auprès de jeunes d'<b>environ</b> vingt ans."
+},
+{
+"id": 1726956825008,
+"def_fr": "prospère; florissant; populaire",
+"sent_fr": "Dans cette ville, les fêtes sont encore <b>très vivantes</b>."
+},
+{
+"id": 1726956825009,
+"def_fr": "industrie",
+"sent_fr": "Le Japon a besoin de nouvelles <b>industries</b>."
+},
+{
+"id": 1726956825010,
+"def_fr": "industrie manufacturière",
+"sent_fr": "Dans ma ville natale, l'<b>industrie</b> est florissante."
+},
+{
+"id": 1726956825011,
+"def_fr": "commerce",
+"sent_fr": "Cette région est une ville de <b>commerce</b>."
+},
+{
+"id": 1726956825012,
+"def_fr": "commerce; affaires; négoce",
+"sent_fr": "faire du commerce"
+},
+{
+"id": 1726956825013,
+"def_fr": "agriculture; exploitation agricole",
+"sent_fr": "Je voudrais me lancer dans l'<b>agriculture</b> à la campagne."
+},
+{
+"id": 1726956825014,
+"def_fr": "parler; raconter",
+"sent_fr": "L'homme politique <b>a parlé</b> de paix."
+},
+{
+"id": 1726956825015,
+"def_fr": "résolution; élimination; annulation",
+"sent_fr": "Il est difficile de <b>résoudre</b> les différends entre pays."
+},
+{
+"id": 1726956825016,
+"def_fr": "soulagement du stress; évacuation du stress",
+"sent_fr": "se défouler"
+},
+{
+"id": 1726956825017,
+"def_fr": "chacun; respectivement",
+"sent_fr": "Chaque pays a sa culture <b>propre</b>."
+},
+{
+"id": 1726956825018,
+"def_fr": "chacun; respectivement",
+"sent_fr": "Chaque personne a <b>sa propre</b> façon de penser."
+},
+{
+"id": 1726956825019,
+"def_fr": "un côté; l'un des deux côtés",
+"sent_fr": "Il est important d'écouter les opinions des deux parties et pas seulement d'<b>un côté</b>."
+},
+{
+"id": 1726956825020,
+"def_fr": "les deux; les deux parties",
+"sent_fr": "les deux côtés"
+},
+{
+"id": 1726956825021,
+"def_fr": "entourer",
+"sent_fr": "Le pays A <b>est entouré</b> par trois pays."
+},
+{
+"id": 1726956825022,
+"def_fr": "à la place de; en contrepartie de",
+"sent_fr": "<b>En contrepartie</b> de l'exportation de voitures, nous importons du pétrole et de la farine."
+},
+{
+"id": 1726956825023,
+"def_fr": "amitié; relations amicales",
+"sent_fr": "L'<b>amitié</b> avec les pays voisins est particulièrement importante."
+},
+{
+"id": 1726956825024,
+"def_fr": "relations amicales; amitié (avec, entre)",
+"sent_fr": "relations amicales"
+},
+{
+"id": 1726956825025,
+"def_fr": "pays ami",
+"sent_fr": "pays ami"
+},
+{
+"id": 1726956825026,
+"def_fr": "attente; espoir",
+"sent_fr": "J'ai de grandes <b>attentes</b> pour les futures relations amicales entre les deux pays."
+},
+{
+"id": 1726956825027,
+"def_fr": "distinction; différenciation",
+"sent_fr": "Faisons la <b>distinction</b> entre les problèmes du pays et les problèmes personnels."
+},
+{
+"id": 1726956825028,
+"def_fr": "discrimination",
+"sent_fr": "Je veux une société sans <b>discrimination</b>."
+},
+{
+"id": 1726956825029,
+"def_fr": "limite",
+"sent_fr": "La patience du pays A envers le pays B a dépassé la <b>limite</b>."
+},
+{
+"id": 1726956825030,
+"def_fr": "se faire comprendre; passer (message); être compris",
+"sent_fr": "C'est très gênant de ne pas <b>se faire comprendre</b> à l'étranger."
+},
+{
+"id": 1726956825031,
+"def_fr": "geste; gestuelle",
+"sent_fr": "Quand les mots ne passent pas, on se fait comprendre avec des <b>gestes</b>."
+},
+{
+"id": 1726956825032,
+"def_fr": "capitale",
+"sent_fr": "Une grande conférence se tiendra dans la <b>capitale</b> de la Suisse."
+},
+{
+"id": 1726956825033,
+"def_fr": "favorable; qui se passe bien; sans accroc",
+"sent_fr": "Les discussions entre les trois pays semblent se dérouler <b>sans accroc</b>."
+},
+{
+"id": 1726956825034,
+"def_fr": "objet; cible; sujet",
+"sent_fr": "Nous avons fait une interview <b>avec</b> le premier ministre du pays voisin pour <b>cible</b>."
+},
+{
+"id": 1726956825035,
+"def_fr": "objet d'intérêt amoureux",
+"sent_fr": "objet d'intérêt amoureux"
+},
+{
+"id": 1726956825036,
+"def_fr": "notification; avis",
+"sent_fr": "Le pays A a <b>notifié</b> son projet de visite au Japon l'année prochaine."
+},
+{
+"id": 1726956825037,
+"def_fr": "attitude; comportement",
+"sent_fr": "Je change mon <b>attitude</b> selon l'<b>attitude</b> de mon interlocuteur."
+},
+{
+"id": 1726956825038,
+"def_fr": "chercher; demander; exiger",
+"sent_fr": "Nous devrions réfléchir à ce que les personnes pauvres <b>recherchent</b>."
+},
+{
+"id": 1726956825039,
+"def_fr": "conclusion",
+"sent_fr": "Il paraît que la <b>conclusion</b> des discussions sera connue demain."
+},
+{
+"id": 1726956825040,
+"def_fr": "retourner; mettre sens dessus dessous",
+"sent_fr": "Quand on fait cuire un steak, on le <b>retourne</b> en cours de cuisson."
+},
+{
+"id": 1726956825041,
+"def_fr": "renverser (p. ex. une décision); retourner; revenir sur",
+"sent_fr": "La conclusion d'hier <b>a déjà été renversée</b>."
+},
+{
+"id": 1726956825042,
+"def_fr": "être retourné; se renverser",
+"sent_fr": "(～が) se retourner"
+},
+{
+"id": 1726956825043,
+"def_fr": "s'étendre; s'élargir",
+"sent_fr": "Mes possibilités <b>se sont élargies</b> grâce à mes études à l'étranger."
+},
+{
+"id": 1726956825044,
+"def_fr": "étendre; élargir",
+"sent_fr": "Je veux <b>élargir</b> activement mon propre monde."
+},
+{
+"id": 1726956825045,
+"def_fr": "activité",
+"sent_fr": "On change le monde à partir de petites <b>activités</b>."
+},
+{
+"id": 1726956825046,
+"def_fr": "actif; dynamique",
+"sent_fr": "actif"
+},
+{
+"id": 1726956825047,
+"def_fr": "recherche d'emploi",
+"sent_fr": "recherche d'emploi"
+},
+{
+"id": 1726956825048,
+"def_fr": "activités de club",
+"sent_fr": "activités de club"
+},
+{
+"id": 1726956825049,
+"def_fr": "bénévole; volontaire",
+"sent_fr": "Je veux participer à du <b>bénévolat</b> et progresser."
+},
+{
+"id": 1726956825050,
+"def_fr": "faire du bénévolat",
+"sent_fr": "activités bénévoles"
+},
+{
+"id": 1726956825051,
+"def_fr": "pôle Nord",
+"sent_fr": "pôle Nord"
+},
+{
+"id": 1726956825052,
+"def_fr": "pôle Sud",
+"sent_fr": "pôle Sud"
+},
+{
+"id": 1726956825053,
+"def_fr": "hémisphère nord",
+"sent_fr": "hémisphère nord"
+},
+{
+"id": 1726956825054,
+"def_fr": "hémisphère sud",
+"sent_fr": "hémisphère sud"
+},
+{
+"id": 1726956825055,
+"def_fr": "équateur",
+"sent_fr": "équateur"
+},
+{
+"id": 1726956825056,
+"def_fr": "Afrique du Nord",
+"sent_fr": "Afrique du Nord"
+},
+{
+"id": 1726956825057,
+"def_fr": "Afrique centrale",
+"sent_fr": "Afrique centrale"
+},
+{
+"id": 1726956825058,
+"def_fr": "Afrique australe; Afrique du Sud",
+"sent_fr": "Afrique australe"
+},
+{
+"id": 1726956825059,
+"def_fr": "Océanie",
+"sent_fr": "Océanie"
+},
+{
+"id": 1726956825060,
+"def_fr": "Amérique du Nord",
+"sent_fr": "Amérique du Nord"
+},
+{
+"id": 1726956825061,
+"def_fr": "Amérique du Sud",
+"sent_fr": "Amérique du Sud"
+},
+{
+"id": 1726956825062,
+"def_fr": "Asie du Sud-Est",
+"sent_fr": "Asie du Sud-Est"
+},
+{
+"id": 1726956825063,
+"def_fr": "Asie de l'Est",
+"sent_fr": "Asie de l'Est"
+},
+{
+"id": 1726956825064,
+"def_fr": "Asie centrale",
+"sent_fr": "Asie centrale"
+},
+{
+"id": 1726956825065,
+"def_fr": "Asie du Sud",
+"sent_fr": "Asie du Sud"
+},
+{
+"id": 1726956825066,
+"def_fr": "Moyen-Orient",
+"sent_fr": "Moyen-Orient"
+},
+{
+"id": 1726956825067,
+"def_fr": "Amérique latine; Amérique centrale et du Sud",
+"sent_fr": "Amérique centrale et du Sud"
+},
+{
+"id": 1726956825068,
+"def_fr": "Europe du Nord",
+"sent_fr": "Europe du Nord"
+},
+{
+"id": 1726956825069,
+"def_fr": "Europe de l'Est",
+"sent_fr": "Europe de l'Est"
+},
+{
+"id": 1726956825070,
+"def_fr": "Europe de l'Ouest",
+"sent_fr": "Europe de l'Ouest"
+}
+]

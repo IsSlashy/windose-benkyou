@@ -1,0 +1,652 @@
+[
+{
+"id": 1726956824426,
+"def_fr": "imagination (action d'imaginer)",
+"sent_fr": "Je n'arrive pas à <b>imaginer</b> que ce lieu était autrefois la mer."
+},
+{
+"id": 1726956824427,
+"def_fr": "(pouvoir d')imagination",
+"sent_fr": "imagination"
+},
+{
+"id": 1726956824428,
+"def_fr": "lever les yeux; regarder en haut",
+"sent_fr": "Quand j'ai <b>levé les yeux</b> vers le ciel, il y avait plein d'étoiles."
+},
+{
+"id": 1726956824429,
+"def_fr": "regarder d'en haut; baisser les yeux vers",
+"sent_fr": "Je <b>regarde</b> la ville <b>d'en haut</b>, depuis le sommet de la montagne."
+},
+{
+"id": 1726956824430,
+"def_fr": "hurler; aboyer",
+"sent_fr": "La nuit, j'ai entendu un animal <b>hurler</b>."
+},
+{
+"id": 1726956824431,
+"def_fr": "queue (d'animal)",
+"sent_fr": "Notre chat a une longue <b>queue</b>."
+},
+{
+"id": 1726956824432,
+"def_fr": "queue (animal, cerf-volant, comète, etc.)<br>",
+"sent_fr": "queue"
+},
+{
+"id": 1726956824433,
+"def_fr": "rouiller; se couvrir de rouille",
+"sent_fr": "Depuis que j'ai déménagé près de la mer, ma voiture a <b>rouillé</b>."
+},
+{
+"id": 1726956824434,
+"def_fr": "prévision; attente",
+"sent_fr": "Je <b>prévois</b> de la pluie pour demain."
+},
+{
+"id": 1726956824435,
+"def_fr": "prévisions (météo); bulletin",
+"sent_fr": "Les <b>prévisions</b> pour demain annoncent de fortes pluies."
+},
+{
+"id": 1726956824436,
+"def_fr": "prévisions météo",
+"sent_fr": "prévisions météo"
+},
+{
+"id": 1726956824437,
+"def_fr": "taux d'humidité",
+"sent_fr": "Il semble qu'il va faire très <b>humide</b> aujourd'hui."
+},
+{
+"id": 1726956824438,
+"def_fr": "humidité; moiteur",
+"sent_fr": "En été, il y a beaucoup d'<b>humidité</b> au Japon."
+},
+{
+"id": 1726956824439,
+"def_fr": "devenir humide; s'humidifier<br>",
+"sent_fr": "devenir humide"
+},
+{
+"id": 1726956824440,
+"def_fr": "être nuageux; être couvert",
+"sent_fr": "Le ciel est <b>couvert</b> pour l'instant, mais il va vite s'éclaircir."
+},
+{
+"id": 1726956824441,
+"def_fr": "<div>temps nuageux (météo)<br></div>曇っている△こと（状態）。",
+"sent_fr": "temps nuageux"
+},
+{
+"id": 1726956824442,
+"def_fr": "tempête; orage",
+"sent_fr": "On dirait qu'une <b>tempête</b> approche, rentrons tôt à la maison."
+},
+{
+"id": 1726956824443,
+"def_fr": "vent violent; grand vent",
+"sent_fr": "L'arbre est tombé à cause du <b>vent violent</b>."
+},
+{
+"id": 1726956824444,
+"def_fr": "forte pluie; pluie battante",
+"sent_fr": "Hier, je n'ai pas pu sortir à cause de la <b>forte pluie</b>."
+},
+{
+"id": 1726956824445,
+"def_fr": "pluie fine; bruine<br><div>たいした雨量にならない、細かに降る雨。<br></div>",
+"sent_fr": "bruine"
+},
+{
+"id": 1726956824446,
+"def_fr": "parapluie pliant",
+"sent_fr": "Je mets un <b>parapluie pliant</b> dans mon sac et je sors."
+},
+{
+"id": 1726956824447,
+"def_fr": "ouvrir (un parapluie); tenir (un parapluie)",
+"sent_fr": "Sous la pluie, certaines personnes n'ont pas leur parapluie <b>ouvert</b>."
+},
+{
+"id": 1726956824448,
+"def_fr": "averse; ondée",
+"sent_fr": "Il va sans doute y avoir une <b>averse</b>, alors j'emporte un parapluie."
+},
+{
+"id": 1726956824449,
+"def_fr": "soudainement; tout à coup",
+"sent_fr": "Le ciel s'est assombri <b>soudainement</b>."
+},
+{
+"id": 1726956824450,
+"def_fr": "dès que; à l'instant où",
+"sent_fr": "Dès que je suis rentré chez moi, <b>il s'est mis</b> à pleuvoir."
+},
+{
+"id": 1726956824451,
+"def_fr": "être mouillé; se faire mouiller",
+"sent_fr": "Je n'avais pas de parapluie et je me suis <b>fait mouiller</b> par la pluie."
+},
+{
+"id": 1726956824452,
+"def_fr": "mouiller; humidifier<br><div>濡れるようにする。<br></div>",
+"sent_fr": "(～を) mouiller"
+},
+{
+"id": 1726956824453,
+"def_fr": "en un clin d'œil",
+"sent_fr": "La pluie est devenue plus forte <b>en un clin d'œil</b>."
+},
+{
+"id": 1726956824454,
+"def_fr": "cesser; s'arrêter (pluie, vent, etc.)",
+"sent_fr": "Ce n'est qu'une averse, donc elle va <b>s'arrêter</b> bientôt."
+},
+{
+"id": 1726956824455,
+"def_fr": "par endroits; çà et là",
+"sent_fr": "La neige tombée hier est encore là <b>par endroits</b>."
+},
+{
+"id": 1726956824456,
+"def_fr": "s'accumuler; s'amonceler",
+"sent_fr": "La neige <b>s'est accumulée</b>, alors marchons avec prudence."
+},
+{
+"id": 1726956824457,
+"def_fr": "temps parfaitement dégagé; ciel sans nuage",
+"sent_fr": "Aujourd'hui, le temps est <b>parfaitement dégagé</b>, il n'y a pas un seul nuage."
+},
+{
+"id": 1726956824458,
+"def_fr": "briller; rayonner",
+"sent_fr": "Ce soir, la lune <b>brille</b>."
+},
+{
+"id": 1726956824459,
+"def_fr": "éblouissant; trop lumineux",
+"sent_fr": "Le temps s'est soudain amélioré et le soleil est <b>éblouissant</b>."
+},
+{
+"id": 1726956824460,
+"def_fr": "ensuite; après",
+"sent_fr": "Il paraît que demain, il pleuvra d'abord, <b>puis</b> le temps se dégagera."
+},
+{
+"id": 1726956824461,
+"def_fr": "tomber juste; être exact; se vérifier",
+"sent_fr": "Les prévisions météo de cette émission <b>se vérifient</b> souvent."
+},
+{
+"id": 1726956824462,
+"def_fr": "se détacher; se défaire; se déconnecter<div>sortir de sa place<br></div><div>はまり込んでいたり，ついていたりした物が，そこから 離[はな]れる。<br></div>",
+"sent_fr": "La bague <b>se détache</b>."
+},
+{
+"id": 1726956824463,
+"def_fr": "ville natale; pays natal",
+"sent_fr": "Dans ma <b>ville natale</b>, il neige beaucoup."
+},
+{
+"id": 1726956824464,
+"def_fr": "étouffant (chaud et humide); lourd",
+"sent_fr": "Aujourd'hui, l'humidité est élevée et il fait <b>lourd</b>."
+},
+{
+"id": 1726956824465,
+"def_fr": "thermomètre",
+"sent_fr": "Ce <b>thermomètre</b> peut aussi mesurer l'humidité."
+},
+{
+"id": 1726956824466,
+"def_fr": "hygromètre<br>",
+"sent_fr": "hygromètre"
+},
+{
+"id": 1726956824467,
+"def_fr": "plus; en plus; supérieur",
+"sent_fr": "D'après ce qu'on dit, la température de demain sera de <b>plus</b> trois degrés par rapport à aujourd'hui."
+},
+{
+"id": 1726956824468,
+"def_fr": "moins; en moins; inférieur; retirer",
+"sent_fr": "Par rapport à hier, la température d'aujourd'hui était de <b>moins</b> dix degrés."
+},
+{
+"id": 1726956824469,
+"def_fr": "<div>moins; négatif (quantité); soustraction; retrait<br></div>",
+"sent_fr": "La température de demain matin sera probablement <b>négative</b>."
+},
+{
+"id": 1726956824470,
+"def_fr": "geler; être gelé",
+"sent_fr": "La route est <b>gelée</b> et très dangereuse."
+},
+{
+"id": 1726956824471,
+"def_fr": "glace",
+"sent_fr": "En été, je prépare de la <b>glace</b> au congélateur."
+},
+{
+"id": 1726956824472,
+"def_fr": "se rafraîchir; refroidir",
+"sent_fr": "Selon les prévisions météo, il va <b>faire plus frais</b> à partir de la fin d'après-midi."
+},
+{
+"id": 1726956824473,
+"def_fr": "assez; plutôt",
+"sent_fr": "Cette semaine, les jours <b>plutôt</b> froids se succèdent."
+},
+{
+"id": 1726956824474,
+"def_fr": "extrêmement; très",
+"sent_fr": "Cet été, il va probablement faire <b>extrêmement</b> chaud."
+},
+{
+"id": 1726956824475,
+"def_fr": "jour d'été (jour où le maximum dépasse 25 °C)",
+"sent_fr": "Aujourd'hui, c'est le premier <b>jour d'été</b> de l'année."
+},
+{
+"id": 1726956824476,
+"def_fr": "jour de plein été (jour où le maximum dépasse 30 °C)",
+"sent_fr": "Il paraît qu'il y aura beaucoup de <b>jours de plein été</b> cette année."
+},
+{
+"id": 1726956824477,
+"def_fr": "jour de canicule (jour où le maximum dépasse 35 °C)",
+"sent_fr": "Les <b>jours de canicule</b> se succèdent, alors je fais attention à ma santé."
+},
+{
+"id": 1726956824478,
+"def_fr": "jour d'hiver (jour où le minimum descend sous 0 °C)",
+"sent_fr": "Les <b>jours d'hiver</b>, il faut des gants et une écharpe."
+},
+{
+"id": 1726956824479,
+"def_fr": "jour de gel (jour où le maximum ne dépasse pas 0 °C)",
+"sent_fr": "À Tokyo, les <b>jours où il gèle toute la journée</b> sont très rares."
+},
+{
+"id": 1726956824480,
+"def_fr": "hiver doux",
+"sent_fr": "Cette année, l'<b>hiver est doux</b> et il y a peu de neige."
+},
+{
+"id": 1726956824481,
+"def_fr": "été frais; été froid",
+"sent_fr": "Quand l'<b>été est frais</b>, moins de gens vont à la mer."
+},
+{
+"id": 1726956824482,
+"def_fr": "exprès; en se donnant du mal; avec tant d'efforts",
+"sent_fr": "C'est <b>pourtant</b> un congé très attendu, mais le temps est mauvais et il fait froid."
+},
+{
+"id": 1726956824483,
+"def_fr": "état; situation",
+"sent_fr": "À cause des fortes pluies, cette rivière est dans un <b>état</b> dangereux."
+},
+{
+"id": 1726956824484,
+"def_fr": "état d'esprit; état psychologique",
+"sent_fr": "état psychologique"
+},
+{
+"id": 1726956824485,
+"def_fr": "situation économique",
+"sent_fr": "situation économique"
+},
+{
+"id": 1726956824486,
+"def_fr": "changement",
+"sent_fr": "En voyage, je fais très attention aux <b>changements</b> de temps."
+},
+{
+"id": 1726956824487,
+"def_fr": "fixe; constant",
+"sent_fr": "Ces derniers temps, la température est <b>constante</b>."
+},
+{
+"id": 1726956824488,
+"def_fr": "observation; fait d'observer",
+"sent_fr": "Mon petit frère <b>observe</b> la forme des nuages."
+},
+{
+"id": 1726956824489,
+"def_fr": "progressivement; peu à peu",
+"sent_fr": "Il paraît que le temps va <b>se dégrader peu à peu</b> à partir de ce soir."
+},
+{
+"id": 1726956824490,
+"def_fr": "peu à peu; graduellement",
+"sent_fr": "Depuis ce matin, la température <b>monte peu à peu</b>."
+},
+{
+"id": 1726956824491,
+"def_fr": "de plus en plus; peu à peu",
+"sent_fr": "Le ciel <b>s'assombrit de plus en plus</b>."
+},
+{
+"id": 1726956824492,
+"def_fr": "de plus en plus",
+"sent_fr": "Depuis le début de cette semaine, il fait <b>de plus en plus</b> chaud."
+},
+{
+"id": 1726956824493,
+"def_fr": "complètement; tout à fait",
+"sent_fr": "Ces derniers temps, il y a beaucoup de jours chauds. C'est <b>complètement</b> le printemps."
+},
+{
+"id": 1726956824494,
+"def_fr": "d'un coup; tout d'un coup",
+"sent_fr": "Dès que décembre est arrivé, il a fait froid <b>d'un coup</b>."
+},
+{
+"id": 1726956824495,
+"def_fr": "en une seule fois; d'un coup",
+"sent_fr": "Aujourd'hui, c'était comme si l'été et l'hiver étaient arrivés <b>en même temps</b>."
+},
+{
+"id": 1726956824496,
+"def_fr": "en une fois; tous ensemble; en même temps",
+"sent_fr": "Deux typhons sont arrivés <b>en même temps</b>."
+},
+{
+"id": 1726956824497,
+"def_fr": "sans qu'on s'en aperçoive; avant même de s'en rendre compte",
+"sent_fr": "La neige avait cessé <b>sans que je m'en aperçoive</b>."
+},
+{
+"id": 1726956824498,
+"def_fr": "réchauffement; réchauffement climatique",
+"sent_fr": "Le <b>réchauffement</b> climatique semble progresser dans le monde entier."
+},
+{
+"id": 1726956824499,
+"def_fr": "influence; effet",
+"sent_fr": "Le réchauffement climatique a des <b>effets</b> variés."
+},
+{
+"id": 1726956824500,
+"def_fr": "étrange; bizarre",
+"sent_fr": "Depuis un moment, nous avons un temps <b>bizarre</b> en continu."
+},
+{
+"id": 1726956824501,
+"def_fr": "jour férié",
+"sent_fr": "Je vérifie les <b>jours fériés</b> japonais sur le calendrier."
+},
+{
+"id": 1726956824502,
+"def_fr": "jour férié national<br><div>「国民の祝日」の通称。<br></div>",
+"sent_fr": "jour férié"
+},
+{
+"id": 1726956824503,
+"def_fr": "fêtes de fin d'année et du Nouvel An; période allant de la fin de l'ancienne année au début de la nouvelle",
+"sent_fr": "Beaucoup de gens voyagent à l'étranger pendant les <b>fêtes de fin d'année</b>."
+},
+{
+"id": 1726956824504,
+"def_fr": "jour de l'An",
+"sent_fr": "Le <b>jour de l'An</b>, je suis allé au sanctuaire avec des amis."
+},
+{
+"id": 1726956824505,
+"def_fr": "matin du jour de l'An<br><div>元日の朝。元朝。<br></div>",
+"sent_fr": "matin du jour de l'An"
+},
+{
+"id": 1726956824506,
+"def_fr": "accueillir; recevoir",
+"sent_fr": "L'année prochaine, je voudrais <b>accueillir</b> la nouvelle année au sommet du mont Fuji."
+},
+{
+"id": 1726956824507,
+"def_fr": "carte de vœux du Nouvel An",
+"sent_fr": "J'attends avec impatience de recevoir les <b>cartes de vœux</b>."
+},
+{
+"id": 1726956824508,
+"def_fr": "étrennes (argent donné aux enfants pour le Nouvel An)",
+"sent_fr": "Depuis que je travaille, je donne des <b>étrennes</b> à mes parents."
+},
+{
+"id": 1726956824509,
+"def_fr": "Jour de la majorité (deuxième lundi de janvier)",
+"sent_fr": "Le <b>Jour de la majorité</b>, des jeunes de vingt ans se sont réunis dans la salle."
+},
+{
+"id": 1726956824510,
+"def_fr": "cérémonie de la majorité<br><div>成人の日などに、国または地方自治体、企業などが中心になって行なう新成人のための祝典。<br></div>",
+"sent_fr": "cérémonie de la majorité"
+},
+{
+"id": 1726956824511,
+"def_fr": "Fête des filles (3 mars)",
+"sent_fr": "La <b>Fête des filles</b> est une célébration pour les petites filles."
+},
+{
+"id": 1726956824512,
+"def_fr": "poupée exposée pour la Fête des filles<br>雛祭りに飾る人形。",
+"sent_fr": "poupées de la Fête des filles"
+},
+{
+"id": 1726956824513,
+"def_fr": "Golden Week",
+"sent_fr": "De la fin avril au début mai, il y a une série de jours fériés appelée <b>Golden Week</b>."
+},
+{
+"id": 1726956824514,
+"def_fr": "Jour des enfants (5 mai)",
+"sent_fr": "Le <b>Jour des enfants</b>, nous avons l'intention d'aller en famille au parc d'attractions."
+},
+{
+"id": 1726956824515,
+"def_fr": "Fête des mères (deuxième dimanche de mai)",
+"sent_fr": "Cette année, pour la <b>Fête des mères</b>, j'ai offert un foulard à ma mère."
+},
+{
+"id": 1726956824516,
+"def_fr": "Fête des pères (troisième dimanche de juin)",
+"sent_fr": "Pour la <b>Fête des pères</b>, j'ai pris l'habitude d'offrir une cravate à mon père."
+},
+{
+"id": 1726956824517,
+"def_fr": "Jour de la mer (troisième lundi de juillet)",
+"sent_fr": "L'année dernière, le <b>Jour de la mer</b>, il a plu à verse dès le matin."
+},
+{
+"id": 1726956824518,
+"def_fr": "<div>Jour de la montagne<br></div>国民の祝日の一。8月11日。<br>",
+"sent_fr": "Jour de la montagne"
+},
+{
+"id": 1726956824519,
+"def_fr": "Jour du respect des aînés (troisième lundi de septembre)",
+"sent_fr": "Au grand magasin, j'ai cherché des cadeaux pour le <b>Jour du respect des aînés</b>."
+},
+{
+"id": 1726956824520,
+"def_fr": "Jour du sport (deuxième lundi d'octobre)",
+"sent_fr": "Le <b>Jour du sport</b>, des fêtes sportives ont lieu dans les écoles."
+},
+{
+"id": 1726956824521,
+"def_fr": "à l'origine; originellement",
+"sent_fr": "Le Jour du sport tombait <b>à l'origine</b> le 10 octobre."
+},
+{
+"id": 1726956824522,
+"def_fr": "fête de Shichi-Go-San (célébration des enfants de trois, cinq et sept ans, 15 novembre)",
+"sent_fr": "Pour fêter <b>Shichi-Go-San</b>, on va au sanctuaire prendre des photos souvenirs."
+},
+{
+"id": 1726956824523,
+"def_fr": "Saint-Sylvestre; veille du Nouvel An",
+"sent_fr": "Au Japon, il est de coutume de manger des soba à la <b>Saint-Sylvestre</b>."
+},
+{
+"id": 1726956824524,
+"def_fr": "<div>le plus grand; maximum<br></div>最も大きいこと。",
+"sent_fr": "le plus grand"
+},
+{
+"id": 1726956824525,
+"def_fr": "<div>le plus petit (en taille, degré, etc.)<br></div>最も小さいこと。",
+"sent_fr": "le plus petit"
+},
+{
+"id": 1726956824526,
+"def_fr": "<div>le plus nombreux; le plus grand nombre<br></div>最も多いこと。",
+"sent_fr": "le plus nombreux"
+},
+{
+"id": 1726956824527,
+"def_fr": "<div>le moins nombreux; le plus petit nombre<br></div>最も少ないこと。",
+"sent_fr": "le moins nombreux"
+},
+{
+"id": 1726956824528,
+"def_fr": "<div>le plus haut; maximum; record<br></div>高さが一番高いこと。",
+"sent_fr": "le plus haut"
+},
+{
+"id": 1726956824529,
+"def_fr": "<div>le plus bas; minimum; le pire (qualité)<br></div>最も低いこと。",
+"sent_fr": "le plus bas"
+},
+{
+"id": 1726956824530,
+"def_fr": "le meilleur<div>もっともよいこと。<br></div>",
+"sent_fr": "le meilleur"
+},
+{
+"id": 1726956824531,
+"def_fr": "le mieux possible; le meilleur choix<div>最もよいこと。<br></div>",
+"sent_fr": "le mieux possible"
+},
+{
+"id": 1726956824532,
+"def_fr": "le pire<div>もっとも悪い・こと（さま）。<br></div>",
+"sent_fr": "le pire"
+},
+{
+"id": 1726956824533,
+"def_fr": "<div>le plus récent; dernier cri<br></div>最も新しいこと。",
+"sent_fr": "le plus récent"
+},
+{
+"id": 1726956824534,
+"def_fr": "<div>marquant; impressionnant<br></div>強い印象を与えるさま。",
+"sent_fr": "marquant"
+},
+{
+"id": 1726956824535,
+"def_fr": "conscient; délibéré",
+"sent_fr": "conscient"
+},
+{
+"id": 1726956824536,
+"def_fr": "<div>planifié; prévu; systématique<br></div>あらかじめ計画を立てて物事を行うさま。",
+"sent_fr": "planifié"
+},
+{
+"id": 1726956824537,
+"def_fr": "personnel; individuel<br>",
+"sent_fr": "personnel"
+},
+{
+"id": 1726956824538,
+"def_fr": "<div>social<br></div>社会にかかわりがあるさま。社会性があるさま。",
+"sent_fr": "social"
+},
+{
+"id": 1726956824539,
+"def_fr": "à l'échelle nationale; national<div>国中に及ぶさま。<br></div>",
+"sent_fr": "à l'échelle nationale"
+},
+{
+"id": 1726956824540,
+"def_fr": "<div>courant; typique; général<br></div>広く全体を取り上げるさま。",
+"sent_fr": "général"
+},
+{
+"id": 1726956824541,
+"def_fr": "concret<br><div>実際に形や内容を備え，はっきり知ることができるさま。<br></div>",
+"sent_fr": "concret"
+},
+{
+"id": 1726956824542,
+"def_fr": "<div>réaliste; pragmatique<br></div>考え方などが現実に即しているさま。",
+"sent_fr": "réaliste"
+},
+{
+"id": 1726956824543,
+"def_fr": "<div>automatique<br></div>ひとりでに動くさま。",
+"sent_fr": "automatique"
+},
+{
+"id": 1726956824544,
+"def_fr": "<div>mondial; international<br></div>世界全体にかかわるさま。",
+"sent_fr": "mondial"
+},
+{
+"id": 1726956824545,
+"def_fr": "<div>idéal<br></div><div>理想にあてはまっているさま。</div>",
+"sent_fr": "idéal"
+},
+{
+"id": 1726956824546,
+"def_fr": "mondialisation; internationalisation<div>国際的な規模に広がること。<br></div>",
+"sent_fr": "internationalisation"
+},
+{
+"id": 1726956824547,
+"def_fr": "numérisation; passage au numérique<div>コンピューター処理を可能にするため，データを「0」「1」の組み合わせで扱うデジタル方式に変換すること。<br></div>",
+"sent_fr": "numérisation"
+},
+{
+"id": 1726956824548,
+"def_fr": "<div>baisse de la natalité<br></div><div>その△夫婦（社会）に子供の数が少ないこと。</div>",
+"sent_fr": "baisse de la natalité"
+},
+{
+"id": 1726956824549,
+"def_fr": "popularisation; généralisation",
+"sent_fr": "généralisation"
+},
+{
+"id": 1726956824550,
+"def_fr": "libéralisation<div>制約や制限をなくすこと。<br></div>",
+"sent_fr": "libéralisation"
+},
+{
+"id": 1726956824551,
+"def_fr": "se transmettre; se propager; être communiqué",
+"sent_fr": "Grâce à Internet, les nouvelles <b>se propagent</b> dans le monde entier."
+},
+{
+"id": 1726956824552,
+"def_fr": "transmettre; communiquer; rapporter<div>（情報や，人の言葉などを）他の人に知らせる。<br></div>",
+"sent_fr": "transmettre (qqch)"
+},
+{
+"id": 1726956824553,
+"def_fr": "rumeur",
+"sent_fr": "Les mauvaises <b>rumeurs</b> se répandent en un clin d'œil."
+},
+{
+"id": 1726956824554,
+"def_fr": "article",
+"sent_fr": "Dans le journal, je ne lis que les <b>articles</b> qui m'intéressent."
+},
+{
+"id": 1726956824555,
+"def_fr": "hebdomadaire; magazine hebdomadaire",
+"sent_fr": "Cet <b>hebdomadaire</b> est un magazine spécialisé en économie."
+}
+]
